@@ -1,0 +1,225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.751251,34.054554 ]
+    },
+    "type": "Feature",
+      "properties": {
+      "postal":91766,
+      "services_a":"RRH",
+      "city_1":"Pomona",
+      "agency":"City of Pomona",
+      "services_1":"Rapid Rehousing",
+      "street_add":"505 S. Garey Ave.",
+      "project_name":"CA1507 Pomona Operation Porchlight\nRapid Re-Housing",
+      "spa":3,
+      "sd":1,
+      "cd":"0",
+      "hmis_participating":"Yes",
+      "pit_count":9,
+      "total_beds":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.751251,34.054554 ]
+    },
+    "properties": {
+    "postal":91766,
+    "services_a":"RRH",
+    "city_1":"Pomona",
+    "agency":"City of Pomona",
+    "services_1":"Rapid Rehousing",
+    "street_add":"505 S. Garey Ave.",
+    "project_name":"Pomona Rapid Re-Housing Program\n(New)",
+    "spa":3,
+    "sd":1,
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit_count":5,
+    "total_beds":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"RRH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Rapid Rehousing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"CES RRH Youth SPA 3",
+    "spa":3,
+    "sd":5,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":10,
+    "total_beds":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.133491,34.158461 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"RRH",
+    "city_1":"Pasadena",
+    "agency":"Los Angeles County Department of Health\nServices (DHS)",
+    "services_1":"Rapid Rehousing",
+    "street_add":"825 Orange Grove Blvd.",
+    "project_name":"HJC USF",
+    "spa":3,
+    "sd":5,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":43,
+    "total_beds":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.028125,34.087946 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"RRH",
+    "city_1":"El Monte",
+    "agency":"Los Angeles County Development Authority\n(LACDA)",
+    "services_1":"Rapid Rehousing",
+    "street_add":"4501 Santa Anita Ave.",
+    "project_name":"Family Reunification Rapid Re-Housing\nSPA 3 VOA",
+    "spa":3,
+    "sd":1,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":51,
+    "total_beds":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.133491,34.158461 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"RRH",
+    "city_1":"Pasadena",
+    "agency":"Union Station Homeless Services",
+    "services_1":"Rapid Rehousing",
+    "street_add":"825 E. Orange Grove Blvd.",
+    "project_name":"USHS FSC Rapid Re-Housing",
+    "spa":3,
+    "sd":5,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":191,
+    "total_beds":191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.028125,34.087946 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"RRH",
+    "city_1":"El Monte",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Rapid Rehousing",
+    "street_add":"4501 Santa Anita Ave.",
+    "project_name":"CoC Rapid ReHousing All",
+    "spa":3,
+    "sd":1,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":71,
+    "total_beds":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.028125,34.087946 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"RRH",
+    "city_1":"El Monte",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Rapid Rehousing",
+    "street_add":"4501 Santa Anita Ave.",
+    "project_name":"CES RRH Individuals SPA 3",
+    "spa":3,
+    "sd":1,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":18,
+    "total_beds":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.028125,34.087946 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"RRH",
+    "city_1":"El Monte",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Rapid Rehousing",
+    "street_add":"4501 Santa Anita Ave.",
+    "project_name":"CDC Bringing Families Home SPA 3",
+    "spa":3,
+    "sd":1,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":46,
+    "total_beds":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.947498,34.070912 ]
+    },
+    "properties": {
+    "postal":91790,
+    "services_a":"RRH",
+    "city_1":"West Covina",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Rapid Rehousing",
+    "street_add":"1906 W. Garvey Ave.",
+    "project_name":"Adult Reentry Rental Assistance\n(ARRAP)",
+    "spa":3,
+    "sd":1,
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":17,
+    "total_beds":17
+    }
+  }
+]
+}

@@ -1,0 +1,1570 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.79059, 34.06133]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bhs-inc.org/cdrg.htm",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "American Recovery Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.865.2336   fax  909.865.1831",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "2180 W. Valley Blvd.",
+      "id": 18,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27621, 34.05005]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.apaitonline.org",
+      "tues_hrs": "10:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "90015",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "Asian Pacific AIDS Intervention Team",
+      "friday_hrs": "10:00am-6:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.553.1830",
+      "weds_hrs": "10:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-6:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "10:00am-6:00pm",
+      "street_add": "1730 W. Olympic Blvd",
+      "id": 46,
+      "hours_of_o": "Mon-Fri 10am-6pm  Saturday by appt."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74604, 34.06389]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Assistance League Pomona Valley",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.6142",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "655 N. Palomares St.",
+      "id": 52,
+      "hours_of_o": "Vary  call for information."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.12304, 34.08451]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.us.tzuchi.org",
+      "tues_hrs": "9:30am-12:00pm, 1:00pm-5:00pm",
+      "sun_hrs": "",
+      "postal": "91801",
+      "services_a": "HCS",
+      "city_1": "Alhambra",
+      "agency": "Buddhist Tzu Chi Free Clinic",
+      "friday_hrs": "9:30am-12:00pm, 1:00pm-5:00pm",
+      "sat_hrs": "9:30am-12:00pm, 1:00pm-5:00pm",
+      "email": "",
+      "phone": "626.281.3383",
+      "weds_hrs": "9:30am-12:00pm, 1:00pm-5:00pm",
+      "language_a": "Spanish, Cantonese, Chinese",
+      "thurs_hrs": "9:30am-12:00pm, 1:00pm-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1000 S. Garfield Ave",
+      "id": 80,
+      "hours_of_o": "Tues-Sat 9:30am-12noon  1pm-5pm. Call for appointment."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.05577, 33.86774]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.caremore.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90703",
+      "services_a": "HCS",
+      "city_1": "Cerritos",
+      "agency": "Care More  \"it's what we do\"",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.412.5851",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "12900 Park Plaza Dr.",
+      "id": 93,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74565, 34.09627]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.casacolina.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Casa Colina  Inc..",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "bscudder@casacolina.org",
+      "phone": "909.596.7733  Toll Free 866.724.4127",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "255 East Bonita Ave.",
+      "id": 96,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.1508, 34.17753]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.chapcare.org",
+      "tues_hrs": "8:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "91103",
+      "services_a": "HCS",
+      "city_1": "Pasadena",
+      "agency": "CHAP Care",
+      "friday_hrs": "8:00am-4:00pm",
+      "sat_hrs": "8:00am-1:00pm",
+      "email": "",
+      "phone": "626.398.5970",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "Spanish, Tagalong, Farsi",
+      "thurs_hrs": "8:00am-6:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "1855 N. Fair Oaks Ave",
+      "id": 111,
+      "hours_of_o": "Mon & Wed 8am-5pm  Tues 8am-7pm  Thurs 8am-6pm  Fri 8am-4pm  Sat 8am-1pm. *Emergency Walk-ins start at 8am Mon-Sat."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.15039, 34.13132]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.chapcare.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91105",
+      "services_a": "HCS",
+      "city_1": "Pasadena",
+      "agency": "CHAP Care",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.993.1222",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "837 S. Fair Oaks Ave",
+      "id": 112,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29063, 34.09812]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.chla.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90027",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "Children's Hospital Los Angeles",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.669.2130",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "4650 Sunset Blvd",
+      "id": 114,
+      "hours_of_o": "Mon-Thurs 8am-5:30pm. Fri 8am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13213, 34.17103]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.choicesmedical.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "HCS",
+      "city_1": "Pasadena",
+      "agency": "Choices",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.398.3796",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1460 N. Lake Avenue",
+      "id": 117,
+      "hours_of_o": "Habilitative Day Care 9am-12:30pm; Outpatient Services Mon Tues Weds & Fri 1-2:30pm  MWF 6-7:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94433, 34.06315]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cvhp.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "HCS",
+      "city_1": "West Covina",
+      "agency": "Citrus Valley Health Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.814.2450  Director :626.814.2405",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1115 S. Sunset Ave.",
+      "id": 125,
+      "hours_of_o": "Emergency room is open 24hours"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.12448, 34.09181]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cscla.org",
+      "tues_hrs": "8am-12pm,1pm-5pm",
+      "sun_hrs": "",
+      "postal": "91801",
+      "services_a": "HCS",
+      "city_1": "Alhambra",
+      "agency": "CSC Community Health Center San Gabriel Valley",
+      "friday_hrs": "8am-12pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.808.1700",
+      "weds_hrs": "",
+      "language_a": "English, Chinese, Spanish, Vietnamese",
+      "thurs_hrs": "9am-1pm, 2pm-6pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "320 S. Garfield Ave",
+      "id": 145,
+      "hours_of_o": "Tue: 8am-12pm 1pm-5pm; Thurs: 9am-1pm  2pm-6pm; Friday: 8am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95177, 34.04381]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.delhavencommunitycenter.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "HCS",
+      "city_1": "La Puente",
+      "agency": "Delhaven Community Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.9789",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "15135 Fair Grove Ave",
+      "id": 153,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Department of Public Social Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "rociobuitrago@dpss.lacounty.gov",
+      "phone": "909.865.5322",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 164,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94225, 34.06868]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.rehab.cawhnet.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "HCS",
+      "city_1": "West Covina",
+      "agency": "Department of Rehabilitation",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.813.7662",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1501 W. Cameron Ave.",
+      "id": 166,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02434, 34.02875]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "7:00am-6:30pm",
+      "sun_hrs": "",
+      "postal": "90601",
+      "services_a": "HCS",
+      "city_1": "City of Industry",
+      "agency": "Dept. of Public and Social Services",
+      "friday_hrs": "7:00am-6:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.908.8400",
+      "weds_hrs": "7:00am-6:30pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-6:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "7:00am-6:30pm",
+      "street_add": "12860 Crossroads  Pkwy South",
+      "id": 172,
+      "hours_of_o": "M-F 7am-6:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96656, 34.13772]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91009",
+      "services_a": "HCS",
+      "city_1": "Duarte",
+      "agency": "Duarte Community Service Council",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.359.9487",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "P.O. Box 75",
+      "id": 186,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78751, 34.06228]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-8:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "East Valley Community Health Center",
+      "friday_hrs": "8:00am-8:00pm",
+      "sat_hrs": "8:00am-8:00pm",
+      "email": "",
+      "phone": "909.620.8088  ext.3231",
+      "weds_hrs": "8:00am-8:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-8:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-8:00pm",
+      "street_add": "680 Fairplex Dr.",
+      "id": 197,
+      "hours_of_o": "Mon-Thurs: 8am- 8pm  Fri: 8am-5pm  Sat: 8am-2pm *last appointment one hour before closing"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.92525, 34.06746]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "HCS",
+      "city_1": "West Covina",
+      "agency": "East Valley Community Health Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "8:00am-2:00pm",
+      "email": "",
+      "phone": "626.919.4333",
+      "weds_hrs": "8:00am-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-7:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-7:00pm",
+      "street_add": "420 S. Glendora Ave.",
+      "id": 199,
+      "hours_of_o": "Mon-Thurs 8-7pm  Fri 8-5pm  Sat 8-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.92525, 34.06746]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "HCS",
+      "city_1": "West Covina",
+      "agency": "East Valley Community Health Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "8:00am-2:00pm",
+      "email": "",
+      "phone": "626.919.5724  ext. 2304",
+      "weds_hrs": "9:00am-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "9:00am-6:00pm",
+      "street_add": "420 S. Glendora Ave",
+      "id": 200,
+      "hours_of_o": "Mon 9am-6pm  Tues & Weds 9am-7pm  Thurs 8am-4pm  Fri 8am-5pm  Sat 8am-2pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03618, 34.07207]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-8:30pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "HCS",
+      "city_1": "El Monte",
+      "agency": "El Monte Comprehensive Health Center",
+      "friday_hrs": "8:00am-8:30pm",
+      "sat_hrs": "8:00am-5:00pm",
+      "email": "",
+      "phone": "800.383.4600",
+      "weds_hrs": "8:00am-8:30pm",
+      "language_a": "Spanish, Vietnamese, Chinese",
+      "thurs_hrs": "8:00am-8:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-8:30pm",
+      "street_add": "10953 Ramona Blvd",
+      "id": 205,
+      "hours_of_o": "Mon-Fri 8am-8:30pm  Sat 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75824, 34.04086]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Family Resource- Pomona Unified School District",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.2593",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1690 S. White Ave.",
+      "id": 236,
+      "hours_of_o": "M-F 8:00a.m. to 4:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02884, 34.06953]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothhillfamily.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "HCS",
+      "city_1": "El Monte",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.442.8391  Intake Department:  866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "11429 Valley Blvd",
+      "id": 259,
+      "hours_of_o": "Mon-Thurs 8am-9pm  Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.93512, 34.06877]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "HCS",
+      "city_1": "West Covina",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-9:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.338.9200   Intake Department   866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "1215 W. West Covina Pkwy",
+      "id": 276,
+      "hours_of_o": "Mon-Fri 8am-9pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.00813, 34.14255]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillunitycenter.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91016",
+      "services_a": "HCS",
+      "city_1": "Monrovia",
+      "agency": "Foothill Unity Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.358.3486",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "415 W. Chestnut Ave.",
+      "id": 283,
+      "hours_of_o": "Office Hours Mon-Fri 9-5pm. Distribution Monday 1-3:30pm  Wed & Fri 9-11:30am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09089, 34.09079]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "HCS",
+      "city_1": "San Gabriel",
+      "agency": "Herald Christian Health Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.286.8700",
+      "weds_hrs": "",
+      "language_a": "English, Mandarin, Cantonese, Fookien, Spanish, Vietnamese, Burmese, Tagalong",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "921-923 San Gabriel Blvd",
+      "id": 319,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.12877, 34.09583]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.hrc-la.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91801",
+      "services_a": "HCS",
+      "city_1": "Alhambra",
+      "agency": "Housing Rights Center Walk-in Clinic",
+      "friday_hrs": "2:00pm-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "800.477.5977",
+      "weds_hrs": "",
+      "language_a": "Chinese, Spanish",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "101 S. First St.",
+      "id": 339,
+      "hours_of_o": "Friday 2-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24423, 34.04365]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.jwchinstiture.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "JWCH Institute  Inc.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "866.733.5924",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "522 S. San Pedro St.",
+      "id": 371,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.2635, 34.05062]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.lacare.org",
+      "tues_hrs": "7:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "90017",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "L.A. Care Health Plan",
+      "friday_hrs": "7:00am-7:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.694.1250",
+      "weds_hrs": "7:00am-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-7:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "7:00am-7:00pm",
+      "street_add": "1055 W. 7th St.",
+      "id": 374,
+      "hours_of_o": "Mon-Fri 7am-7pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.00595, 34.14144]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.publichealth.lacounty.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91016",
+      "services_a": "HCS",
+      "city_1": "Monrovia",
+      "agency": "LA County Department of Public Health",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.301.1938",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "330 W. Maple Ave.",
+      "id": 377,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75432, 34.05272]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.publichealth.lacounty.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "LA County Department of Public Health",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.868.0235",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "750 S. Park Ave",
+      "id": 378,
+      "hours_of_o": "Hours of operation vary by service  call for inquiry."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75432, 34.05272]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.publichealth.lacounty.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "LA County Department of Public Health",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "malvarez@ph.lacounty.gov",
+      "phone": "909.868.0235",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "750 S. Park Ave",
+      "id": 379,
+      "hours_of_o": "Hours of operation vary by service  call for inquiry."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06872, 34.06942]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ladpss.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "HCS",
+      "city_1": "El Monte",
+      "agency": "LA County Public Social Services",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.569.3100",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "3350 Aerojet Ave",
+      "id": 382,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13253, 34.1624]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "HCS",
+      "city_1": "Pasadena",
+      "agency": "LA County Public Social Services",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.791.6333",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "Spanish",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "955 N. Lake Ave.",
+      "id": 384,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78564, 34.06498]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "pomonahostlions@gmail.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Lions International",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1921 Arroyo Avenue",
+      "id": 397,
+      "hours_of_o": "Special Events"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06401, 33.93108]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.lacada.com",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "90670",
+      "services_a": "HCS",
+      "city_1": "Santa Fe Springs",
+      "agency": "Los Angeles Centers got Alcohol and Drug Abuse L.A. CADA",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "8:00am-3:00pm",
+      "email": "",
+      "phone": "562-906-2681",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "11015 Bloomfield Ave",
+      "id": 402,
+      "hours_of_o": "M-Th/8am-9pm; Fri/8am-5pm;Sat/8am-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.25018, 34.05906]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90012",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "Los Angeles County Department of Public Health",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.240.7944",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "241 N. Figueroa St.",
+      "id": 404,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75432, 34.05272]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Los Angeles County Department of Public Health",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.868.0257",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "750 S. Park Ave.",
+      "id": 406,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03271, 33.97217]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.wshc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90602",
+      "services_a": "HCS",
+      "city_1": "Whittier",
+      "agency": "Whittier Health Center/ SPA 7",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.464.5384",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "7643 Painter Ave.",
+      "id": 700,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0021, 34.05303]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-7:00pm",
+      "sun_hrs": "8:00am-7:00pm",
+      "postal": "91746",
+      "services_a": "HCS",
+      "city_1": "La Puente",
+      "agency": "National Health Foundation",
+      "friday_hrs": "8:00am-7:00pm",
+      "sat_hrs": "8:00am-7:00pm",
+      "email": "",
+      "phone": "Alex Martinez 213-785-1911",
+      "weds_hrs": "8:00am-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-7:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-7:00pm",
+      "street_add": "13010 Valley Blvd  Valley Inn",
+      "id": 447,
+      "hours_of_o": "Sun-Sat 8am- 7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.18223, 34.14077]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91105",
+      "services_a": "HCS",
+      "city_1": "Pasadena",
+      "agency": "Pasadena City College Dental Hygiene",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.585.7241",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1570 Colorado Blvd",
+      "id": 485,
+      "hours_of_o": "Hours follow the school calendar. Call to inquire  schedule one month in advance."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14717, 34.12833]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.unionstationhs.org/passageways",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91105",
+      "services_a": "HCS",
+      "city_1": "Pasadena",
+      "agency": "Passageways",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.403.4888",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "1020 S. Arroyo Pkwy",
+      "id": 490,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75005, 34.0546]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ci.pomona.ca.us",
+      "tues_hrs": "10:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Pomona Community Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.2321",
+      "weds_hrs": "10:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-6:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "10:00am-6:00pm",
+      "street_add": "505 S. Garey Ave.",
+      "id": 501,
+      "hours_of_o": "Mon-Thurs 10am-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04751, 33.96756]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.whittierpres.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90602",
+      "services_a": "HCS",
+      "city_1": "Whittier",
+      "agency": "Presbyterian Intercommunity Hospital co-presenting with Ted Knoll  Whittier First Day",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.698.0811",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "12401 Washington Blvd",
+      "id": 523,
+      "hours_of_o": "emergency open 24 hrs."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75214, 34.06318]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.purposechurch.com",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Purpose Church",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.5277",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "586 N. Main St.",
+      "id": 542,
+      "hours_of_o": "M-F 8:00a.m. to 4:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75474, 34.06346]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "PUSD Family Support and Resource Center",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.4491",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "605 N. Park Ave.",
+      "id": 545,
+      "hours_of_o": "Mon-Fri 8am-4:30"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.15751, 33.9272]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90242",
+      "services_a": "HCS",
+      "city_1": "Downey",
+      "agency": "Rancho Los Amigos National Rehabilitation Center- Department of Dentistry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "502.401.6860",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "7601 E. Imperial Hwy",
+      "id": 547,
+      "hours_of_o": "Call for information."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.31892, 34.1017]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90028",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "Salvation Army- The Way In Independent Living Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.469.2946",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "5939 Hollywood Blvd",
+      "id": 559,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03411, 34.07322]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "HCS",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Center",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "9:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "9:00am-6:00pm",
+      "street_add": "11046 Valley Mall",
+      "id": 575,
+      "hours_of_o": "M-Th: 9am-6pm; Fri:8:30am-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98054, 34.04319]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sgvfdh.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "HCS",
+      "city_1": "La Puente",
+      "agency": "San Gabriel Valley Foundation for Dental Health",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.934.2894",
+      "weds_hrs": "8:00am-12:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "14101 E. Nelson Ave",
+      "id": 577,
+      "hours_of_o": "Mon 8am-5pm  Weds 8am-noon"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04523, 34.04486]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "HCS",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Service Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.5431",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "1441 Santa Anita Ave",
+      "id": 579,
+      "hours_of_o": "Call for inquiry."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.20241, 34.06822]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cri-help.org",
+      "tues_hrs": "8:30am-4:30pm",
+      "sun_hrs": "",
+      "postal": "90031",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "Socorro",
+      "friday_hrs": "8:30am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.222.1440",
+      "weds_hrs": "8:30am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-4:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:30am-4:30pm",
+      "street_add": " 2010 N. Lincoln Park Ave",
+      "id": 597,
+      "hours_of_o": "Mon-Fri 8:30am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76689, 34.06199]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "The Pomona Neighborhood Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.524.9799",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "999 West Holt Blvd.",
+      "id": 627,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.16381, 33.98933]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www1.usw.salvationarmy.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90201",
+      "services_a": "HCS",
+      "city_1": "City of Bell",
+      "agency": "The Salvation Army Bell Shelter",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.263.1206 ext. 204",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "5600 Rickenbacker  Rd.",
+      "id": 628,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04416, 34.04728]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "HCS",
+      "city_1": "South El Monte",
+      "agency": "Tzu Chi Community Dental Clinic",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "9:00am-5:00pm",
+      "email": "",
+      "phone": "626.636.8708",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "",
+      "street_add": "10414 Vacco St.",
+      "id": 649,
+      "hours_of_o": "Tues-Sat 9am-5pm. Call for appointment."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.2915, 33.95095]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.dentistry.usc.edu",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90044",
+      "services_a": "HCS",
+      "city_1": "Los Angeles",
+      "agency": "USC School of Dentistry",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "Children: 213.740.8751  Adults 213.740.0412",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "925 W. 94th St",
+      "id": 661,
+      "hours_of_o": "Mon-Fri 8:30am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94458, 34.07032]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "HCS",
+      "city_1": "West Covina",
+      "agency": "Volunteers of America",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.9878",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1760 West Cameron Ave",
+      "id": 683,
+      "hours_of_o": "Mon-Fri 8am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74159, 34.05807]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "HCS",
+      "city_1": "Pomona",
+      "agency": "Western University Patient Care Center- Dental",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.706.3910",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Health Care Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "795 E. Second St.",
+      "id": 697,
+      "hours_of_o": "Mon-Fri 8am-5pm  appointment times 8am and 1pm"
+    }
+  }]
+}

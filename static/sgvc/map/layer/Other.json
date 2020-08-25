@@ -1,0 +1,27 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.133746,34.091701 ]
+    },
+    "type": "Feature",
+    "properties": {
+      "postal":91801,
+      "services_a":"OPH",
+      "city_1":"Alhambra",
+      "agency":"County of Los Angeles Department of Military\nand Veterans Affairs",
+      "services_1":"Other Permanent Housing",
+      "street_add":"700 W. Main St.",
+      "project_name":"Homeless Section 8 Voucher Program\n(HACoLA)",
+      "spa":3,
+      "sd":5,
+      "cd":"0",
+      "hmis_participating":"No",
+      "pit_count":109,
+      "total_beds":42
+    }
+  }
+]
+}

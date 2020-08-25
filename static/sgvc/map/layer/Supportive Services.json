@@ -1,0 +1,4081 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.16562, 34.19176]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.5acres.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91001",
+      "services_a": "SS",
+      "city_1": "Altadena",
+      "agency": "5acres Boys And Girls Club Aid Society",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.798.6793 ext.2383",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "760 Mountain View",
+      "id": 1,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.77287, 34.05463]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.pusd.org/ace",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Adult Education Center PUSD",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.469.2333",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1515 W. Mission Blvd.",
+      "id": 7,
+      "hours_of_o": "Monday-Friday 8am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29162, 34.06408]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90020",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Adult System of Care",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "Primary 213.639.6319  Secondary 213.738.2868",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "550 S. Vermont Ave",
+      "id": 9,
+      "hours_of_o": "Weekdays 8-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29791, 34.0663]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.alexandriahouse.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90020",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Alexandria House-Transitional Housing",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.381.2649",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "426 South Alexandria St.",
+      "id": 14,
+      "hours_of_o": "Call to apply"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.18452, 34.14]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.alliancehh.org",
+      "tues_hrs": "8:30am-5:30pm",
+      "sun_hrs": "8:30am-5:30pm",
+      "postal": "90041",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Alliance for Housing & Healing  Aid for AIDS & The Serra Project",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "8:30am-5:30pm",
+      "email": "",
+      "phone": "323.344.4888",
+      "weds_hrs": "8:30am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:30pm",
+      "street_add": "825 Colorado Blvd.",
+      "id": 15,
+      "hours_of_o": "8:30-5:30"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.79059, 34.06133]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bhs-inc.org/cdrg.htm",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "American Recovery Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.865.2336   fax  909.865.1831",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2180 W. Valley Blvd.",
+      "id": 19,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04489, 34.1317]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.redcross.org",
+      "tues_hrs": "8:30am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91007",
+      "services_a": "SS",
+      "city_1": "Arcadia",
+      "agency": "American Red Cross",
+      "friday_hrs": "8:30am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.447.2193",
+      "weds_hrs": "8:30am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-4:30pm",
+      "street_add": "376 W. Huntington Dr.",
+      "id": 23,
+      "hours_of_o": "Mon-Fri 8:30am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24512, 34.04548]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Anne Douglas Center for Rehabilitation Program for Women",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.614.0743",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "310 Winston St.",
+      "id": 31,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.25295, 34.11974]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "ascenciaca.org",
+      "tues_hrs": "7:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91204",
+      "services_a": "SS",
+      "city_1": "Glendale",
+      "agency": "Ascencia",
+      "friday_hrs": "7:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818-246-7900",
+      "weds_hrs": "7:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-4:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "7:00am-4:00pm",
+      "street_add": "1851 Tyburn St",
+      "id": 40,
+      "hours_of_o": "7am-4pm/M-F"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27621, 34.05005]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.apaitonline.org",
+      "tues_hrs": "10:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "90015",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Asian Pacific AIDS Intervention Team",
+      "friday_hrs": "10:00am-6:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.553.1830",
+      "weds_hrs": "10:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "10:00am-6:00pm",
+      "street_add": "1730 W. Olympic Blvd",
+      "id": 48,
+      "hours_of_o": "Mon-Fri 10am-6pm  Saturday by appt."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96923, 34.05161]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bassettadultschool.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Bassett Adult School/Training Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.931.3129",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "943 Sunkist Ave",
+      "id": 60,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74963, 34.04583]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bgcpb.org",
+      "tues_hrs": "2:30pm-6:30pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Boys & Girls Club of Pomona Valley",
+      "friday_hrs": "2:30pm-6:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.8538",
+      "weds_hrs": "2:30pm-6:30pm",
+      "language_a": "",
+      "thurs_hrs": "2:30pm-6:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "2:30pm-6:30pm",
+      "street_add": "1420 S. Garey Ave.",
+      "id": 73,
+      "hours_of_o": "M-F 2:30pm-6:30pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.83761, 34.09244]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.us.tzuchi.org",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "9:00am-6:00pm",
+      "postal": "91773",
+      "services_a": "SS",
+      "city_1": "San Dimas",
+      "agency": "Buddhist Tzu Chi Foundation",
+      "friday_hrs": "9:00am-6:00pm",
+      "sat_hrs": "9:00am-6:00pm",
+      "email": "",
+      "phone": "909.447.8604",
+      "weds_hrs": "9:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-6:00pm",
+      "street_add": "1100 S. Valley Center Ave.",
+      "id": 79,
+      "hours_of_o": "M-Sun                 9:a.m.-6:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27238, 34.02636]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.calvet.ca.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90011",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "CA Department of Veterans Affairs",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.744.4847",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2615 S. Grand Ave.",
+      "id": 84,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06879, 34.07286]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.careerpartners.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "SS",
+      "city_1": "Rosemead",
+      "agency": "Career Partners Rosemead Work Source Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.572.7272",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "3505 N. Hart Ave",
+      "id": 94,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0317, 34.08231]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.catholiccharitiesla.org",
+      "tues_hrs": "9:00am-1:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Catholic Charities",
+      "friday_hrs": "9:00am-1:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.7652",
+      "weds_hrs": "9:00am-1:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-1:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-1:00pm",
+      "street_add": "4171 N Tyler Ave",
+      "id": 103,
+      "hours_of_o": "Mon-Fri 9am-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75296, 34.06044]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:30pm-5:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Catholic Charities of LA  Pomona Community Services",
+      "friday_hrs": "8:30pm-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.0472",
+      "weds_hrs": "8:30am-12:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30pm-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30pm-5:00pm",
+      "street_add": "248 E. Monterey Ave.",
+      "id": 108,
+      "hours_of_o": "Monday  Tuesday  Thursday & Friday 8:30a.m. to 5:00p.m.                Wednesday 8:30a.m. to 12:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24028, 34.06439]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cscla.org",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "90012",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Chinatown Service Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.808.1700",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "767 N. Hill St   ",
+      "id": 115,
+      "hours_of_o": "Community Health Center:  Mon  Wed  Fri 8am-5pm  Tues & Thurs 9am-6pm.   Main Office Clinical  Mon-Fri. & 2nd sat of the month 8am-5pm   Workforce  Mon Wed  Fri 9am-5pm  Tues & Thurs 9am-6pm.  Behavioral Health  Mon-Fri 9am-5pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24028, 34.06439]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cscla.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90012",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Chinatown Service Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.808.1700",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "320 S. Garfield Eve.",
+      "id": 116,
+      "hours_of_o": "Community Health Center:  Mon  Wed  Fri 8am-5pm  Tues & Thurs 9am-6pm.   Main Office Clinical  Mon-Fri. & 2nd sat of the month 8am-5pm   Workforce  Mon Wed  Fri 9am-5pm  Tues & Thurs 9am-6pm.  Behavioral Health  Mon-Fri 9am-5pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75005, 34.0546]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "City of Pomona-Community Services Department",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "andrea_rico@ci.pomona.ca.us",
+      "phone": "909.620.3683",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "505 S. Garey Ave.",
+      "id": 126,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.81726, 34.10191]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.compassioninaction.us",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91773",
+      "services_a": "SS",
+      "city_1": "San Dimas",
+      "agency": "Compassion in Action-USA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.967.6800",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "P.O. Box 383",
+      "id": 130,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.23223, 33.89412]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cwroioi@aol.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90220",
+      "services_a": "SS",
+      "city_1": "Compton",
+      "agency": "Compton Welfare Rights Organization  Inc.-Shelter for Homeless Women and Children",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.631.5193",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "528 W. Almond St.",
+      "id": 134,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.77684, 34.05393]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.probation.co.la.ca.us",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "County of Los Angeles Probation Department",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "Lorenzo.arnold@probation.lacounty.gov",
+      "phone": "909.469.4582",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1660 W. Mission Rd",
+      "id": 139,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29162, 34.06408]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90020",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "County of Los Angeles- Department of Mental Health Adult System of Care- Veteran's and Loved Ones Recovery VALOR",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.639.6319   213.738.2868",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "550 S. Vermont Ave",
+      "id": 142,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.89803, 34.08971]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91723",
+      "services_a": "SS",
+      "city_1": "Covina",
+      "agency": "Covina United Methodist Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.339.7386",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "437 W. San Bernardino Rd.",
+      "id": 143,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78502, 34.10434]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.davidandmargaret.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91750",
+      "services_a": "SS",
+      "city_1": "La Verne",
+      "agency": "David & Margaret Youth & Family Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.596.5921  ext.3500",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1350 Third St.",
+      "id": 149,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95177, 34.04381]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.delhavencommunitycenter.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "SS",
+      "city_1": "La Puente",
+      "agency": "Delhaven Community Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.9789",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "15135 Fair Grove Ave",
+      "id": 155,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75443, 34.05635]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Department of Children & Family Services",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "Hotline 800.540.4000",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "300 S. Park Ave.",
+      "id": 156,
+      "hours_of_o": "M-F 8:30a.m.-5:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.30556, 34.05975]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "http://www.childwelfare.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90005",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Department of Mental Health- Child Welfare Division",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "800.394.3366",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "",
+      "id": 161,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Department of Public Social Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "rociobuitrago@dpss.lacounty.gov",
+      "phone": "909.865.5322",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 165,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02434, 34.02875]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "7:00am-6:30pm",
+      "sun_hrs": "",
+      "postal": "90601",
+      "services_a": "SS",
+      "city_1": "City of Industry",
+      "agency": "Dept. of Public and Social Services",
+      "friday_hrs": "7:00am-6:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.908.8400",
+      "weds_hrs": "7:00am-6:30pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-6:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "7:00am-6:30pm",
+      "street_add": "12860 Crossroads Pkwy South",
+      "id": 169,
+      "hours_of_o": "M-F 7am-6:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.08584, 34.10348]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.nihn.org  http//:web.fpsgv.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "SS",
+      "city_1": "San Gabriel",
+      "agency": "Family Promise",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.596.0991",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1005 E. Las Tunas Dr.",
+      "id": 231,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.41982, 34.28133]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.didihirsch.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91331",
+      "services_a": "SS",
+      "city_1": "Pacoima",
+      "agency": "DIDI Hirsh Community Health Center Via Avanta",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818.897.2609",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "11643 GLENOAKS BLVD",
+      "id": 174,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.00987, 34.06205]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "8:00am-4:30pm",
+      "postal": "91732",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "District Community Liaison/Homeless Liaison",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "8:00am-4:30pm",
+      "email": "",
+      "phone": "626.652.4000",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "3320 Gilman Rd.",
+      "id": 176,
+      "hours_of_o": "8:00 am-4:30 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "DPSS CalWORKs & GAIN Programs",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "EvelynRamos@dpss.lacounty.gov",
+      "phone": "DPSS Eligibility Worker  909.8655315   GAIN Career Center  909.392.3032   Susan Caldwell  DPSS Eligibility Worker  909.397.3836",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 183,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96656, 34.13772]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91009",
+      "services_a": "SS",
+      "city_1": "Duarte",
+      "agency": "Duarte Community Service Council",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.359.9487",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "P.O. Box 75",
+      "id": 187,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.15538, 34.01561]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.vetcenter.va.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90022",
+      "services_a": "SS",
+      "city_1": "Commerce",
+      "agency": "East Los Angeles Vet Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.728.9966",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "5400 E. Olympic Blvd",
+      "id": 190,
+      "hours_of_o": "Call for inquiry"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97853, 34.01034]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.esgvchomeless.com",
+      "tues_hrs": "8:30am-1:30pm",
+      "sun_hrs": "",
+      "postal": "91745",
+      "services_a": "SS",
+      "city_1": "Hacienda Heights",
+      "agency": "East San Gabriel Valley Coalition for the Homeless",
+      "friday_hrs": "8:30am-1:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.333.7204",
+      "weds_hrs": "8:30am-1:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-1:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-1:30pm",
+      "street_add": "1345 Turnbull Canyon Rd",
+      "id": 192,
+      "hours_of_o": "8:30am-1:30pm/ M-F"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.93652, 34.07658]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.esgvrop.org",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "9:00am-5:00pm",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "East San Gabriel Valley ROP and technical Center",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "9:00am-5:00pm",
+      "email": "",
+      "phone": "626.960.5080  ext. 241",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "1501 Del Norte St.",
+      "id": 195,
+      "hours_of_o": "9am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14136, 34.1689]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ecpac.net",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Ecumenical Council of Pasadena Area Congregations ECPAC",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.797.2402",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "444 E. Washington Blvd.",
+      "id": 203,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14429, 34.12852]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.elizabethhouse.net",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "91106",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Elizabeth House",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.577.4434",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "P.O. Box 94077",
+      "id": 209,
+      "hours_of_o": "Mon-Fri 9am-530pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74609, 34.0651]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.emerson-village.com",
+      "tues_hrs": "9:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Emerson Village",
+      "friday_hrs": "9:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.1421",
+      "weds_hrs": "9:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-4:00pm",
+      "street_add": "755 N. Palomares St.",
+      "id": 213,
+      "hours_of_o": "M-F 9:00a.m.-4:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.26296, 34.05221]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.edd.ca.gov",
+      "tues_hrs": "8:30am-4:45pm",
+      "sun_hrs": "",
+      "postal": "90017",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Employment Development Department",
+      "friday_hrs": "8:30am-4:45pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.353.1677",
+      "weds_hrs": "8:30am-4:45pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-4:45pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-4:45pm",
+      "street_add": "1055 Wilshire Blvd..",
+      "id": 214,
+      "hours_of_o": "Mon-Fri 8:30-4:45pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74667, 34.0606]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.edd.ca.gov",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Employment Development Department",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.392.2659",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "264 E. Monterey Ave.",
+      "id": 216,
+      "hours_of_o": "M-F 8:00 a.m. to 5:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88785, 34.07994]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ehrs.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91723",
+      "services_a": "SS",
+      "city_1": "Covina",
+      "agency": "ENKI- Homeless CalWORKs Families Project",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.967.2888",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "536 S. Second Ave",
+      "id": 221,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.91357, 34.01406]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.rowlandschools.org",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "SS",
+      "city_1": "La Puente",
+      "agency": "Family Resource Center Rowland Unified School District",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.854.8520 ext.1791",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "17800 E. Renault St.",
+      "id": 233,
+      "hours_of_o": "Mon-Fri 8-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75824, 34.04086]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Family Resource- Pomona Unified School District",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.2593",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1690 S. White Ave.",
+      "id": 235,
+      "hours_of_o": "M-F 8:00a.m. to 4:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.20932, 34.04675]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.womensheath.va.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90033",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Female Veterans & Veterans with Families- HVRP VOA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.395.2142",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "240 N. Breed St.",
+      "id": 238,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.71688, 34.09865]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.fapinfo.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91711",
+      "services_a": "SS",
+      "city_1": "Claremont",
+      "agency": "Foothill AIDS Project",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "abrazier@fapinfo.org",
+      "phone": "909.482.2070",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "233 Harrison Ave",
+      "id": 249,
+      "hours_of_o": "Beginning June 2012 we will be offering our services every Wednesday."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96652, 34.13977]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "91010",
+      "services_a": "SS",
+      "city_1": "Duarte",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.301.9700 Intake Department: 866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-7:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "1801 Huntington Dr.",
+      "id": 253,
+      "hours_of_o": "Mon & Wed 8am-9pm Tues&Thurs8am-7pm  Fri8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02884, 34.06953]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothhillfamily.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.442.8391  Intake Department:  866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "11429 Valley Blvd",
+      "id": 256,
+      "hours_of_o": "Mon-Thurs 8am-9pm  Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98053, 34.05614]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "SS",
+      "city_1": "La Puente",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.1396  Intake Department:  866.304.4337",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "17328 Amar Rd",
+      "id": 263,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09849, 34.1498]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.564.1613   Intake Department: 866.304.4337",
+      "weds_hrs": "8:00am-6:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-6:00pm",
+      "street_add": "2500 E. Foothill Blvd",
+      "id": 264,
+      "hours_of_o": "Mon-Thurs 8am-6pm  Fri 8am-5pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13517, 34.14374]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:30am-8:30pm",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.795.6907   Intake Department:  866.304.4337",
+      "weds_hrs": "8:30am-8:30pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:30am-8:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-8:30pm",
+      "street_add": "118 South Oak Knoll Ave",
+      "id": 269,
+      "hours_of_o": "Mon-Thurs 8:30am-8:30pm  Fri 8:30am-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.1443, 34.14939]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "H.O.P.E.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.744.7054",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "207 N. Garfield Ave.",
+      "id": 308,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.93512, 34.06877]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-9:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.338.9200   Intake Department   866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "1215 W. West Covina Pkwy",
+      "id": 278,
+      "hours_of_o": "Mon-Fri 8am-9pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.92671, 34.06991]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothilltransit.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "Foothill Transit",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.931.7239",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "100 S. Vincent Ave.",
+      "id": 280,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09775, 34.1498]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.namicalifornia.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Frontline SGV NAMI",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.577.6697",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2550 E Foothill Blvd",
+      "id": 288,
+      "hours_of_o": "1st and 3rd Tuesday 5:30-7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98802, 33.8699]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.gchope.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90621",
+      "services_a": "SS",
+      "city_1": "Buena Park",
+      "agency": "Giving Children Hope",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "714.523.4454",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "8332 Commonwealth Ave.",
+      "id": 294,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06587, 34.05697]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.godprovidesministry.org",
+      "tues_hrs": "8:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "SS",
+      "city_1": "South El Monte",
+      "agency": "God Provides  Native American Food Bank",
+      "friday_hrs": "8:00am-4:00pm",
+      "sat_hrs": "8:00am-2:00pm",
+      "email": "",
+      "phone": "626.442.4273",
+      "weds_hrs": "8:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:00pm",
+      "street_add": "2453 Troy Ave.",
+      "id": 297,
+      "hours_of_o": "Food Distribution Mon-Fri 8-4pm  Sat 8-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74616, 34.10714]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.goodwillsocal.org",
+      "tues_hrs": "9:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Goodwill Southern California Youth Program",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.593.0711",
+      "weds_hrs": "9:00am-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-7:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-7:00pm",
+      "street_add": "210 E. Foothill Blvd.",
+      "id": 300,
+      "hours_of_o": "M-Th 9:00a.m.-7:00p.m.                      F 9:00a.m.-5:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.32124, 34.04063]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.gramercyhousinggroup.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90019",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Gramercy House Group",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.737.7352",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1824 4th Ave.",
+      "id": 303,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14429, 34.12852]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.grandviewfoundation.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91106",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Grandview Foundation",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.398.9674",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "P.O. Box 40375",
+      "id": 305,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13971, 34.13111]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.hathaway-sycamores.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91106",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Hathaway-Sycamores Child and Family Services  Transitional Living Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.395.7100  ext.7918",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "851 N. Oakland Ave.",
+      "id": 313,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06872, 34.06942]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.shieldsforfamilies.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Homeless CalWORKs Families Project",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.242.5000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "3350 Aerojet Ave",
+      "id": 324,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.39625, 33.95487]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.homesforlife.org",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "90045",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Homes for Life Foundation",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.337.7417 ext. 36",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "8939 S. Sepulveda Blvd.",
+      "id": 327,
+      "hours_of_o": "Mon-Fri 9-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75003, 34.05483]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Hope Resource Group",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.994.1774",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "",
+      "id": 332,
+      "hours_of_o": "Call office for availability"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.15034, 34.11397]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.housingrightscenter.org",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91030",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Housing Rights Center HRC Pasadena",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "Marisol Arzate Director of Outreach and Education 800-477-5977",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "1020 N. Fair Oaks Ave",
+      "id": 338,
+      "hours_of_o": "Mon-Fri 8:30am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29326, 34.06181]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.housingrightscenter.org",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90010",
+      "services_a": "SS",
+      "city_1": "Los Angeles,",
+      "agency": "Housing Rights Center- Los Angeles",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "Marisol Arzate Director of Outreach and Education 800-477-5977",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "3255 Wilshire Blvd",
+      "id": 340,
+      "hours_of_o": "Mon-Fri 8:30am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.33104, 34.09404]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.housingworks.org",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90038",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Housing Works",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.466.0042",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "1277 North Wilcox Ave",
+      "id": 341,
+      "hours_of_o": "Mon-Fri 9am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73375, 34.07868]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "HPRP Pomona Plus",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "Maria_Burke@ci.pomona.ca.us",
+      "phone": "909.622.2091",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "248 Monterey",
+      "id": 342,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.58464, 34.07848]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ieuw.org",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91730",
+      "services_a": "SS",
+      "city_1": "Rancho Cucamonga",
+      "agency": "Inland Empire United Way",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.980.2857",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "9644 Hermosa Ave",
+      "id": 350,
+      "hours_of_o": "Mon-Fri 8:30am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75276, 34.0774]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.inlandvalleyhopepartners.org",
+      "tues_hrs": "8:00am-12:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "wytskev@inlandvalleyhopepartners.org",
+      "phone": "909-622-3806 X107",
+      "weds_hrs": "8:00am-12:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-12:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-12:30pm",
+      "street_add": "1753 N. Park Ave.",
+      "id": 356,
+      "hours_of_o": "Mon.-Thur. 8:00am-12:30p.m. *Must call for eligibility screening"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75378, 34.05586]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.manta.com/c/mmyv22l/inland-valley-volunteer-and-resource-center",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Volunteer & Resource Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.1284",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "436 W. Fourth St.",
+      "id": 364,
+      "hours_of_o": "Mon-Weds 9-1145am  1-3:45pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27379, 34.06814]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90057",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Integrated Treatment Program for Co-occurring Disorders-Homeless Health Care LA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.381.0510",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2330 Beverly Blvd.",
+      "id": 366,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.72284, 34.06532]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Karesh/Abbey Lane Community Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.2796",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "662 Karesh Ave.",
+      "id": 372,
+      "hours_of_o": "Call for program hours"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "LA County Public Social Services",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.865.5210",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "Spanish, Chinese, Vietnamese",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "2040 Holt Ave",
+      "id": 386,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06872, 34.0689]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "San Gabriel",
+      "agency": "LA County Public Social Services",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.569.3600   *Child care info-  626.569.3600",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "Spanish, Chinese, Vietnamese",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "San Gabriel Valley District 3352 Aerojet Ave",
+      "id": 387,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.12688, 33.8884]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.littlehouseinc.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90706",
+      "services_a": "SS",
+      "city_1": "Bellflower",
+      "agency": "Little House  Inc.",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "www.littlehouseinc.org",
+      "phone": "562.925.2777",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "9718 Harvard St.",
+      "id": 398,
+      "hours_of_o": "8-5pm Mon-Fri"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94049, 34.07058]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "Local Field Office",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.813.3402",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1427 W. Covina Pkwy",
+      "id": 400,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75432, 34.05272]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Los Angeles County DPSS",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.5507",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "750 S. Park Ave.",
+      "id": 408,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.77684, 34.05393]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Los Angeles County Probation Department",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "kevin.paris@probation.lacounty.gov",
+      "phone": "626.357.1619",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1660 West Mission Blvd",
+      "id": 409,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74667, 34.0606]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.assistanceleague.net",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Los Angeles Urban Assistance League",
+      "friday_hrs": "8:30am-4:30pm",
+      "sat_hrs": "",
+      "email": "www.laul.org",
+      "phone": "909.623.9741",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "264 E. Monterey Ave.",
+      "id": 410,
+      "hours_of_o": "M-Th 8:30 a.m. to 5:00 p.m.                           F 8:30a.m. to 4:30 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88309, 34.10675]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.loveinc.org",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91722",
+      "services_a": "SS",
+      "city_1": "Covina",
+      "agency": "Love In the Name of Christ Love INC",
+      "friday_hrs": "10:00am-2:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.858.3300",
+      "weds_hrs": "10:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-2:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "10:00am-2:00pm",
+      "street_add": "18821 Arrow Highway",
+      "id": 417,
+      "hours_of_o": "Mon-Fri 10am-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74447, 34.0625]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.lnesc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "LULAC/Educational Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.0588",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "360 E. Holt Ave.",
+      "id": 418,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75824, 34.04086]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Mckenny-Vento Homeless Education Support",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.5045",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1690 S. White Ave.",
+      "id": 421,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.63636, 34.06342]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.mercyhouse.net",
+      "tues_hrs": "9:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91761",
+      "services_a": "SS",
+      "city_1": "Ontario",
+      "agency": "Mercy House",
+      "friday_hrs": "9:00am-2:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.391.2630",
+      "weds_hrs": "9:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-2:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-2:00pm",
+      "street_add": "905 E. Holt Blvd.",
+      "id": 428,
+      "hours_of_o": "Mon-Fri 9am-2pm last client at 12:30 pm Homeless Served Mon  Wed  Thurs & Fri  families served 1st and 3rd Tues of every month."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78006, 34.06161]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.miraculouscare.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Miraculous Care",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.6767",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1750 W. Holt Ave.",
+      "id": 436,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.45845, 34.05237]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.newdirectionsinc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90025",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "New Directions Veterans Opportunity Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.914.5966  Operating 24/7",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "11303 Wilshire Blvd",
+      "id": 453,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.82573, 34.0995]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.newsongsd.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91773",
+      "services_a": "SS",
+      "city_1": "San Dimas",
+      "agency": "New Song Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.394.9488",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "945 W. Covina Blvd.",
+      "id": 457,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.86254, 34.07342]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.optionscc.org",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91724",
+      "services_a": "SS",
+      "city_1": "Covina",
+      "agency": "Options -A Child Care and Human Services Agency Division: Child Development Centers",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "mamunoz@optionscc.org",
+      "phone": "626.858.0527",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "885 S. Village Oaks Dr.",
+      "id": 458,
+      "hours_of_o": "Monday-Friday  9:00a.m. to 5:p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09775, 34.1498]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.pacificclinics.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Pacific Clinics Quality Assurance Board QAB",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.463.1021  ext. 133",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2550 E. Foothill Blvd",
+      "id": 479,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06533, 34.08115]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "SS",
+      "city_1": "Rosemead",
+      "agency": "Pacific Clinics- Asian Pacific Family Center",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.287.2988",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "9353 E. Valley Blvd",
+      "id": 482,
+      "hours_of_o": "Mon-Fri 9am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.91466, 34.04944]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91791",
+      "services_a": "SS",
+      "city_1": "San Gabriel/Pomona",
+      "agency": "Parents' Place",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.919.1091",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1500 S. Hyacinth Ave",
+      "id": 484,
+      "hours_of_o": "Mon-Fri 9am-3pm  3-4pm by appointment"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14717, 34.12833]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.unionstationhs.org/passageways",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91105",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Passageways",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.403.4888",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "1020 S. Arroyo Pkwy",
+      "id": 488,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.28915, 34.07744]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.epath.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90004",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "PATHPeople Assisting The Homeless LA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.664.2231",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "340 N. Madison Ave.",
+      "id": 491,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74715, 34.06059]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.pomonacommunitycc.org",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Community Crisis Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.1588",
+      "weds_hrs": "10:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "10:00am-4:00pm",
+      "street_add": "240 E. Monterey",
+      "id": 496,
+      "hours_of_o": "Mon Weds 10am-4pm  T  Th 9am-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75005, 34.0546]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ci.pomona.ca.us",
+      "tues_hrs": "10:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Community Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.2321",
+      "weds_hrs": "10:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "10:00am-6:00pm",
+      "street_add": "505 S. Garey Ave.",
+      "id": 502,
+      "hours_of_o": "Mon-Thurs 10am-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.co.la.ca.us/dpss",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona District Office",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "866.613.3777   909.865.5210",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 504,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75245, 34.08389]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Homeless Outreach",
+      "friday_hrs": "7:00am-3:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.593.4796",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "2040 N. Garey Ave.",
+      "id": 507,
+      "hours_of_o": "Mon-Thurs 830am-5pm Fri 7am-3:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76689, 34.06199]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "10:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Neighborhood Center  Inc.",
+      "friday_hrs": "10:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.7691",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "10:00am-4:00pm",
+      "street_add": "999 W. Holt Blvd.",
+      "id": 511,
+      "hours_of_o": "Monday  Tuesday & Friday         10:00a.m. to 4:00p.m. Walk in must show picture id  proof of residence and income."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76212, 34.03958]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Plus",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.2571",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "248 Monterey",
+      "id": 512,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7498, 34.05039]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Valley Christian Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.868.1920  951.212.2031",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1006 S. Garey Ave.",
+      "id": 518,
+      "hours_of_o": "Breakfast M  T  Th  Fri  Sat 8-10am                                        Lunch Sat 12:00 p.m.                              Dinner Tues 4:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73928, 34.10705]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Pomona Valley Youth Employment Services",
+      "friday_hrs": "9:00am-6:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.469.0595",
+      "weds_hrs": "9:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-6:00pm",
+      "street_add": "568 E. Foothill Blvd.",
+      "id": 520,
+      "hours_of_o": "M-F 9:00a.m. to 6:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7545, 34.05669]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.projectsister.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Project Sister Sexual Assault Crisis Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "24 hour hotline 909.623.1619",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "303 S. Park",
+      "id": 526,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73602, 34.09027]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-7:30pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Prototypes Effective Adolescent Treatment",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.398.4383",
+      "weds_hrs": "9:00am-7:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "831 E. Arrow Hwy.",
+      "id": 531,
+      "hours_of_o": "M  Thu & F 9:00a.m.-5:30p.m.               Tue & Wed 9:00a.m.-7:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73563, 34.0903]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Prototypes Pomona Apartments",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909-621-9052; Cecilia Jimenez:  951-712-9092",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "837 East  Arrow Hwy",
+      "id": 533,
+      "hours_of_o": "M-F/8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73453, 34.09032]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.prototypes.org",
+      "tues_hrs": "7:30am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Prototypes Women's Center Residential Program",
+      "friday_hrs": "7:30am-6:00pm",
+      "sat_hrs": "",
+      "email": "www.prototypes.org",
+      "phone": "909.624.1233 800.427.1792",
+      "weds_hrs": "7:30am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "7:30am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "7:30am-6:00pm",
+      "street_add": "845 E. Arrow Hwy.",
+      "id": 534,
+      "hours_of_o": "Mon-Friday 7:30am-6:00pm. Call first for phone screening"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.41383, 34.19461]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.providence.org/tattooremoval  Email tattooremoval@providence.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91605",
+      "services_a": "SS",
+      "city_1": "North Hollywood",
+      "agency": "Providence Tattoo Removal Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818.847.3860",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "6801 Coldwater Canyon",
+      "id": 537,
+      "hours_of_o": "Call for details."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75474, 34.06346]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "PUSD Family Support and Resource Center",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.4491",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "605 N. Park Ave.",
+      "id": 544,
+      "hours_of_o": "Mon-Fri 8am-4:30"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09321, 34.09751]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91778",
+      "services_a": "SS",
+      "city_1": "San Gabriel Valley",
+      "agency": "Rebuilding Together Central San Gabriel Valley Chapter",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "714.381.7274",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "P.O. Box 2059",
+      "id": 548,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.31892, 34.1017]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90028",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Salvation Army- The Way In Independent Living Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.469.2946",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "5939 Hollywood Blvd",
+      "id": 561,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.87247, 34.09859]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sangabrielchild.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91724",
+      "services_a": "SS",
+      "city_1": "Covina",
+      "agency": "San Gabriel Children's Center THP-Plus",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "mikealmaraz@sangabrielchild.com",
+      "phone": "626.859.2089",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "4740 North Grand Ave",
+      "id": 563,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03913, 34.07881]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.esgvchomeless.org/eac.shtml",
+      "tues_hrs": "8:30am-1:30pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Center",
+      "friday_hrs": "8:30am-1:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.444.9000",
+      "weds_hrs": "8:30am-1:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-1:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-1:30pm",
+      "street_add": "1345 Turnbull Canyon Rd",
+      "id": 570,
+      "hours_of_o": "Mon-Fri 8:30am-1:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03411, 34.07322]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Center",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "9:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-6:00pm",
+      "street_add": "11046 Valley Mall",
+      "id": 574,
+      "hours_of_o": "M-Th: 9am-6pm; Fri:8:30am-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03039, 34.07426]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sgvcorps.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Conservation Corps",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.579.2484",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "3629 Cypress Ave.",
+      "id": 576,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04523, 34.04486]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Service Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.5431",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1441 Santa Anita Ave",
+      "id": 578,
+      "hours_of_o": "Call for inquiry."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.10157, 34.10256]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.santaanitafamilyservice.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "SS",
+      "city_1": "San Gabriel Valley",
+      "agency": "Santa Anita Family Service",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.308.1414",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "206 W. Las Tunas",
+      "id": 582,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.71668, 34.09297]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.scil-ilc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91711",
+      "services_a": "SS",
+      "city_1": "Claremont",
+      "agency": "Services Center for Independent Living",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "lee@scil-ilc.org",
+      "phone": "909.621.6722",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "107 Spring Street",
+      "id": 585,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94165, 34.06815]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sil-oh.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "Services for Independent Living",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.8868",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "1520 W. Cameron Ave.",
+      "id": 586,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94433, 34.06315]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "SGV Best Babies Collaborative",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.851.2749",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "1115 S. Sunset Ave.",
+      "id": 588,
+      "hours_of_o": "Mon-Fri 9-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.30917, 33.92824]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.shieldsforfamilies.org",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90047",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "SHIELDS for Families",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.242.5000  Ext.1246",
+      "weds_hrs": "8:30am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "11601 S Western Ave",
+      "id": 592,
+      "hours_of_o": "M-F 8:30a.m.-5:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.83756, 34.11674]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ssa.gov",
+      "tues_hrs": "9:00am-3:00pm",
+      "sun_hrs": "",
+      "postal": "91740",
+      "services_a": "SS",
+      "city_1": "Glendora",
+      "agency": "Social Security Administration",
+      "friday_hrs": "9:00am-3:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "800-772-1213",
+      "weds_hrs": "9:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-3:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-3:00pm",
+      "street_add": "225 W Broadway",
+      "id": 594,
+      "hours_of_o": "M-F/9am-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03913, 34.07881]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ssa.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Social Security Administration  El Monte California",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "866.931.0340  ext.11842",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "",
+      "id": 595,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76041, 34.05483]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ssa.gov",
+      "tues_hrs": "9:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Social Security Office",
+      "friday_hrs": "9:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.772.1213",
+      "weds_hrs": "9:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-4:00pm",
+      "street_add": "960 W. Mission Blvd.",
+      "id": 596,
+      "hours_of_o": "M-F 9:00a.m.to 4:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.20241, 34.06822]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cri-help.org",
+      "tues_hrs": "8:30am-4:30pm",
+      "sun_hrs": "",
+      "postal": "90031",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Socorro",
+      "friday_hrs": "8:30am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.222.1440",
+      "weds_hrs": "8:30am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30am-4:30pm",
+      "street_add": " 2010 N. Lincoln Park Ave",
+      "id": 598,
+      "hours_of_o": "Mon-Fri 8:30am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06879, 34.07286]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "SS",
+      "city_1": "Rosemead",
+      "agency": "Springboard",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "800.431.8456",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "3505 N. Hart Ave",
+      "id": 604,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.81024, 34.00232]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91765",
+      "services_a": "SS",
+      "city_1": "Diamond Bar",
+      "agency": "St. Anne's Transitional Homes for Soldiers",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "stannestrans@yahoo.com",
+      "phone": "909.612.1197",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1142 S. Diamond Bar Blvd.",
+      "id": 608,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.82626, 33.98574]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.stdenis.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "7:30am-7:30pm",
+      "postal": "91765",
+      "services_a": "SS",
+      "city_1": "Diamond Bar",
+      "agency": "St. Denis Catholic Community  Diamond Bar",
+      "friday_hrs": "8:00am-9:00pm",
+      "sat_hrs": "8:00am-8:00pm",
+      "email": "mreng5@yahoo.com",
+      "phone": "909.861.7106",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "2151 S. Diamond Bar Blvd",
+      "id": 611,
+      "hours_of_o": "Mon-Fri 8am-9pm  Sat 8am-8pm  Sun 7:30am-7:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94225, 34.06868]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.rehab.cawhnet.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "State CA Department of Rehabilitation",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.813.7662",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1501 W. Cameron Ave.",
+      "id": 618,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.45845, 34.05239]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "http://alcoholism.about.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90025",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "The Salvation Army Haven",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.478.3711 VA ext. 44678",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "11301 Wilshire Blvd.",
+      "id": 630,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04685, 34.04984]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.vethunters.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "The Vet Hunters Project",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "855.838.4376",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "P.O. BOX 3174",
+      "id": 632,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.01067, 33.94354]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.intercommunity.org, www.thewholechild.info",
+      "tues_hrs": "8:30am-12:00pm",
+      "sun_hrs": "",
+      "postal": "90603",
+      "services_a": "SS",
+      "city_1": "Whittier",
+      "agency": "The Whole Child",
+      "friday_hrs": "8:30am-12:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.692.0383    562.204.0640",
+      "weds_hrs": "12:00pm-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "12:00pm-3:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:30pm-12:00pm",
+      "street_add": "10155 Colima Rd.",
+      "id": 635,
+      "hours_of_o": "Walk-in clinical services are open: Mon 8:30am-12pm TuesSpanish speaking only 8:30am-12pm Weds 12pm-3pm ThursSpanish speaking only12pm-3pm Fri 8:30am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73277, 34.06209]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.totalrestorationministries.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Total Restoration Ministries",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.7838 866.750.6134",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "420 N. Reservoir",
+      "id": 641,
+      "hours_of_o": "Call to schedule an appointment  Food Pantry 4th Sunday of the month 1-3Pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75226, 34.07177]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.tricitymhs.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Tri City Mental Health Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "gpolanco@tricitymhs.org",
+      "phone": "909.242.7610",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1403 N. Garey Ave.",
+      "id": 644,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75285, 34.08282]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Tri-City Mental Health Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "gsaldate@tricitymhs.org",
+      "phone": "Toll-Free 866.623.9500",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "2008 N. Garey Ave.",
+      "id": 646,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75954, 34.07581]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Tutoring Assistance Ganesha Park",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.2303",
+      "weds_hrs": "2:00pm-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "1575 N. White Ave.",
+      "id": 648,
+      "hours_of_o": "M  Tue & Thu 9:00a.m.-5:30p.m.           Wed 2:00p.m.-5:30p m"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.37361, 33.95347]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.usvetsinc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90301",
+      "services_a": "SS",
+      "city_1": "Inglewood",
+      "agency": "U.S. VETS- Supportive Services for Veteran Families",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.348.7600",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "733 South Hindry Ave",
+      "id": 650,
+      "hours_of_o": "call for information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13376, 34.15786]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.unionstationhs.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "Union Station Homeless Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "gnelson@unionstationhs.org",
+      "phone": "626.240.4550",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "825 E. Orange Grove Blvd",
+      "id": 655,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13609, 34.169]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "SS",
+      "city_1": "Pasadena",
+      "agency": "URDC/Casa Maria",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.296.8689",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "691 E. Washington Blvd",
+      "id": 658,
+      "hours_of_o": "24 hours a day  7 days a week"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02575, 34.06725]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.worksourcecalifornia.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91732",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Veteran's Job Club",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.258.0365  ext. 226",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "11635 E Valley Blvd.",
+      "id": 663,
+      "hours_of_o": "Last Thursday of the month 9:00am-10:30am."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03104, 34.07301]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.vfw.org",
+      "tues_hrs": "9:00am-3:00pm",
+      "sun_hrs": "9:00am-3:00pm",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Veterans of Foreign Wars  Greater El Monte VFW post 10218",
+      "friday_hrs": "9:00am-3:00pm",
+      "sat_hrs": "9:00am-3:00pm",
+      "email": "",
+      "phone": "626.448.1737",
+      "weds_hrs": "9:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-3:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "9:00am-3:00pm",
+      "street_add": "11126 Ramona Blvd.",
+      "id": 665,
+      "hours_of_o": "9am-3pm daily"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75274, 34.05443]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.victimwitness.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "Victim's Witness Assistance program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.3381",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "400 Civic Center Plz",
+      "id": 670,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.80611, 34.12443]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91773",
+      "services_a": "SS",
+      "city_1": "San Dimas",
+      "agency": "Vineyard Christian Fellowship",
+      "friday_hrs": "9:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.394.3023",
+      "weds_hrs": "9:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:00pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "100 E. Foothill Blvd.",
+      "id": 677,
+      "hours_of_o": "Tues-Fri 9am-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02786, 34.08784]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "VOA of El Monte Access & Outreach Center",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.9878",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "4501 Santa Anita Ave.",
+      "id": 678,
+      "hours_of_o": "M-F 8:00a.m. to 4:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94458, 34.07032]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "Volunteers of America",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.9878",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1760 West Cameron Ave",
+      "id": 681,
+      "hours_of_o": "Mon-Fri 8am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02786, 34.08784]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "8:00am-4:30pm",
+      "postal": "91731",
+      "services_a": "SS",
+      "city_1": "El Monte",
+      "agency": "Volunteers of America San Gabriel Valley Rapid Re-Housing Program",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "8:00am-4:30pm",
+      "email": "",
+      "phone": "626.433.8149 or  626.433.8148",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Supportive Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "4501 Santa Anita Ave",
+      "id": 687,
+      "hours_of_o": "8:00 am-4:30 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75675, 34.04861]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "FCSED@aol.com",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "SS",
+      "city_1": "Pomona",
+      "agency": "W.E.W.I.N./For Christ's Sake",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.622.0094 909.721.2915",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "727 W. 12th St.",
+      "id": 690,
+      "hours_of_o": "Tuesdays 10:00 a.m. to 2:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24109, 34.04544]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.weingart.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "SS",
+      "city_1": "Los Angeles",
+      "agency": "Weingart Center Association",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.627.9000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "566 S. Pedro St",
+      "id": 694,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94458, 34.07032]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "SS",
+      "city_1": "West Covina",
+      "agency": "West Covina Access Center/VOA outreach",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.9878",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "1760 W. Cameron",
+      "id": 696,
+      "hours_of_o": "M-Th 9am-Noon  1pm-4:30pm; Fri 9am-Noon"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0452, 33.97224]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.whittierfirstday.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90602",
+      "services_a": "SS",
+      "city_1": "Whittier",
+      "agency": "Whittier First Day",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.945.4304",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Supportive Services",
+      "mon_hrs": "",
+      "street_add": "12426 Whittier Blvd.",
+      "id": 699,
+      "hours_of_o": ""
+    }
+  }]
+}

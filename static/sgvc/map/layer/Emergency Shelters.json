@@ -1,0 +1,817 @@
+{
+   "type": "FeatureCollection",
+   "features": [{
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.727932,34.054697 ]
+    },
+    "type": "Feature",
+      "properties": {
+      "postal":91766,
+      "services_a":"ES",
+      "city_1":"Pomona",
+      "agency":"City of Pomona",
+      "services_1":"Emergency Shelters",
+      "street_add":"1400 E. Mission Blvd.",
+      "project_name":"CES Crisis Housing SPA 3 VOA",
+      "spa":3,
+      "sd":"1",
+      "cd":"0",
+      "hmis_participating":"Yes",
+      "pit count":87,
+      "total beds":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.727932,34.054697 ]
+    },
+    "properties": {
+    "postal":91766,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"City of Pomona",
+    "services_1":"Emergency Shelters",
+    "street_add":"1400 E. Mission Blvd.",
+    "project_name":"Tri-City Crisis Housing",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":21,
+    "total beds":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.727932,34.054697 ]
+    },
+    "properties": {
+    "postal":91766,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"City of Pomona",
+    "services_1":"Emergency Shelters",
+    "street_add":"1400 E. Mission Blvd.",
+    "project_name":"PD ESG Crisis Housing",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":5,
+    "total beds":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.727932,34.054697 ]
+    },
+    "properties": {
+    "postal":91766,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"City of Pomona",
+    "services_1":"Emergency Shelters",
+    "street_add":"1400 E. Mission Blvd.",
+    "project_name":"CES Bridge Housing Program",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":0,
+    "total beds":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.726732,34.098769 ]
+    },
+    "properties": {
+    "postal":91711,
+    "services_a":"ES",
+    "city_1":"Claremont",
+    "agency":"Claremont Homeless Advocacy Program (CHAP)",
+    "services_1":"Emergency Shelters",
+    "street_add":"727 Harrison St.",
+    "project_name":"Overnight Accommodation",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":9,
+    "total beds":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.71978,34.09668 ]
+    },
+    "properties": {
+    "postal":91711,
+    "services_a":"ES",
+    "city_1":"CONFIDENTIAL",
+    "agency":"Claremont House of Ruth",
+    "services_1":"Emergency Shelters",
+    "street_add":"CONFIDENTIAL",
+    "project_name":"Emergency Shelter for Battered\nWomen",
+    "spa":3,
+    "sd":"CONFIDENTIAL",
+    "cd":"CONFIDENTIAL",
+    "hmis_participating":"No",
+    "pit count":4,
+    "total beds":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.979765,34.010603 ]
+    },
+    "properties": {
+    "postal":91745,
+    "services_a":"ES",
+    "city_1":"Hacienda Heights",
+    "agency":"East San Gabriel Valley Coalition for the\nHomeless",
+    "services_1":"Emergency Shelters",
+    "street_add":"1345 Turnbull Canyon Rd.",
+    "project_name":"Winter Shelter Program SPA 3",
+    "spa":3,
+    "sd":"4",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":193,
+    "total beds":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.979765,34.010603 ]
+    },
+    "properties": {
+    "postal":91745,
+    "services_a":"ES",
+    "city_1":"Hacienda Heights",
+    "agency":"East San Gabriel Valley Coalition for the\nHomeless",
+    "services_1":"Emergency Shelters",
+    "street_add":"1345 Turnbull Canyon Rd.",
+    "project_name":"Winter Shelter Program SPA 3",
+    "spa":3,
+    "sd":"4",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.08889,34.042016 ]
+    },
+    "properties": {
+    "postal":91770,
+    "services_a":"ES",
+    "city_1":"Rosemead",
+    "agency":"Family Promise of San Gabriel Valley",
+    "services_1":"Emergency Shelters",
+    "street_add":"1255 San Gabriel Blvd.",
+    "project_name":"Family Promise of San Gabriel Valley",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":10,
+    "total beds":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.878273,33.985699 ]
+    },
+    "properties": {
+    "postal":91748,
+    "services_a":"ES",
+    "city_1":"Rowland Heights",
+    "agency":"Gospel Missions of America",
+    "services_1":"Emergency Shelters",
+    "street_add":"1803 Nausika Ave.",
+    "project_name":"Gospel Missions of America",
+    "spa":3,
+    "sd":"4",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":3,
+    "total beds":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.136074,34.181363 ]
+    },
+    "properties": {
+    "postal":91001,
+    "services_a":"ES",
+    "city_1":"Altadena",
+    "agency":"Los Angeles Center for Alcohol and Drug Abuse\n(LA CADA)",
+    "services_1":"Emergency Shelters",
+    "street_add":"2079 N. El Molino Ave.",
+    "project_name":"Recovery Bridge Housing Start House",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":8,
+    "total beds":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.786738,34.060773 ]
+    },
+    "properties": {
+    "postal":91768,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Los Angeles County Department of Public Social\nServices (DPSS)",
+    "services_1":"Emergency Shelters",
+    "street_add":"2040 W Holt Ave",
+    "project_name":"Cal Works Homeless Assistance\nProgram 36 Pomona (Vouchers)",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":82,
+    "total beds":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.06832,34.069373 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"ES",
+    "city_1":"El Monte",
+    "agency":"Los Angeles County Department of Public Social\nServices (DPSS)",
+    "services_1":"Emergency Shelters",
+    "street_add":"3350 Aerojet Ave",
+    "project_name":"Cal Works Homeless Assistance\nProgram 04 El Monte (Vouchers)",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":96,
+    "total beds":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.068603,34.06955 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"ES",
+    "city_1":"El Monte",
+    "agency":"Los Angeles County Department of Public Social\nServices (DPSS)",
+    "services_1":"Emergency Shelters",
+    "street_add":"3352 Aerojet Ave",
+    "project_name":"Cal Works Homeless Assistance\nProgram 20 San Gabriel (Vouchers)",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":67,
+    "total beds":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.907123,34.137906 ]
+    },
+    "properties": {
+    "postal":91702,
+    "services_a":"ES",
+    "city_1":"Azusa",
+    "agency":"Pathways Sober Living Inc.",
+    "services_1":"Emergency Shelters",
+    "street_add":"918 N. Azusa Ave.",
+    "project_name":"Pathways V Sober Living",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":16,
+    "total beds":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.904078,34.140205 ]
+    },
+    "properties": {
+    "postal":91702,
+    "services_a":"ES",
+    "city_1":"Azusa",
+    "agency":"Pathways Sober Living Inc.",
+    "services_1":"Emergency Shelters",
+    "street_add":"1033 N. Soldano",
+    "project_name":"Pathways VIII Sober Living",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":22,
+    "total beds":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.744478,34.08477 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Pathways Sober Living Inc.",
+    "services_1":"Emergency Shelters",
+    "street_add":"2190 N. Orange Grove Ave.",
+    "project_name":"Pathways IV Sober Living",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":21,
+    "total beds":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.740026,34.103924 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Pathways Sober Living Inc.",
+    "services_1":"Emergency Shelters",
+    "street_add":"510 Fox Park Dr.",
+    "project_name":"Pathways II Sober Living",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":15,
+    "total beds":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.742655,34.043796 ]
+    },
+    "properties": {
+    "postal":91766,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Pathways Sober Living Inc.",
+    "services_1":"Emergency Shelters",
+    "street_add":"712 E. Phillips Blvd",
+    "project_name":"Pathways III Sober Living",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit count":30,
+    "total beds":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.740055,34.067966 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Prototypes",
+    "services_1":"Emergency Shelters",
+    "street_add":"651 Alvarado St.",
+    "project_name":"DPH Interim Housing RBH - SAPC",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":37,
+    "total beds":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.736138,34.090327 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Prototypes",
+    "services_1":"Emergency Shelters",
+    "street_add":"837 E. Arrow Hwy.",
+    "project_name":"DHS Interim Housing",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":45,
+    "total beds":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.736138,34.090327 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Prototypes",
+    "services_1":"Emergency Shelters",
+    "street_add":"837 E. Arrow Hwy.",
+    "project_name":"DHS Interim Housing Short Term",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":3,
+    "total beds":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.052129,34.078008 ]
+    },
+    "properties": {
+    "postal":91731,
+    "services_a":"ES",
+    "city_1":"El Monte",
+    "agency":"The Salvation Army",
+    "services_1":"Emergency Shelters",
+    "street_add":"10024 Valley Blvd.",
+    "project_name":"COVID - LA M Motel Tier 1",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.018157,34.06276 ]
+    },
+    "properties": {
+    "postal":91732,
+    "services_a":"ES",
+    "city_1":"El Monte",
+    "agency":"The Salvation Army",
+    "services_1":"Emergency Shelters",
+    "street_add":"12040 Garvey Ave.",
+    "project_name":"COVID - LA America's Best Inn Motel\nTier 1",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.926085,34.107111 ]
+    },
+    "properties": {
+    "postal":91706,
+    "services_a":"ES",
+    "city_1":"Irwindale",
+    "agency":"Union Station Homeless Services",
+    "services_1":"Emergency Shelters",
+    "street_add":"16029 Arrow Highway.",
+    "project_name":"USHS 3 Cities Crisis Housing Motel\nVouchers",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.108608,34.062358 ]
+    },
+    "properties": {
+    "postal":91755,
+    "services_a":"ES",
+    "city_1":"Monterey Park",
+    "agency":"Union Station Homeless Services",
+    "services_1":"Emergency Shelters",
+    "street_add":"1040 Garvey Ave",
+    "project_name":"COVID - LA Garvey Inn Tier 1",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.121346,34.061722 ]
+    },
+    "properties": {
+    "postal":91755,
+    "services_a":"ES",
+    "city_1":"Monterey Park",
+    "agency":"Union Station Homeless Services",
+    "services_1":"Emergency Shelters",
+    "street_add":"123 S. Lincoln Ave.",
+    "project_name":"COVID - LA Lincoln Plaza Hotel Tier 1",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.926085,34.107111 ]
+    },
+    "properties": {
+    "postal":91706,
+    "services_a":"ES",
+    "city_1":"Irwindale",
+    "agency":"Union Station Homeless Services",
+    "services_1":"Emergency Shelters",
+    "street_add":"16029 Arrow Highway.",
+    "project_name":"USHS FSC Crisis Housing Vouchers\n(Vouchers)",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":402,
+    "total beds":401
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.751828,34.083629 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"2040 N. Garey St.",
+    "project_name":"CES Crisis Housing Program SPA 3",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":1,
+    "total beds":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.751828,34.083629 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"2040 N. Garey St.",
+    "project_name":"CES Bridge Housing Program SPA 3",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":7,
+    "total beds":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.987844,34.052447 ]
+    },
+    "properties": {
+    "postal":91746,
+    "services_a":"ES",
+    "city_1":"La Puente",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"510 Vineland Ave.",
+    "project_name":"Winter Shelter Program Basset Park\nSPA 3",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":99,
+    "total beds":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.987844,34.052447 ]
+    },
+    "properties": {
+    "postal":91746,
+    "services_a":"ES",
+    "city_1":"La Puente",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"510 Vineland Ave.",
+    "project_name":"Winter Shelter Program Basset Park\nSPA 3",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.960313,34.002174 ]
+    },
+    "properties": {
+    "postal":91745,
+    "services_a":"ES",
+    "city_1":"Hacienda Heights",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"1545 S. Stimson Ave.",
+    "project_name":"Winter Shelter Program Steinmetz\nPark SPA 3",
+    "spa":3,
+    "sd":"4",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":15,
+    "total beds":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.960313,34.002174 ]
+    },
+    "properties": {
+    "postal":91745,
+    "services_a":"ES",
+    "city_1":"Hacienda Heights",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"1545 S. Stimson Ave.",
+    "project_name":"Winter Shelter Program Steinmetz\nPark SPA 3",
+    "spa":3,
+    "sd":"4",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.869247,33.993879 ]
+    },
+    "properties": {
+    "postal":91789,
+    "services_a":"ES",
+    "city_1":"Walnut",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"1170 Fairway Dr.",
+    "project_name":"COVID - LA Quality Inn & Suites Tier 1",
+    "spa":3,
+    "sd":"4",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.994203,34.123115 ]
+    },
+    "properties": {
+    "postal":91010,
+    "services_a":"ES",
+    "city_1":"Duarte",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"2236 Goodall Ave., Duarte, CA\n91010",
+    "project_name":"Winter Shelter Program Pamela Park",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":null,
+    "total beds":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.744078,34.106842 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"ES",
+    "city_1":"Pomona",
+    "agency":"Volunteers of America of Los Angeles",
+    "services_1":"Emergency Shelters",
+    "street_add":"310 E. Foothill Blvd.",
+    "project_name":"Family Crisis Housing Project SPA 3\n(Vouchers)",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit count":10,
+    "total beds":10
+    }
+  }]
+}

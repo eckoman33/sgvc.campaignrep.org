@@ -1,0 +1,24 @@
+(function($) {
+  Drupal.behaviors.globalScripts = {
+    attach: function(context, settings) {
+
+      $('span.nolink').replaceWith(function() {
+        var url = $.trim($(this).text());
+        return '<a href="#" class="menu-link"><div>' + url + '</div></a>';
+      });
+
+      $(".primary-menu ul:first-child").addClass('menu-container');
+      $(".primary-menu ul li ul").removeClass("menu-container").addClass("sub-menu-container");
+      $(".primary-menu a").addClass("menu-link");
+
+
+      // $("#crm-container").removeClass("crm-container crm-public");
+      // $(".crm-register-button").addClass("button-large");
+      // $(".crm-submit-buttons .crm-button .crm-form-submit").addClass("button button-large");
+      // $(".crm-form-text").addClass("form-control");
+      // $(".crm-form-select").addClass("form-control");
+
+
+    },
+  };
+})(jQuery);

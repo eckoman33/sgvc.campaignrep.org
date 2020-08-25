@@ -1,0 +1,1354 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.4551, 34.15551]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "92336",
+      "services_a": "BH",
+      "city_1": "Fontana",
+      "agency": "Agape House",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.574.5679",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "PO Box 828",
+      "id": 11,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29791, 34.0663]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.alexandriahouse.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90020",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Alexandria House-Transitional Housing",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.381.2649",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "426 South Alexandria St.",
+      "id": 13,
+      "hours_of_o": "Call to apply"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.18452, 34.14]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.alliancehh.org",
+      "tues_hrs": "8:30am-5:30pm",
+      "sun_hrs": "8:30am-5:30pm",
+      "postal": "90041",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Alliance for Housing & Healing  Aid for AIDS & The Serra Project",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "8:30am-5:30pm",
+      "email": "",
+      "phone": "323.344.4888",
+      "weds_hrs": "8:30am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:30pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:30am-5:30pm",
+      "street_add": "825 Colorado Blvd.",
+      "id": 16,
+      "hours_of_o": "8:30-5:30"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.39678, 33.94889]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "92506",
+      "services_a": "BH",
+      "city_1": "Riverside",
+      "agency": "Alternatives to Abortion Ministries",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "714.682.6881",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "6881 Brockton Ave",
+      "id": 17,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.5385, 34.4392]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91354",
+      "services_a": "BH",
+      "city_1": "Santa Clarita",
+      "agency": "Amy Lynn Heritage Home",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "661.299.5472",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "27716 Vista Delgado Dr.",
+      "id": 24,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.85388, 33.78971]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.casateresa.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "92866",
+      "services_a": "BH",
+      "city_1": "Orange",
+      "agency": "Anaheim Interfaith Shelter- Casa Teresa-Pregnancy Home",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "714.538.4860",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "123 W. Maple Ave",
+      "id": 25,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.86217, 33.81854]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.casateresa.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "92856",
+      "services_a": "BH",
+      "city_1": "Orange",
+      "agency": "Anaheim Interfaith Shelter- Casa Teresa-Pregnancy Home",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "714.538.4860",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "PO Box 429",
+      "id": 26,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24512, 34.04548]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Anne Douglas Center for Rehabilitation Program for Women",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.614.0743",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "310 Winston St.",
+      "id": 32,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96923, 34.05161]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bassettadultschool.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "BH",
+      "city_1": "El Monte",
+      "agency": "Bassett Adult School/Training Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.931.3129",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "943 Sunkist Ave",
+      "id": 59,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.89751, 33.78624]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "92840",
+      "services_a": "BH",
+      "city_1": "Garden Grove",
+      "agency": "Bethany Christian Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "714.804.3448",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "12141 Lewis St.",
+      "id": 67,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.26506, 34.05305]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.beyondshelter.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90017",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Beyond Shelter",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.229.8600 213.252.0772",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1200 Wilshire Blvd.",
+      "id": 69,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.21181, 34.07753]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90031",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Booth Memorial",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.225.1586",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "2670 Griffin Ave.",
+      "id": 72,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02903, 34.06967]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "BH",
+      "city_1": "El Monte",
+      "agency": "California Hispanic Commission on Alcoholic and Drug Abuse CHCADA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.444.9000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "11411 Valley Blvd",
+      "id": 90,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.08105, 33.86631]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90702",
+      "services_a": "BH",
+      "city_1": "Los Alamitos",
+      "agency": "Casa Bienvenidos Home",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.594.6825",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "PO Box 216",
+      "id": 95,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29235, 33.80368]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.casadelosangelitos.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90710",
+      "services_a": "BH",
+      "city_1": "Harbor City",
+      "agency": "Casa De Los Angelitos",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.325.8208",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "954 Koleeta Dr.",
+      "id": 98,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.72077, 34.06301]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "BH",
+      "city_1": "Pomona",
+      "agency": "Catholic Charities",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.1331",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1460 Holt Ave",
+      "id": 106,
+      "hours_of_o": "Mon-Fri by appt."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.23223, 33.89412]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cwroioi@aol.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90220",
+      "services_a": "BH",
+      "city_1": "Compton",
+      "agency": "Compton Welfare Rights Organization  Inc.-Shelter for Homeless Women and Children",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.631.5193",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "528 W. Almond St.",
+      "id": 133,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78502, 34.10434]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.davidandmargaret.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91750",
+      "services_a": "BH",
+      "city_1": "La Verne",
+      "agency": "David & Margaret Youth & Family Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.596.5921  ext.3500",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1350 Third St.",
+      "id": 148,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95177, 34.04381]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.delhavencommunitycenter.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "BH",
+      "city_1": "La Puente",
+      "agency": "Delhaven Community Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.9789",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "15135 Fair Grove Ave",
+      "id": 154,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "BH",
+      "city_1": "Pomona",
+      "agency": "Department of Public Social Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "rociobuitrago@dpss.lacounty.gov",
+      "phone": "909.865.5322",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 163,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.41982, 34.28133]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.didihirsch.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91331",
+      "services_a": "BH",
+      "city_1": "Pacoima",
+      "agency": "DIDI Hirsh Community Health Center Via Avanta",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818.897.2609",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "11643 GLENOAKS BLVD",
+      "id": 173,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13846, 34.14697]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.doorofhope.us",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "BH",
+      "city_1": "Pasadena",
+      "agency": "Door of Hope",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.304.9130",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "669 N. ROBLES AVE",
+      "id": 179,
+      "hours_of_o": "Mon-Fri 9-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14429, 34.12852]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.elizabethhouse.net",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "91106",
+      "services_a": "BH",
+      "city_1": "Pasadena",
+      "agency": "Elizabeth House",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.577.4434",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "P.O. Box 94077",
+      "id": 207,
+      "hours_of_o": "Mon-Fri 9am-530pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.08584, 34.10348]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.nihn.org  http//:web.fpsgv.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "BH",
+      "city_1": "San Gabriel",
+      "agency": "Family Promise",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.569.0991",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1005 E. Las Tunas Dr.",
+      "id": 229,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0878, 34.04329]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.fpsgv.org",
+      "tues_hrs": "10:00am-8:00pm",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "BH",
+      "city_1": "Rosemead",
+      "agency": "Family Promise of San Gabriel Valley",
+      "friday_hrs": "10:00am-8:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626 569-0991",
+      "weds_hrs": "10:00am-8:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-8:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "10:00am-8:00pm",
+      "street_add": "1255 San Gabriel Blvd",
+      "id": 232,
+      "hours_of_o": "M-F 10am-8pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.6797, 34.09601]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamilyshelter.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91786",
+      "services_a": "BH",
+      "city_1": "Upland",
+      "agency": "Foothill Family Shelter",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.920.0453",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1501 W. 9th St",
+      "id": 279,
+      "hours_of_o": "Call for next application dates."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.32124, 34.04063]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.gramercyhousinggroup.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90019",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Gramercy House Group",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.737.7352",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1824 4th Ave.",
+      "id": 302,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13971, 34.13111]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.hathaway-sycamores.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91106",
+      "services_a": "BH",
+      "city_1": "Pasadena",
+      "agency": "Hathaway-Sycamores Child and Family Services  Transitional Living Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.395.7100  ext.7918",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "851 N. Oakland Ave.",
+      "id": 311,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.39625, 33.95487]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.homesforlife.org",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "90045",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Homes for Life Foundation",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.337.7417 ext. 36",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "8939 S. Sepulveda Blvd.",
+      "id": 329,
+      "hours_of_o": "Mon-Fri 9-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75003, 34.05483]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "",
+      "services_a": "BH",
+      "city_1": "Pomona",
+      "agency": "Hope Resource Group",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.994.1774",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "",
+      "id": 330,
+      "hours_of_o": "Call office for availability"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75221, 34.06347]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.houseofruthinc.org",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "9:00am-5:00pm",
+      "postal": "91768",
+      "services_a": "BH",
+      "city_1": "",
+      "agency": "House of Ruth",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "9:00am-5:00pm",
+      "email": "pbell@houseofruthinc.org",
+      "phone": "Pomona Outreach Center  909.623.4364   Ontario Outreach Center  909.391.4515   Hotline  909.988.5559",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "599 N. Main St",
+      "id": 337,
+      "hours_of_o": "24 hour hotline  Office 9am-5pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.25844, 34.04953]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.lahsa.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "90017",
+      "services_a": "BH",
+      "city_1": "",
+      "agency": "LAHSA",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.683.3333",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "811 Wilshire Blvd",
+      "id": 390,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.31472, 34.10326]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.layn.org",
+      "tues_hrs": "9:00am-4:00pm",
+      "sun_hrs": "9:00am-4:00pm",
+      "postal": "90028",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Los Angeles Youth Network",
+      "friday_hrs": "9:00am-4:00pm",
+      "sat_hrs": "9:00am-4:00pm",
+      "email": "",
+      "phone": "323.467.8466",
+      "weds_hrs": "9:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "9:00am-4:00pm",
+      "street_add": "1754 Taft Ave",
+      "id": 413,
+      "hours_of_o": "24/7  Drop in center for youth from 9-4pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75245, 34.08389]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "BH",
+      "city_1": "Pomona",
+      "agency": "Mercy House/Trinity House",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.593.4281",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "2040 N. Garey Ave",
+      "id": 429,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.4295, 34.04126]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.militarywomeninneed.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90064",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Military Women in Need",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.684.3854",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "2355 Westwood Blvd.",
+      "id": 435,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02595, 34.05798]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bridgesinc.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91732",
+      "services_a": "BH",
+      "city_1": "Pomona",
+      "agency": "My First Place/BRIDGES Inc.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "clee@bridgesrehab.org",
+      "phone": "626.200.7993",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "11927 Elliot Ave",
+      "id": 440,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98962, 34.07965]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.pacificclinics.org",
+      "tues_hrs": "9:00am-8:00pm",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "BH",
+      "city_1": "Irwindale",
+      "agency": "Pacific Clinics Irwindale TAY Hope Center Drop-In",
+      "friday_hrs": "11:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.3828",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-8:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "13001 Ramona Blvd.",
+      "id": 476,
+      "hours_of_o": "MW 9-5  TuTh 9-8  F 11-5"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14717, 34.12833]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.unionstationhs.org/passageways",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91105",
+      "services_a": "BH",
+      "city_1": "Pasadena",
+      "agency": "Passageways",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.403.4888",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "1020 S. Arroyo Pkwy",
+      "id": 487,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.28915, 34.07744]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.epath.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90004",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "PATHPeople Assisting The Homeless LA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.664.2231",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "340 N. Madison Ave.",
+      "id": 492,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.31892, 34.1017]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90028",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Salvation Army- The Way In Independent Living Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.469.2946",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "5939 Hollywood Blvd",
+      "id": 557,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.87247, 34.09859]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sangabrielchild.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91724",
+      "services_a": "BH",
+      "city_1": "Covina",
+      "agency": "San Gabriel Children's Center THP-Plus",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "mikealmaraz@sangabrielchild.com",
+      "phone": "626.859.2089",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "4740 North Grand Ave",
+      "id": 566,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.81024, 34.00232]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91765",
+      "services_a": "BH",
+      "city_1": "Diamond Bar",
+      "agency": "St. Anne's Transitional Homes for Soldiers",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "stannestrans@yahoo.com",
+      "phone": "909.612.1197",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1142 S. Diamond Bar Blvd.",
+      "id": 607,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94225, 34.06868]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.rehab.cawhnet.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "BH",
+      "city_1": "West Covina",
+      "agency": "State CA Department of Rehabilitation",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.813.7662",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "1501 W. Cameron Ave.",
+      "id": 617,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.45845, 34.05239]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "http://alcoholism.about.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90025",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "The Salvation Army Haven",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.478.3711 VA ext. 44678",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "11301 Wilshire Blvd.",
+      "id": 629,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.01067, 33.94354]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.intercommunity.org, www.thewholechild.info",
+      "tues_hrs": "8:30am-12:00pm",
+      "sun_hrs": "",
+      "postal": "90603",
+      "services_a": "BH",
+      "city_1": "Whittier",
+      "agency": "The Whole Child",
+      "friday_hrs": "8:30am-12:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.692.0383    562.204.0640",
+      "weds_hrs": "12:00pm-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "12:00pm-3:00pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:30pm-12:00pm",
+      "street_add": "10155 Colima Rd.",
+      "id": 633,
+      "hours_of_o": "Walk-in clinical services are open: Mon 8:30am-12pm TuesSpanish speaking only 8:30am-12pm Weds 12pm-3pm ThursSpanish speaking only12pm-3pm Fri 8:30am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73277, 34.06209]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.totalrestorationministries.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "BH",
+      "city_1": "Pomona",
+      "agency": "Total Restoration Ministries",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.7838 866.750.6134",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "420 N. Reservoir",
+      "id": 640,
+      "hours_of_o": "Call to schedule an appointment  Food Pantry 4th Sunday of the month 1-3Pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13609, 34.169]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "BH",
+      "city_1": "Pasadena",
+      "agency": "URDC/Casa Maria",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.296.8689",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "691 E. Washington Blvd",
+      "id": 657,
+      "hours_of_o": "24 hours a day  7 days a week"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94793, 34.028]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "BH",
+      "city_1": "La Puente",
+      "agency": "Victory Outreach",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.961.4910",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "",
+      "id": 674,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94458, 34.07032]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "BH",
+      "city_1": "West Covina",
+      "agency": "Volunteers of America",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.9878",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1760 West Cameron Ave",
+      "id": 680,
+      "hours_of_o": "Mon-Fri 8am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24109, 34.04544]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.weingart.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "BH",
+      "city_1": "Los Angeles",
+      "agency": "Weingart Center Association",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.627.9000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Bridge Housing",
+      "mon_hrs": "",
+      "street_add": "566 S. Pedro St",
+      "id": 691,
+      "hours_of_o": "Call for more information"
+    }
+  }]
+}

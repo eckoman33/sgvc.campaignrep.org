@@ -1,0 +1,112 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0317, 34.08231]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.catholiccharitiesla.org",
+      "tues_hrs": "9:00am-1:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "UA",
+      "city_1": "El Monte",
+      "agency": "Catholic Charities",
+      "friday_hrs": "9:00am-1:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.7652",
+      "weds_hrs": "9:00am-1:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-1:00pm",
+      "services_1": "Utility Assistance",
+      "mon_hrs": "9:00am-1:00pm",
+      "street_add": "4171 N Tyler Ave",
+      "id": 104,
+      "hours_of_o": "Mon-Fri 9am-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75296, 34.06044]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:30am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "UA",
+      "city_1": "Pomona",
+      "agency": "Catholic Charities",
+      "friday_hrs": "8:30am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.0472",
+      "weds_hrs": "8:30am-12:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-5:00pm",
+      "services_1": "Utility Assistance",
+      "mon_hrs": "8:30am-5:00pm",
+      "street_add": "248 E. Monterey Ave",
+      "id": 107,
+      "hours_of_o": "M  T  Th  F: 8:30am-5pm; Wed: 8:30am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74324, 34.0811]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.salvationarmyusa.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "UA",
+      "city_1": "Pomona",
+      "agency": "Salvation Army",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.1579",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Utility Assistance",
+      "mon_hrs": "",
+      "street_add": "490 E. La Verne Ave.",
+      "id": 553,
+      "hours_of_o": "Tues-Thurs & Fri 9-11am and 1-2pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.37361, 33.95347]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.usvetsinc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90301",
+      "services_a": "UA",
+      "city_1": "Inglewood",
+      "agency": "U.S. VETS- Supportive Services for Veteran Families",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.348.7600",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Utility Assistance",
+      "mon_hrs": "",
+      "street_add": "733 South Hindry Ave",
+      "id": 654,
+      "hours_of_o": "call for information"
+    }
+  }]
+}

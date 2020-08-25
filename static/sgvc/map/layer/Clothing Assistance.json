@@ -1,0 +1,355 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96923, 34.05161]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.bassettadultschool.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "CA",
+      "city_1": "El Monte",
+      "agency": "Bassett Adult School/Training Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.931.3129",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "943 Sunkist Ave",
+      "id": 61,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0317, 34.08231]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.catholiccharitiesla.org",
+      "tues_hrs": "9:00am-1:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "CA",
+      "city_1": "El Monte",
+      "agency": "Catholic Charities",
+      "friday_hrs": "9:00am-1:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.7652",
+      "weds_hrs": "9:00am-1:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-1:00pm",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "9:00am-1:00pm",
+      "street_add": "4171 N Tyler Ave",
+      "id": 101,
+      "hours_of_o": "Mon-Fri 9am-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88786, 34.08802]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "4:00pm-5:00pm",
+      "sun_hrs": "",
+      "postal": "91723",
+      "services_a": "CA",
+      "city_1": "Covina",
+      "agency": "Christ First Baptist Church",
+      "friday_hrs": "7:00am-8:00am",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.339.7378",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "200 North Second Ave",
+      "id": 119,
+      "hours_of_o": "Breakfast served every Friday morning from 7:00am-8:00am and Dinner served every Tuesday night from 4:00pm-5:00pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95177, 34.04381]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.delhavencommunitycenter.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "CA",
+      "city_1": "La Puente",
+      "agency": "Delhaven Community Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.9789",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "15135 Fair Grove Ave",
+      "id": 151,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.91357, 34.01406]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.rowlandschools.org",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "CA",
+      "city_1": "La Puente",
+      "agency": "Family Resource Center Rowland Unified School District",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.854.8520 ext.1791",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "17800 E. Renault St.",
+      "id": 234,
+      "hours_of_o": "Mon-Fri 8-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88309, 34.10675]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.loveinc.org",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91722",
+      "services_a": "CA",
+      "city_1": "Covina",
+      "agency": "Love In the Name of Christ Love INC",
+      "friday_hrs": "10:00am-2:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.858.3300",
+      "weds_hrs": "10:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-2:00pm",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "10:00am-2:00pm",
+      "street_add": "18821 Arrow Highway",
+      "id": 416,
+      "hours_of_o": "Mon-Fri 10am-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75824, 34.04086]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "CA",
+      "city_1": "Pomona",
+      "agency": "Mckenny-Vento Homeless Education Support",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.5045",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "1690 S. White Ave.",
+      "id": 420,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75642, 34.06036]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "3:30pm-5:30pm",
+      "postal": "91768",
+      "services_a": "CA",
+      "city_1": "Pomona",
+      "agency": "New Harvest Community Church/Helping Hands Caring Hearts Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.8646",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "480 W. Monterey St.",
+      "id": 455,
+      "hours_of_o": "Sunday Dinner @ 3:45 Pantry 3:30pm-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76689, 34.06199]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "10:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "CA",
+      "city_1": "Pomona",
+      "agency": "Pomona Neighborhood Center  Inc.",
+      "friday_hrs": "10:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.7691",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "10:00am-4:00pm",
+      "street_add": "999 W. Holt Blvd.",
+      "id": 509,
+      "hours_of_o": "Monday  Tuesday & Friday         10:00a.m. to 4:00p.m. Walk in must show picture id  proof of residence and income."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74978, 34.04996]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "CA",
+      "city_1": "Pomona",
+      "agency": "Pomona Valley Christian Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "951.212.2031  909.868.1920",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "1066 Garey Ave",
+      "id": 515,
+      "hours_of_o": "Every 4th Thurs 10am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7498, 34.05039]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "CA",
+      "city_1": "Pomona",
+      "agency": "Pomona Valley Christian Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.868.1920  951.212.2031",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "1006 S. Garey Ave.",
+      "id": 517,
+      "hours_of_o": "Breakfast M  T  Th  Fri  Sat 8-10am                                        Lunch Sat 12:00 p.m.                              Dinner Tues 4:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.91357, 34.01406]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.rowlandschools.org",
+      "tues_hrs": "7:30am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "CA",
+      "city_1": "La Puente",
+      "agency": "Rowland unified School District Family Resource Center",
+      "friday_hrs": "7:30am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.854.2228",
+      "weds_hrs": "7:30am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "7:30am-4:30pm",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "7:30am-4:30pm",
+      "street_add": "17800 E. Renault St.",
+      "id": 550,
+      "hours_of_o": "Mon-Fri 7:30am-4:30pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75675, 34.04861]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "FCSED@aol.com",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "CA",
+      "city_1": "Pomona",
+      "agency": "W.E.W.I.N./For Christ's Sake",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.622.0094 909.721.2915",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Clothing Assistance",
+      "mon_hrs": "",
+      "street_add": "727 W. 12th St.",
+      "id": 689,
+      "hours_of_o": "Tuesdays 10:00 a.m. to 2:00 p.m."
+    }
+  }]
+}

@@ -1,0 +1,1274 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.77287,34.05463 ]
+    },
+    "type": "Feature",
+      "properties": {
+      "website":"www.pusd.org/ace",
+      "street_add":"1515 W. Mission Blvd.",
+      "postal":91766,
+      "services_a":"EES",
+      "city_1":"Pomona",
+      "agency":"Adult Education Center PUSD",
+      "email":"",
+      "services_1":"Employment Educational Services",
+      "phone":"909.469.2333",
+      "mon_hrs":"8:00am-4:30pm",
+      "tues_hrs":"8:00am-4:30pm",
+      "weds_hrs":"8:00am-4:30pm",
+      "thurs_hrs":"8:00am-4:30pm",
+      "friday_hrs":"8:00am-4:30pm",
+      "sat_hrs":"",
+      "sun_hrs":"",
+      "language_a":"",
+      "hours_of_o":"Monday-Friday 8am-4:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.04489,34.1317 ]
+    },
+    "properties": {
+    "website":"www.redcross.org",
+    "street_add":"376 W. Huntington Dr.",
+    "postal":91007,
+    "services_a":"EES",
+    "city_1":"Arcadia",
+    "agency":"American Red Cross",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.447.2193",
+    "mon_hrs":"8:30am-4:30pm",
+    "tues_hrs":"8:30am-4:30pm",
+    "weds_hrs":"8:30am-4:30pm",
+    "thurs_hrs":"8:30am-4:30pm",
+    "friday_hrs":"8:30am-4:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 8:30am-4:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.61074,34.19282 ]
+    },
+    "properties": {
+    "website":"www.angelswayhome.net",
+    "street_add":"22212 Welby Way",
+    "postal":91303,
+    "services_a":"EES",
+    "city_1":"Woodland Hills",
+    "agency":"Angel's Way Maternity Home",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"818.346.2229",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.6011,34.19733 ]
+    },
+    "properties": {
+    "website":"www.angelswayhome.net",
+    "street_add":"PO Box 70",
+    "postal":91303,
+    "services_a":"EES",
+    "city_1":"Woodland Hills",
+    "agency":"Angel's Way Maternity Home",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"818.346.2229",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.27621,34.05005 ]
+    },
+    "properties": {
+    "website":"www.apaitonline.org",
+    "street_add":"1730 W. Olympic Blvd",
+    "postal":90015,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"Asian Pacific AIDS Intervention Team",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"213.553.1830",
+    "mon_hrs":"10:00am-6:00pm",
+    "tues_hrs":"10:00am-6:00pm",
+    "weds_hrs":"10:00am-6:00pm",
+    "thurs_hrs":"10:00am-6:00pm",
+    "friday_hrs":"10:00am-6:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 10am-6pm  Saturday by appt."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.09972,34.09767 ]
+    },
+    "properties": {
+    "website":"www.asianyouthcenter.org",
+    "street_add":"100 W. Clary Ave.",
+    "postal":91776,
+    "services_a":"EES",
+    "city_1":"San Gabriel",
+    "agency":"AYC Asian Youth Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.731.3314",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.27238,34.02636 ]
+    },
+    "properties": {
+    "website":"www.calvet.ca.gov",
+    "street_add":"2615 S. Grand Ave.",
+    "postal":90011,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"CA Department of Veterans Affairs",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"213.744.4847",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Call for more information"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.29235,33.80368 ]
+    },
+    "properties": {
+    "website":"www.casadelosangelitos.org",
+    "street_add":"954 Koleeta Dr.",
+    "postal":90710,
+    "services_a":"EES",
+    "city_1":"Harbor City",
+    "agency":"Casa De Los Angelitos",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"310.325.8208",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.10696,34.09977 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"254 1/2 S. Santa Anita St.",
+    "postal":91776,
+    "services_a":"EES",
+    "city_1":"San Gabriel",
+    "agency":"Christian Service Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.289.5165",
+    "mon_hrs":"10:00am-2:00pm",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"10:00am-2:00pm",
+    "language_a":"",
+    "hours_of_o":"Food handout Mon-Sun 10am-2pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.29162,34.06408 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"550 S. Vermont Ave",
+    "postal":90020,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"County of Los Angeles- Department of Mental Health Adult System of Care- Veteran's and Loved Ones Recovery VALOR",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"213.639.6319   213.738.2868",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.78686,34.06136 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"2040 W. Holt Ave.",
+    "postal":91768,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"DPSS CalWORKs & GAIN Programs",
+    "email":"EvelynRamos@dpss.lacounty.gov",
+    "services_1":"Employment Educational Services",
+    "phone":"DPSS Eligibility Worker  909.8655315   GAIN Career Center  909.392.3032   Susan Caldwell  DPSS Eligibility Worker  909.397.3836",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.93652,34.07658 ]
+    },
+    "properties": {
+    "website":"www.esgvrop.org",
+    "street_add":"1501 Del Norte St.",
+    "postal":91790,
+    "services_a":"EES",
+    "city_1":"West Covina",
+    "agency":"East San Gabriel Valley ROP and technical Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.960.5080  ext. 241",
+    "mon_hrs":"9:00am-5:00pm",
+    "tues_hrs":"9:00am-5:00pm",
+    "weds_hrs":"9:00am-5:00pm",
+    "thurs_hrs":"9:00am-5:00pm",
+    "friday_hrs":"9:00am-5:00pm",
+    "sat_hrs":"9:00am-5:00pm",
+    "sun_hrs":"9:00am-5:00pm",
+    "language_a":"",
+    "hours_of_o":"9am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.78751,34.06228 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"680 Fairplex Dr.",
+    "postal":91768,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"East Valley Community Health Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.620.8088  ext.3231",
+    "mon_hrs":"8:00am-8:00pm",
+    "tues_hrs":"8:00am-8:00pm",
+    "weds_hrs":"8:00am-8:00pm",
+    "thurs_hrs":"8:00am-8:00pm",
+    "friday_hrs":"8:00am-8:00pm",
+    "sat_hrs":"8:00am-8:00pm",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Thurs: 8am- 8pm  Fri: 8am-5pm  Sat: 8am-2pm *last appointment one hour before closing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.14429,34.12852 ]
+    },
+    "properties": {
+    "website":"www.elizabethhouse.net",
+    "street_add":"P.O. Box 94077",
+    "postal":91106,
+    "services_a":"EES",
+    "city_1":"Pasadena",
+    "agency":"Elizabeth House",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.577.4434",
+    "mon_hrs":"9:00am-5:30pm",
+    "tues_hrs":"9:00am-5:30pm",
+    "weds_hrs":"9:00am-5:30pm",
+    "thurs_hrs":"9:00am-5:30pm",
+    "friday_hrs":"9:00am-5:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 9am-530pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.26296,34.05221 ]
+    },
+    "properties": {
+    "website":"www.edd.ca.gov",
+    "street_add":"1055 Wilshire Blvd..",
+    "postal":90017,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"Employment Development Department",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"213.353.1677",
+    "mon_hrs":"8:30am-4:45pm",
+    "tues_hrs":"8:30am-4:45pm",
+    "weds_hrs":"8:30am-4:45pm",
+    "thurs_hrs":"8:30am-4:45pm",
+    "friday_hrs":"8:30am-4:45pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 8:30-4:45pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.74667,34.0606 ]
+    },
+    "properties": {
+    "website":"www.edd.ca.gov",
+    "street_add":"264 E. Monterey Ave.",
+    "postal":91767,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Employment Development Department",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.392.2659",
+    "mon_hrs":"8:00am-5:00pm",
+    "tues_hrs":"8:00am-5:00pm",
+    "weds_hrs":"8:00am-5:00pm",
+    "thurs_hrs":"8:00am-5:00pm",
+    "friday_hrs":"8:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"M-F 8:00 a.m. to 5:00 p.m."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.88785,34.07994 ]
+    },
+    "properties": {
+    "website":"www.ehrs.com",
+    "street_add":"536 S. Second Ave",
+    "postal":91723,
+    "services_a":"EES",
+    "city_1":"Covina",
+    "agency":"ENKI- Homeless CalWORKs Families Project",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.967.2888",
+    "mon_hrs":"8:00am-5:00pm",
+    "tues_hrs":"8:00am-5:00pm",
+    "weds_hrs":"8:00am-5:00pm",
+    "thurs_hrs":"8:00am-5:00pm",
+    "friday_hrs":"8:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 8am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.96652,34.13977 ]
+    },
+    "properties": {
+    "website":"www.foothillfamily.org",
+    "street_add":"1801 Huntington Dr.",
+    "postal":91010,
+    "services_a":"EES",
+    "city_1":"Duarte",
+    "agency":"Foothill Family Service",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.301.9700 Intake Department: 866.304.4337",
+    "mon_hrs":"8:00am-9:00pm",
+    "tues_hrs":"8:00am-7:00pm",
+    "weds_hrs":"8:00am-9:00pm",
+    "thurs_hrs":"8:00am-7:00pm",
+    "friday_hrs":"8:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+    "hours_of_o":"Mon & Wed 8am-9pm Tues&Thurs8am-7pm  Fri8am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.02884,34.06953 ]
+    },
+    "properties": {
+    "website":"www.foothhillfamily.org",
+    "street_add":"11429 Valley Blvd",
+    "postal":91731,
+    "services_a":"EES",
+    "city_1":"El Monte",
+    "agency":"Foothill Family Service",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.442.8391  Intake Department:  866.304.4337",
+    "mon_hrs":"8:00am-9:00pm",
+    "tues_hrs":"8:00am-9:00pm",
+    "weds_hrs":"8:00am-9:00pm",
+    "thurs_hrs":"8:00am-9:00pm",
+    "friday_hrs":"8:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+    "hours_of_o":"Mon-Thurs 8am-9pm  Fri 8am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.98053,34.05614 ]
+    },
+    "properties": {
+    "website":"www.foothillfamily.org",
+    "street_add":"17328 Amar Rd",
+    "postal":91746,
+    "services_a":"EES",
+    "city_1":"La Puente",
+    "agency":"Foothill Family Service",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.917.1396  Intake Department:  866.304.4337",
+    "mon_hrs":"8:00am-5:00pm",
+    "tues_hrs":"8:00am-5:00pm",
+    "weds_hrs":"8:00am-5:00pm",
+    "thurs_hrs":"8:00am-5:00pm",
+    "friday_hrs":"8:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+    "hours_of_o":"Mon-Fri 8am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.09849,34.1498 ]
+    },
+    "properties": {
+    "website":"www.foothillfamily.org",
+    "street_add":"2500 E. Foothill Blvd",
+    "postal":91107,
+    "services_a":"EES",
+    "city_1":"Pasadena",
+    "agency":"Foothill Family Service",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.564.1613   Intake Department: 866.304.4337",
+    "mon_hrs":"8:00am-6:00pm",
+    "tues_hrs":"8:00am-6:00pm",
+    "weds_hrs":"8:00am-6:00pm",
+    "thurs_hrs":"8:00am-6:00pm",
+    "friday_hrs":"8:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+    "hours_of_o":"Mon-Thurs 8am-6pm  Fri 8am-5pm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.13517,34.14374 ]
+    },
+    "properties": {
+    "website":"www.foothillfamily.org",
+    "street_add":"118 South Oak Knoll Ave",
+    "postal":91101,
+    "services_a":"EES",
+    "city_1":"Pasadena",
+    "agency":"Foothill Family Service",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.795.6907   Intake Department:  866.304.4337",
+    "mon_hrs":"8:30am-8:30pm",
+    "tues_hrs":"8:30am-8:30pm",
+    "weds_hrs":"8:30am-8:30pm",
+    "thurs_hrs":"8:30am-8:30pm",
+    "friday_hrs":"8:30am-5:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+    "hours_of_o":"Mon-Thurs 8:30am-8:30pm  Fri 8:30am-5:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.09775,34.1498 ]
+    },
+    "properties": {
+    "website":"www.namicalifornia.org",
+    "street_add":"2550 E Foothill Blvd",
+    "postal":91107,
+    "services_a":"EES",
+    "city_1":"Pasadena",
+    "agency":"Frontline SGV NAMI",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.577.6697",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"1st and 3rd Tuesday 5:30-7pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.74616,34.10714 ]
+    },
+    "properties": {
+    "website":"www.goodwillsocal.org",
+    "street_add":"210 E. Foothill Blvd.",
+    "postal":91767,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Goodwill Southern California Youth Program",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.593.0711",
+    "mon_hrs":"9:00am-7:00pm",
+    "tues_hrs":"9:00am-7:00pm",
+    "weds_hrs":"9:00am-7:00pm",
+    "thurs_hrs":"9:00am-7:00pm",
+    "friday_hrs":"9:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"M-Th 9:00a.m.-7:00p.m.                      F 9:00a.m.-5:00p.m."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.06872,34.06942 ]
+    },
+    "properties": {
+    "website":"www.shieldsforfamilies.org",
+    "street_add":"3350 Aerojet Ave",
+    "postal":91731,
+    "services_a":"EES",
+    "city_1":"El Monte",
+    "agency":"Homeless CalWORKs Families Project",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"323.242.5000",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.75276,34.0774 ]
+    },
+    "properties": {
+    "website":"www.inlandvalleyhopepartners.org",
+    "street_add":"1753 N. Park Ave.",
+    "postal":91768,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Inland Valley Hope Partners",
+    "email":"wytskev@inlandvalleyhopepartners.org",
+    "services_1":"Employment Educational Services",
+    "phone":"909-622-3806 X107",
+    "mon_hrs":"8:00am-12:30pm",
+    "tues_hrs":"8:00am-12:30pm",
+    "weds_hrs":"8:00am-12:30pm",
+    "thurs_hrs":"8:00am-12:30pm",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon.-Thur. 8:00am-12:30p.m. *Must call for eligibility screening"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.72284,34.06532 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"662 Karesh Ave.",
+    "postal":91767,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Karesh/Abbey Lane Community Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.629.2796",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Call for program hours"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.25018,34.05906 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"241 N. Figueroa St.",
+    "postal":90012,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"Los Angeles County Department of Public Health",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"213.240.7944",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.31472,34.10326 ]
+    },
+    "properties": {
+    "website":"www.layn.org",
+    "street_add":"1754 Taft Ave",
+    "postal":90028,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"Los Angeles Youth Network",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"323.467.8466",
+    "mon_hrs":"9:00am-4:00pm",
+    "tues_hrs":"9:00am-4:00pm",
+    "weds_hrs":"9:00am-4:00pm",
+    "thurs_hrs":"9:00am-4:00pm",
+    "friday_hrs":"9:00am-4:00pm",
+    "sat_hrs":"9:00am-4:00pm",
+    "sun_hrs":"9:00am-4:00pm",
+    "language_a":"",
+    "hours_of_o":"24/7  Drop in center for youth from 9-4pm."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.74447,34.0625 ]
+    },
+    "properties": {
+    "website":"www.lnesc.org",
+    "street_add":"360 E. Holt Ave.",
+    "postal":91767,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"LULAC/Educational Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.623.0588",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.75824,34.04086 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"1690 S. White Ave.",
+    "postal":91766,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Mckenny-Vento Homeless Education Support",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.397.5045",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.44546,34.06322 ]
+    },
+    "properties": {
+    "website":"www.NAMI.org",
+    "street_add":"941 Westwood Blvd.",
+    "postal":90024,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"NAMINational Alliance on Mental Illness",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.263.5456",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Call for more information"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.71929,34.09808 ]
+    },
+    "properties": {
+    "website":"www.namipomonavalley.org",
+    "street_add":"462 N. Indian Hill Blvd.",
+    "postal":91711,
+    "services_a":"EES",
+    "city_1":"Claremont",
+    "agency":"National Alliance on Mental Illness-Pomona Valley Affiliate",
+    "email":"namipv@verison.net",
+    "services_1":"Employment Educational Services",
+    "phone":"909.625.2383 24hour helpline 909.399.0305",
+    "mon_hrs":"9:00am-2:00pm",
+    "tues_hrs":"9:00am-2:00pm",
+    "weds_hrs":"9:00am-2:00pm",
+    "thurs_hrs":"9:00am-2:00pm",
+    "friday_hrs":"9:00am-2:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 9am-2pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.86254,34.07342 ]
+    },
+    "properties": {
+    "website":"www.optionscc.org",
+    "street_add":"885 S. Village Oaks Dr.",
+    "postal":91724,
+    "services_a":"EES",
+    "city_1":"Covina",
+    "agency":"Options -A Child Care and Human Services Agency Division: Child Development Centers",
+    "email":"mamunoz@optionscc.org",
+    "services_1":"Employment Educational Services",
+    "phone":"626.858.0527",
+    "mon_hrs":"9:00am-5:00pm",
+    "tues_hrs":"9:00am-5:00pm",
+    "weds_hrs":"9:00am-5:00pm",
+    "thurs_hrs":"9:00am-5:00pm",
+    "friday_hrs":"9:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Monday-Friday  9:00a.m. to 5:p.m."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.09775,34.1498 ]
+    },
+    "properties": {
+    "website":"www.pacificclinics.org",
+    "street_add":"2550 E. Foothill Blvd",
+    "postal":91107,
+    "services_a":"EES",
+    "city_1":"Pasadena",
+    "agency":"Pacific Clinics Quality Assurance Board QAB",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.463.1021  ext. 133",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.06533,34.08115 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"9353 E. Valley Blvd",
+    "postal":91770,
+    "services_a":"EES",
+    "city_1":"Rosemead",
+    "agency":"Pacific Clinics- Asian Pacific Family Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.287.2988",
+    "mon_hrs":"9:00am-5:00pm",
+    "tues_hrs":"9:00am-5:00pm",
+    "weds_hrs":"9:00am-5:00pm",
+    "thurs_hrs":"9:00am-5:00pm",
+    "friday_hrs":"9:00am-5:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 9am-5pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.75005,34.0546 ]
+    },
+    "properties": {
+    "website":"www.ci.pomona.ca.us",
+    "street_add":"505 S. Garey Ave.",
+    "postal":91766,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Pomona Community Services",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.620.2321",
+    "mon_hrs":"10:00am-6:00pm",
+    "tues_hrs":"10:00am-6:00pm",
+    "weds_hrs":"10:00am-6:00pm",
+    "thurs_hrs":"10:00am-6:00pm",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Thurs 10am-6pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.78686,34.06136 ]
+    },
+    "properties": {
+    "website":"www.co.la.ca.us/dpss",
+    "street_add":"2040 W. Holt Ave.",
+    "postal":91768,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Pomona District Office",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"866.613.3777   909.865.5210",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.73928,34.10705 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"568 E. Foothill Blvd.",
+    "postal":91767,
+    "services_a":"EES",
+    "city_1":"Pomona",
+    "agency":"Pomona Valley Youth Employment Services",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"909.469.0595",
+    "mon_hrs":"9:00am-6:00pm",
+    "tues_hrs":"9:00am-6:00pm",
+    "weds_hrs":"9:00am-6:00pm",
+    "thurs_hrs":"9:00am-6:00pm",
+    "friday_hrs":"9:00am-6:00pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"M-F 9:00a.m. to 6:00 p.m."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.31892,34.1017 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"5939 Hollywood Blvd",
+    "postal":90028,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"Salvation Army- The Way In Independent Living Program",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"323.469.2946",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.03913,34.07881 ]
+    },
+    "properties": {
+    "website":"www.esgvchomeless.org/eac.shtml",
+    "street_add":"1345 Turnbull Canyon Rd",
+    "postal":91731,
+    "services_a":"EES",
+    "city_1":"El Monte",
+    "agency":"San Gabriel Valley Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.444.9000",
+    "mon_hrs":"8:30am-1:30pm",
+    "tues_hrs":"8:30am-1:30pm",
+    "weds_hrs":"8:30am-1:30pm",
+    "thurs_hrs":"8:30am-1:30pm",
+    "friday_hrs":"8:30am-1:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 8:30am-1:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.03411,34.07322 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"11046 Valley Mall",
+    "postal":91731,
+    "services_a":"EES",
+    "city_1":"El Monte",
+    "agency":"San Gabriel Valley Center",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"",
+    "mon_hrs":"9:00am-6:00pm",
+    "tues_hrs":"9:00am-6:00pm",
+    "weds_hrs":"9:00am-6:00pm",
+    "thurs_hrs":"9:00am-6:00pm",
+    "friday_hrs":"8:30am-5:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"M-Th: 9am-6pm; Fri:8:30am-5:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.13609,34.169 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"691 E. Washington Blvd",
+    "postal":91104,
+    "services_a":"EES",
+    "city_1":"Pasadena",
+    "agency":"URDC/Casa Maria",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.296.8689",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"24 hours a day  7 days a week"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.02575,34.06725 ]
+    },
+    "properties": {
+    "website":"www.worksourcecalifornia.com",
+    "street_add":"11635 E Valley Blvd.",
+    "postal":91732,
+    "services_a":"EES",
+    "city_1":"El Monte",
+    "agency":"Veteran's Job Club",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.258.0365  ext. 226",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Last Thursday of the month 9:00am-10:30am."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.94458,34.07032 ]
+    },
+    "properties": {
+    "website":"",
+    "street_add":"1760 West Cameron Ave",
+    "postal":91790,
+    "services_a":"EES",
+    "city_1":"West Covina",
+    "agency":"Volunteers of America",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"626.337.9878",
+    "mon_hrs":"8:00am-4:30pm",
+    "tues_hrs":"8:00am-4:30pm",
+    "weds_hrs":"8:00am-4:30pm",
+    "thurs_hrs":"8:00am-4:30pm",
+    "friday_hrs":"8:00am-4:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Mon-Fri 8am-4:30pm"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.24109,34.04544 ]
+    },
+    "properties": {
+    "website":"www.weingart.org",
+    "street_add":"566 S. Pedro St",
+    "postal":90013,
+    "services_a":"EES",
+    "city_1":"Los Angeles",
+    "agency":"Weingart Center Association",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"213.627.9000",
+    "mon_hrs":"",
+    "tues_hrs":"",
+    "weds_hrs":"",
+    "thurs_hrs":"",
+    "friday_hrs":"",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"",
+    "hours_of_o":"Call for more information"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.97842,34.13971 ]
+    },
+    "properties": {
+    "website":"www.fns.usda.gov/wic",
+    "street_add":"1213 E. Huntington Dr",
+    "postal":91010,
+    "services_a":"EES",
+    "city_1":"Duarte",
+    "agency":"WIC",
+    "email":"",
+    "services_1":"Employment Educational Services",
+    "phone":"888.942.2229",
+    "mon_hrs":"9:15am-5:30pm",
+    "tues_hrs":"",
+    "weds_hrs":"10:15am-6:45pm",
+    "thurs_hrs":"",
+    "friday_hrs":"9:15am-5:30pm",
+    "sat_hrs":"",
+    "sun_hrs":"",
+    "language_a":"Spanish",
+    "hours_of_o":"Mon-Fri 9:15am-5:30pm  W 10:15 am-6:45 pm"
+    }
+  }
+]
+}

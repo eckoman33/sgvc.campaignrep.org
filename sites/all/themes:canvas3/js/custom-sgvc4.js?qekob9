@@ -1,0 +1,34 @@
+(function($) {
+  Drupal.behaviors.sgvcScripts = {
+    attach: function(context, settings) {
+
+      new Swiper('.swiper-container', {
+        // Optional parameters
+        direction: 'horizontal',
+        speed: 300,
+        loop: true,
+        autoplay: {
+          delay: 4500,
+        },
+
+        // // If we need pagination
+        // pagination: {
+        //    el: '.swiper-pagination',
+        // },
+
+        // Navigation arrows
+
+        navigation: {
+          nextEl: '.slider-arrow-right',
+          prevEl: '.slider-arrow-left',
+        },
+
+        // // And if we need scrollbar
+        // scrollbar: {
+        //    el: '.swiper-scrollbar',
+        // },
+      });
+
+    }
+  };
+}(jQuery));

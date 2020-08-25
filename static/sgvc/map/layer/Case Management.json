@@ -1,0 +1,1138 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02287, 34.15111]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.dmh.gov",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91006",
+      "services_a": "CM",
+      "city_1": "Arcadia",
+      "agency": "Arcadia Mental Health",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "lstone@dmh.lacounty.gov",
+      "phone": "626.471.6500",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "301 E. Foothill Blvd",
+      "id": 35,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.25295, 34.11974]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "ascenciaca.org",
+      "tues_hrs": "7:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91204",
+      "services_a": "CM",
+      "city_1": "Glendale",
+      "agency": "Ascencia",
+      "friday_hrs": "7:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818-246-7900",
+      "weds_hrs": "7:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-4:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "7:00am-4:00pm",
+      "street_add": "1851 Tyburn St",
+      "id": 39,
+      "hours_of_o": "7am-4pm/M-F"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27621, 34.05005]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.apaitonline.org",
+      "tues_hrs": "10:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "90015",
+      "services_a": "CM",
+      "city_1": "Los Angeles",
+      "agency": "Asian Pacific AIDS Intervention Team",
+      "friday_hrs": "10:00am-6:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.553.1830",
+      "weds_hrs": "10:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-6:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "10:00am-6:00pm",
+      "street_add": "1730 W. Olympic Blvd",
+      "id": 49,
+      "hours_of_o": "Mon-Fri 10am-6pm  Saturday by appt."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27238, 34.02636]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.calvet.ca.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90011",
+      "services_a": "CM",
+      "city_1": "Los Angeles",
+      "agency": "CA Department of Veterans Affairs",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.744.4847",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "2615 S. Grand Ave.",
+      "id": 85,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.29235, 33.80368]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.casadelosangelitos.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90710",
+      "services_a": "CM",
+      "city_1": "Harbor City",
+      "agency": "Casa De Los Angelitos",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.325.8208",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "954 Koleeta Dr.",
+      "id": 97,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0317, 34.08231]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.catholiccharitiesla.org",
+      "tues_hrs": "9:00am-1:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "Catholic Charities",
+      "friday_hrs": "9:00am-1:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.7652",
+      "weds_hrs": "9:00am-1:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-1:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-1:00pm",
+      "street_add": "4171 N Tyler Ave",
+      "id": 105,
+      "hours_of_o": "Mon-Fri 9am-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.23223, 33.89412]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cwroioi@aol.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90220",
+      "services_a": "CM",
+      "city_1": "Compton",
+      "agency": "Compton Welfare Rights Organization  Inc.-Shelter for Homeless Women and Children",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.631.5193",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "528 W. Almond St.",
+      "id": 132,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78502, 34.10434]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.davidandmargaret.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91750",
+      "services_a": "CM",
+      "city_1": "La Verne",
+      "agency": "David & Margaret Youth & Family Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.596.5921  ext.3500",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "1350 Third St.",
+      "id": 150,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.00987, 34.06205]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "8:00am-4:30pm",
+      "postal": "91732",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "District Community Liaison/Homeless Liaison",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "8:00am-4:30pm",
+      "email": "",
+      "phone": "626.652.4000",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "3320 Gilman Rd.",
+      "id": 175,
+      "hours_of_o": "8:00 am-4:30 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "CM",
+      "city_1": "Pomona",
+      "agency": "DPSS CalWORKs & GAIN Programs",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "EvelynRamos@dpss.lacounty.gov",
+      "phone": "DPSS Eligibility Worker  909.8655315   GAIN Career Center  909.392.3032   Susan Caldwell  DPSS Eligibility Worker  909.397.3836",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 181,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14429, 34.12852]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.elizabethhouse.net",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "91106",
+      "services_a": "CM",
+      "city_1": "Pasadena",
+      "agency": "Elizabeth House",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.577.4434",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "P.O. Box 94077",
+      "id": 211,
+      "hours_of_o": "Mon-Fri 9am-530pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88785, 34.07994]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ehrs.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91723",
+      "services_a": "CM",
+      "city_1": "Covina",
+      "agency": "ENKI- Homeless CalWORKs Families Project",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.967.2888",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "536 S. Second Ave",
+      "id": 222,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.08584, 34.10348]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.nihn.org  http//:web.fpsgv.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "CM",
+      "city_1": "San Gabriel",
+      "agency": "Family Promise",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.569.0991",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "1005 E. Las Tunas Dr.",
+      "id": 230,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.20932, 34.04675]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.womensheath.va.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90033",
+      "services_a": "CM",
+      "city_1": "Los Angeles",
+      "agency": "Female Veterans & Veterans with Families- HVRP VOA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.395.2142",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "240 N. Breed St.",
+      "id": 237,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.71688, 34.09865]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.fapinfo.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91711",
+      "services_a": "CM",
+      "city_1": "Claremont",
+      "agency": "Foothill AIDS Project",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "abrazier@fapinfo.org",
+      "phone": "909.482.2070",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "233 Harrison Ave",
+      "id": 247,
+      "hours_of_o": "Beginning June 2012 we will be offering our services every Wednesday."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96652, 34.13977]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-7:00pm",
+      "sun_hrs": "",
+      "postal": "91010",
+      "services_a": "CM",
+      "city_1": "Duarte",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.301.9700 Intake Department: 866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-7:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "1801 Huntington Dr.",
+      "id": 252,
+      "hours_of_o": "Mon & Wed 8am-9pm Tues&Thurs8am-7pm  Fri8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02884, 34.06953]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothhillfamily.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.442.8391  Intake Department:  866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "11429 Valley Blvd",
+      "id": 257,
+      "hours_of_o": "Mon-Thurs 8am-9pm  Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98053, 34.05614]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "CM",
+      "city_1": "La Puente",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.1396  Intake Department:  866.304.4337",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "17328 Amar Rd",
+      "id": 262,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09849, 34.1498]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "CM",
+      "city_1": "Pasadena",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.564.1613   Intake Department: 866.304.4337",
+      "weds_hrs": "8:00am-6:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-6:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-6:00pm",
+      "street_add": "2500 E. Foothill Blvd",
+      "id": 266,
+      "hours_of_o": "Mon-Thurs 8am-6pm  Fri 8am-5pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13517, 34.14374]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:30am-8:30pm",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "CM",
+      "city_1": "Pasadena",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.795.6907   Intake Department:  866.304.4337",
+      "weds_hrs": "8:30am-8:30pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:30am-8:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:30am-8:30pm",
+      "street_add": "118 South Oak Knoll Ave",
+      "id": 271,
+      "hours_of_o": "Mon-Thurs 8:30am-8:30pm  Fri 8:30am-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.93512, 34.06877]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillfamily.org",
+      "tues_hrs": "8:00am-9:00pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "CM",
+      "city_1": "West Covina",
+      "agency": "Foothill Family Service",
+      "friday_hrs": "8:00am-9:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.338.9200   Intake Department   866.304.4337",
+      "weds_hrs": "8:00am-9:00pm",
+      "language_a": "English, Armenian, Tagalong, Korean, Thai, Japanese, Arabic, Cantonese, Spanish, Farsi, Khmer, Mandarin, American Sign, Filipino",
+      "thurs_hrs": "8:00am-9:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-9:00pm",
+      "street_add": "1215 W. West Covina Pkwy",
+      "id": 275,
+      "hours_of_o": "Mon-Fri 8am-9pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.00813, 34.14255]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillunitycenter.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91016",
+      "services_a": "CM",
+      "city_1": "Monrovia",
+      "agency": "Foothill Unity Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.358.3486",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "415 W. Chestnut Ave.",
+      "id": 282,
+      "hours_of_o": "Office Hours Mon-Fri 9-5pm. Distribution Monday 1-3:30pm  Wed & Fri 9-11:30am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.32124, 34.04063]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.gramercyhousinggroup.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90019",
+      "services_a": "CM",
+      "city_1": "Los Angeles",
+      "agency": "Gramercy House Group",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.737.7352",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "1824 4th Ave.",
+      "id": 304,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06872, 34.06942]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.shieldsforfamilies.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "Homeless CalWORKs Families Project",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.242.5000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "3350 Aerojet Ave",
+      "id": 322,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75276, 34.0774]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.inlandvalleyhopepartners.org",
+      "tues_hrs": "8:00am-12:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "CM",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "wytskev@inlandvalleyhopepartners.org",
+      "phone": "909-622-3806 X107",
+      "weds_hrs": "8:00am-12:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-12:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-12:30pm",
+      "street_add": "1753 N. Park Ave.",
+      "id": 357,
+      "hours_of_o": "Mon.-Thur. 8:00am-12:30p.m. *Must call for eligibility screening"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.31472, 34.10326]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.layn.org",
+      "tues_hrs": "9:00am-4:00pm",
+      "sun_hrs": "9:00am-4:00pm",
+      "postal": "90028",
+      "services_a": "CM",
+      "city_1": "Los Angeles",
+      "agency": "Los Angeles Youth Network",
+      "friday_hrs": "9:00am-4:00pm",
+      "sat_hrs": "9:00am-4:00pm",
+      "email": "",
+      "phone": "323.467.8466",
+      "weds_hrs": "9:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-4:00pm",
+      "street_add": "1754 Taft Ave",
+      "id": 412,
+      "hours_of_o": "24/7  Drop in center for youth from 9-4pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75824, 34.04086]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "CM",
+      "city_1": "Pomona",
+      "agency": "Mckenny-Vento Homeless Education Support",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.5045",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "1690 S. White Ave.",
+      "id": 422,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.63636, 34.06342]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.mercyhouse.net",
+      "tues_hrs": "9:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91761",
+      "services_a": "CM",
+      "city_1": "Ontario",
+      "agency": "Mercy House",
+      "friday_hrs": "9:00am-2:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.391.2630",
+      "weds_hrs": "9:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-2:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-2:00pm",
+      "street_add": "905 E. Holt Blvd.",
+      "id": 427,
+      "hours_of_o": "Mon-Fri 9am-2pm last client at 12:30 pm Homeless Served Mon  Wed  Thurs & Fri  families served 1st and 3rd Tues of every month."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75245, 34.08389]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "CM",
+      "city_1": "Pomona",
+      "agency": "Mercy House/Trinity House",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.593.4281",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "2040 N. Garey Ave",
+      "id": 430,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.1606, 34.18302]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "optionsforlearning.org",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91001",
+      "services_a": "CM",
+      "city_1": "Altadena",
+      "agency": "Options for Learning Head Start Pasadena",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626-204-8900",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "464 W. Woodbury",
+      "id": 460,
+      "hours_of_o": "M-F/9am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06533, 34.08115]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "CM",
+      "city_1": "Rosemead",
+      "agency": "Pacific Clinics- Asian Pacific Family Center",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.287.2988",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "9353 E. Valley Blvd",
+      "id": 480,
+      "hours_of_o": "Mon-Fri 9am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75474, 34.06346]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "CM",
+      "city_1": "Pomona",
+      "agency": "PUSD Family Support and Resource Center",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.4491",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "605 N. Park Ave.",
+      "id": 543,
+      "hours_of_o": "Mon-Fri 8am-4:30"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.31892, 34.1017]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90028",
+      "services_a": "CM",
+      "city_1": "Los Angeles",
+      "agency": "Salvation Army- The Way In Independent Living Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.469.2946",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "5939 Hollywood Blvd",
+      "id": 560,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.87247, 34.09859]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sangabrielchild.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91724",
+      "services_a": "CM",
+      "city_1": "Covina",
+      "agency": "San Gabriel Children's Center THP-Plus",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "mikealmaraz@sangabrielchild.com",
+      "phone": "626.859.2089",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "4740 North Grand Ave",
+      "id": 565,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03913, 34.07881]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.esgvchomeless.org/eac.shtml",
+      "tues_hrs": "8:30am-1:30pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Center",
+      "friday_hrs": "8:30am-1:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.444.9000",
+      "weds_hrs": "8:30am-1:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-1:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:30am-1:30pm",
+      "street_add": "1345 Turnbull Canyon Rd",
+      "id": 568,
+      "hours_of_o": "Mon-Fri 8:30am-1:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03411, 34.07322]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "San Gabriel Valley Center",
+      "friday_hrs": "8:30am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "9:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-6:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "9:00am-6:00pm",
+      "street_add": "11046 Valley Mall",
+      "id": 571,
+      "hours_of_o": "M-Th: 9am-6pm; Fri:8:30am-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.80033, 34.06404]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sgprc.org",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "CM",
+      "city_1": "Pomona",
+      "agency": "San Gabriel/Pomona Regional Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "kdelagarza@sgprc.org",
+      "phone": "909.620.7722",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "761 Corporate Center Dr.",
+      "id": 580,
+      "hours_of_o": "Mon-Fri 8-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.81024, 34.00232]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91765",
+      "services_a": "CM",
+      "city_1": "Diamond Bar",
+      "agency": "St. Anne's Transitional Homes for Soldiers",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "stannestrans@yahoo.com",
+      "phone": "909.612.1197",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "1142 S. Diamond Bar Blvd.",
+      "id": 606,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.01067, 33.94354]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.intercommunity.org, www.thewholechild.info",
+      "tues_hrs": "8:30am-12:00pm",
+      "sun_hrs": "",
+      "postal": "90603",
+      "services_a": "CM",
+      "city_1": "Whittier",
+      "agency": "The Whole Child",
+      "friday_hrs": "8:30am-12:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.692.0383    562.204.0640",
+      "weds_hrs": "12:00pm-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "12:00pm-3:00pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:30pm-12:00pm",
+      "street_add": "10155 Colima Rd.",
+      "id": 634,
+      "hours_of_o": "Walk-in clinical services are open: Mon 8:30am-12pm TuesSpanish speaking only 8:30am-12pm Weds 12pm-3pm ThursSpanish speaking only12pm-3pm Fri 8:30am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.37361, 33.95347]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.usvetsinc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90301",
+      "services_a": "CM",
+      "city_1": "Inglewood",
+      "agency": "U.S. VETS- Supportive Services for Veteran Families",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.348.7600",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "733 South Hindry Ave",
+      "id": 651,
+      "hours_of_o": "call for information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13609, 34.169]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "CM",
+      "city_1": "Pasadena",
+      "agency": "URDC/Casa Maria",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.296.8689",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Case Management",
+      "mon_hrs": "",
+      "street_add": "691 E. Washington Blvd",
+      "id": 659,
+      "hours_of_o": "24 hours a day  7 days a week"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02786, 34.08784]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "8:00am-4:30pm",
+      "postal": "91731",
+      "services_a": "CM",
+      "city_1": "El Monte",
+      "agency": "Volunteers of America San Gabriel Valley Rapid Re-Housing Program",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "8:00am-4:30pm",
+      "email": "",
+      "phone": "626.433.8149 or 626.433.8148",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Case Management",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "4501 Santa Anita Ave",
+      "id": 685,
+      "hours_of_o": "8:00 am-4:30 pm"
+    }
+  }]
+}

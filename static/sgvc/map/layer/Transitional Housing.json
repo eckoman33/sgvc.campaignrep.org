@@ -1,0 +1,335 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.025784,34.057997 ]
+    },
+    "properties": {
+    "postal":91732,
+    "services_a":"TH",
+    "city_1":"El Monte",
+    "agency":"BRIDGES, Inc.",
+    "services_1":"Transitional Housing",
+    "street_add":"11927 Elliot Ave.",
+    "project_name":"Casitas Esperanza",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit_count":12,
+    "total_beds":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.025784,34.057997 ]
+    },
+    "properties": {
+    "postal":91732,
+    "services_a":"TH",
+    "city_1":"El Monte",
+    "agency":"BRIDGES, Inc.",
+    "services_1":"Transitional Housing",
+    "street_add":"11927 Elliot Ave.",
+    "project_name":"Casitas Tranquilas",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit_count":13,
+    "total_beds":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.913588,34.089427 ]
+    },
+    "properties": {
+    "postal":91722,
+    "services_a":"TH",
+    "city_1":"Covina",
+    "agency":"City of Covina",
+    "services_1":"Transitional Housing",
+    "street_add":"1104 W. McGill St.",
+    "project_name":"McGill Transitional House",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":4,
+    "total_beds":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.71978,34.09668 ]
+    },
+    "properties": {
+    "postal":91711,
+    "services_a":"TH",
+    "city_1":"Claremont",
+    "agency":"Claremont House of Ruth",
+    "services_1":"Transitional Housing",
+    "street_add":"CONFIDENTIAL",
+    "project_name":"CA0515 Transitional Housing Program",
+    "spa":3,
+    "sd":"CONFIDENTIAL",
+    "cd":"CONFIDENTIAL",
+    "hmis_participating":"No",
+    "pit_count":20,
+    "total_beds":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"TH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"Transitional Living Center (A)",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":7,
+    "total_beds":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"TH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"Transitional Living Center (B)",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":6,
+    "total_beds":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"TH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"Transitional Living Center (D)",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":5,
+    "total_beds":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"TH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"Transitional Living Center (E)",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":15,
+    "total_beds":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"TH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"Transitional Living Center (C)",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":15,
+    "total_beds":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.075806,34.128942 ]
+    },
+    "properties": {
+    "postal":91775,
+    "services_a":"TH",
+    "city_1":"San Gabriel",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"7222 Lotus Ave.",
+    "project_name":"ILP SPA 3 2017ILP25",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":19,
+    "total_beds":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.140919,34.160251 ]
+    },
+    "properties": {
+    "postal":91104,
+    "services_a":"TH",
+    "city_1":"Pasadena",
+    "agency":"Hathaway-Sycamores Child and Family Services",
+    "services_1":"Transitional Housing",
+    "street_add":"851 N. Oakland Ave.",
+    "project_name":"Measure H Transitional Housing\nProgram SPA 3",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":10,
+    "total_beds":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.120065,34.097155 ]
+    },
+    "properties": {
+    "postal":91801,
+    "services_a":"TH",
+    "city_1":"Alhambra",
+    "agency":"Homes for Life Foundation",
+    "services_1":"Transitional Housing",
+    "street_add":"26-28 S. Almansor St.",
+    "project_name":"ILP SPA 3 Athena Homes",
+    "spa":3,
+    "sd":"5",
+    "cd":"0",
+    "hmis_participating":"Yes",
+    "pit_count":14,
+    "total_beds":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.732522,34.062081 ]
+    },
+    "properties": {
+    "postal":91767,
+    "services_a":"TH",
+    "city_1":"Pomona",
+    "agency":"Total Restoration Ministries",
+    "services_1":"Transitional Housing",
+    "street_add":"420 N. Reservoir St.",
+    "project_name":"Substance Abuse Recovery",
+    "spa":3,
+    "sd":"1",
+    "cd":"0",
+    "hmis_participating":"No",
+    "pit_count":48,
+    "total_beds":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.854733,34.080444 ]
+    },
+    "properties": {
+    "postal":91724,
+    "services_a":"TH",
+    "city_1":"Covina",
+    "agency":"YWCA of San Gabriel Valley",
+    "services_1":"Transitional Housing",
+    "street_add":"CONFIDENTIAL",
+    "project_name":"WINGS Transitional Program",
+    "spa":3,
+    "sd":"CONFIDENTIAL",
+    "cd":"CONFIDENTIAL",
+    "hmis_participating":"No",
+    "pit_count":9,
+    "total_beds":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.854733,34.080444 ]
+    },
+    "properties": {
+    "postal":91724,
+    "services_a":"TH",
+    "city_1":"Covina",
+    "agency":"YWCA of San Gabriel Valley",
+    "services_1":"Transitional Housing",
+    "street_add":"CONFIDENTIAL",
+    "project_name":"Women in Need Growing Strong\n(WINGS)",
+    "spa":3,
+    "sd":"CONFIDENTIAL",
+    "cd":"CONFIDENTIAL",
+    "hmis_participating":"No",
+    "pit_count":23,
+    "total_beds":25
+    }
+  }
+]
+}

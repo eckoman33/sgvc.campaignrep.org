@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74789, 34.04241]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "RA",
+      "city_1": "Pomona",
+      "agency": "Beaver Court Apartments",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.838.8556",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "286 Beaver Ct.",
+      "id": 62,
+      "hours_of_o": "Mon-Fri 8:00am-5:00pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24546, 34.05727]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "dca.lacounty.gov",
+      "tues_hrs": "9:00am-4:00pm",
+      "sun_hrs": "9:00am-4:00pm",
+      "postal": "90012",
+      "services_a": "RA",
+      "city_1": "Los Angeles",
+      "agency": "Department of Consumer Affairs",
+      "friday_hrs": "9:00am-4:00pm",
+      "sat_hrs": "9:00am-4:00pm",
+      "email": "",
+      "phone": "800.973.3370",
+      "weds_hrs": "9:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:00pm",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "9:00am-4:00pm",
+      "street_add": "500 W. Temple St.",
+      "id": 157,
+      "hours_of_o": "9am-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02434, 34.02875]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "7:00am-6:30pm",
+      "sun_hrs": "",
+      "postal": "90601",
+      "services_a": "RA",
+      "city_1": "City of Industry",
+      "agency": "Dept. of Public and Social Services",
+      "friday_hrs": "7:00am-6:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.908.8400",
+      "weds_hrs": "7:00am-6:30pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-6:30pm",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "7:00am-6:30pm",
+      "street_add": "12860 Crossroads  Pkwy South",
+      "id": 171,
+      "hours_of_o": "M-F 7am-6:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75138, 34.10606]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.drakemanorapartments.com",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "RA",
+      "city_1": "Pomona",
+      "agency": "Drake Manor Apartments",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.593.9615",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "200 Drake St.",
+      "id": 184,
+      "hours_of_o": "M-F 9:00a.m.-5:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74854, 34.10862]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "RA",
+      "city_1": "Pomona",
+      "agency": "Pacific Villas",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "9:00am-5:00pm",
+      "email": "",
+      "phone": "909.593.8012",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "9:00am-5:30pm",
+      "street_add": "3642 N. Garey Ave.",
+      "id": 483,
+      "hours_of_o": "M-F 9:00a.m.9-5:30p.m.                       Sat. 9:00a.m.-5:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7496, 34.0399]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "RA",
+      "city_1": "Pomona",
+      "agency": "Portofino Apartment's",
+      "friday_hrs": "9:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.397.0281",
+      "weds_hrs": "9:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:00pm",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "9:00am-5:00pm",
+      "street_add": "1727 S. Garey Ave.",
+      "id": 522,
+      "hours_of_o": "M-F 9:00a.m.-5:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.37361, 33.95347]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.usvetsinc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90301",
+      "services_a": "RA",
+      "city_1": "Inglewood",
+      "agency": "U.S. VETS- Supportive Services for Veteran Families",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.348.7600",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Rental Assistance",
+      "mon_hrs": "",
+      "street_add": "733 South Hindry Ave",
+      "id": 653,
+      "hours_of_o": "call for information"
+    }
+  }]
+}

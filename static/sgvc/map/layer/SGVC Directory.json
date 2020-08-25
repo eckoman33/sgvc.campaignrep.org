@@ -1,0 +1,487 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.127143,34.092601 ]
+    },
+      "type": "Feature",
+      "properties": {
+      "agency": "Alhambra City Hall",
+      "services_1": "City Hall",
+      "website":"www.cityofalhambra.org",
+      "postal":91801,
+      "city_1":"Alhambra",
+      "email":"webmaster@cityofalhambra.org",
+      "phone":"(626) 570-5000",
+      "street_add":"111 South First Street, Alhambra, CA 91801",
+      "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.03865,34.137636 ]
+    },
+    "properties": {
+    "website":"www.ci.arcadia.ca.us",
+    "postal":91007,
+    "city_1":"Arcadia",
+    "email":"n/a",
+    "phone":"(626) 574-5400",
+    "street_add":"240 W Huntington Dr, Arcadia, CA 91007",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.905549,34.134657 ]
+    },
+    "properties": {
+    "website":"www.ci.azusa.ca.us",
+    "postal":91702,
+    "city_1":"Azusa",
+    "email":"jcornejo@AzusaCa.Gov",
+    "phone":"(626) 812-5200",
+    "street_add":"213 E Foothill Blvd, Azusa, CA 91702",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.95954,34.085461 ]
+    },
+    "properties": {
+    "website":"www.baldwinpark.com",
+    "postal":91706,
+    "city_1":"Baldwin Park",
+    "email":"n/a",
+    "phone":"(626) 960-4011",
+    "street_add":"14403 Pacific Ave, Baldwin Park, CA 91706",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.970563,34.145338 ]
+    },
+    "properties": {
+    "website":"www.cityofbradbury.org",
+    "postal":91008,
+    "city_1":"Bradbury",
+    "email":"cityhall@cityofbradbury.org",
+    "phone":"(626) 358-3218",
+    "street_add":"600 Winston Ave, Bradbury, CA 91008",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.71656,34.0957 ]
+    },
+    "properties": {
+    "website":"www.ci.claremont.ca.us",
+    "postal":91711,
+    "city_1":"Claremont",
+    "email":"bhandel@ci.claremont.ca.us",
+    "phone":"(909) 399-5460",
+    "street_add":"207 Harvard Ave N, Claremont, CA 91711",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.889247,34.087772 ]
+    },
+    "properties": {
+    "website":"www.ci.covina.ca.us",
+    "postal":91723,
+    "city_1":"Covina",
+    "email":"info@covinaca.gov",
+    "phone":"(626) 384-5400",
+    "street_add":"125 E College St, Covina, CA 91723",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.830237,33.999321 ]
+    },
+    "properties": {
+    "website":"www.ci.diamond-bar.ca.us",
+    "postal":91765,
+    "city_1":"Diamond Bar",
+    "email":"info@ci.diamond-bar.ca.us",
+    "phone":"(909) 839-7000",
+    "street_add":" 21810 Copley Dr, Diamond Bar, CA 91765",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.971883,34.139172 ]
+    },
+    "properties": {
+    "website":"www.accessduarte.com",
+    "postal":91010,
+    "city_1":"Duarte",
+    "email":"duarte91010@accessduarte.com",
+    "phone":"(626) 357-7931",
+    "street_add":"1600 Huntington Dr, Duarte, CA 91010",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.031836,34.071959 ]
+    },
+    "properties": {
+    "website":"www.ci.el-monte.ca.us",
+    "postal":91731,
+    "city_1":"El Monte",
+    "email":"cityclerk@elmonteca.gov",
+    "phone":"(626) 580-2001",
+    "street_add":"11333 Valley Blvd, El Monte, CA 91731",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.864783,34.135103 ]
+    },
+    "properties": {
+    "website":"www.ci.glendora.ca.us",
+    "postal":91741,
+    "city_1":"Glendora",
+    "email":"webmaster@ci.glendora.ca.us",
+    "phone":"(626) 914-8200",
+    "street_add":"116 E Foothill Blvd, Glendora, CA 91741",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.95578,34.023535 ]
+    },
+    "properties": {
+    "website":"www.cityofindustry.org",
+    "postal":91744,
+    "city_1":"City Of Industry",
+    "email":"n/a",
+    "phone":"(626) 333-2211",
+    "street_add":"15625 Stafford St #100, City of Industry, CA 91744",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.932235,34.104635 ]
+    },
+    "properties": {
+    "website":"http://irwindale.ca.us",
+    "postal":91706,
+    "city_1":"Irwindale",
+    "email":"postoffice@ci.irwindale.ca.us",
+    "phone":"(626) 430-2200",
+    "street_add":"5050 N Irwindale Ave, Irwindale, CA 91706",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.950215,34.019767 ]
+    },
+    "properties": {
+    "website":"www.lapuente.org",
+    "postal":91744,
+    "city_1":"La Puente",
+    "email":"cclerk@lapuente.org",
+    "phone":"(626) 855-1500",
+    "street_add":"15900 Main St, La Puente, CA 91744",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.198532,34.204762 ]
+    },
+    "properties": {
+    "website":"www.lacanadaflintridge.com",
+    "postal":91011,
+    "city_1":"La Ca�ada Flintridge",
+    "email":"tina@lacanadaflintridge.com",
+    "phone":"(818) 790-8880",
+    "street_add":"One Civic Center Dr, La Cañada Flintridge, CA 91011",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.765153,34.111871 ]
+    },
+    "properties": {
+    "website":"www.ci.la-verne.ca.us",
+    "postal":91750,
+    "city_1":"La Verne",
+    "email":"n/a",
+    "phone":"(909) 596-8726",
+    "street_add":"3660 D St, La Verne, CA 91750",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.998929,34.147932 ]
+    },
+    "properties": {
+    "website":"www.ci.monrovia.ca.us",
+    "postal":91016,
+    "city_1":"Monrovia",
+    "email":"cityhall@ci.monrovia.ca.us",
+    "phone":"(626) 932-5550",
+    "street_add":"415 S Ivy Ave, Monrovia, CA 91016",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.126186,34.059266 ]
+    },
+    "properties": {
+    "website":"http://www.ci.monterey-park.ca.us/",
+    "postal":91754,
+    "city_1":"Monterey Park",
+    "email":"https://www.montereypark.ca.gov/",
+    "phone":"(626) 307-1458",
+    "street_add":"320 W Newmark Ave, Monterey Park, CA 91754",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.143535,34.147652 ]
+    },
+    "properties": {
+    "website":"www.cityofpasadena.net",
+    "postal":91101,
+    "city_1":"Pasadena",
+    "email":"CityWeb-server@cityofpasadena.net",
+    "phone":"(626) 744-7311",
+    "street_add":"100 Garfield Ave, Pasadena, CA 91101",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.751251,34.054554 ]
+    },
+    "properties": {
+    "website":"www.ci.pomona.ca.us",
+    "postal":91766,
+    "city_1":"Pomona",
+    "email":"webmaster@ci.pomona.ca.us",
+    "phone":"(909) 620-2311",
+    "street_add":"505 S Garey Ave Pomona, CA 91766",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.076309,34.080138 ]
+    },
+    "properties": {
+    "website":"www.cityofrosemead.org",
+    "postal":91770,
+    "city_1":"Rosemead",
+    "email":"ehernandez@cityofrosemead.org",
+    "phone":"(626) 569-2100",
+    "street_add":"8838 E Valley Blvd, Rosemead, CA 91770",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.803621,34.107239 ]
+    },
+    "properties": {
+    "website":"www.cityofsandimas.com",
+    "postal":91773,
+    "city_1":"San Dimas",
+    "email":"administration@ci.san-dimas.ca.us",
+    "phone":"(909) 394-6200",
+    "street_add":"245 E Bonita Ave, San Dimas, CA 91773",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.108065,34.096401 ]
+    },
+    "properties": {
+    "website":"www.sangabrielcity.com/cityhall",
+    "postal":91776,
+    "city_1":"San Gabriel",
+    "email":"cityclerk@sgch.org",
+    "phone":"(626) 308-2800",
+    "street_add":"425 S Mission Dr, San Gabriel, CA 91776",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.105728,34.121223 ]
+    },
+    "properties": {
+    "website":"www.cityofsanmarino.org",
+    "postal":91108,
+    "city_1":"San Marino",
+    "email":"cityclerk@cityofsanmarino.org",
+    "phone":"(626) 300-0700",
+    "street_add":"2200 Huntington Dr, San Marino, CA 91108",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.057863,34.161593 ]
+    },
+    "properties": {
+    "website":"www.ci.sierra-madre.ca.us",
+    "postal":91024,
+    "city_1":"Sierra Madre",
+    "email":"laaguilar@cityofsierramadre.com",
+    "phone":"(626) 355-7135",
+    "street_add":"232 W Sierra Madre Blvd, Sierra Madre, CA 91024",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.046176,34.04426 ]
+    },
+    "properties": {
+    "website":"www.ci.south-el-monte.ca.us",
+    "postal":91733,
+    "city_1":"South El Monte",
+    "email":"plara@soelmonte.org",
+    "phone":"(626) 579-6540",
+    "street_add":"1415 Santa Anita Ave, South El Monte, CA 91733",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.152161,34.116265 ]
+    },
+    "properties": {
+    "website":"www.ci.south-pasadena.ca.us",
+    "postal":91030,
+    "city_1":"South Pasadena",
+    "email":"jquintana@ci.south-pasadena.ca.us",
+    "phone":"(626) 403-7200",
+    "street_add":"1414 Mission St, South Pasadena, CA 91030",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.057863,34.10769 ]
+    },
+    "properties": {
+    "website":"www.templecity.us",
+    "postal":91780,
+    "city_1":"Temple City",
+    "email":"info@templecity.us",
+    "phone":"(626) 285-2171",
+    "street_add":"9701 E Las Tunas Dr, Temple City, CA 91780",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.842324,34.026361 ]
+    },
+    "properties": {
+    "website":"www.ci.walnut.ca.us",
+    "postal":91789,
+    "city_1":"Walnut",
+    "email":"tdedios@cityofwalnut.org",
+    "phone":"(909) 595-7543",
+    "street_add":"21201 La Puente Rd, Walnut, CA 91789",
+    "council_meetings":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.938846,34.071383 ]
+    },
+    "properties": {
+    "website":"www.westcovina.org",
+    "postal":91790,
+    "city_1":"West Covina",
+    "email":"City_Clerk@westcovina.org",
+    "phone":"(626) 939-8400",
+    "street_add":"1444 W Garvey Ave S, West Covina, CA 91790",
+    "council_meetings":""
+    }
+  }
+]
+}

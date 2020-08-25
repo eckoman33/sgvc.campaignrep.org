@@ -1,0 +1,207 @@
+#google_translate_element {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #FFF;
+  padding: 6px 12px;
+}
+
+label {
+  margin-bottom: 0;
+}
+
+#header-wrap {
+  background-color: transparent;
+}
+
+.element-invisible {
+  display: none;
+}
+
+.primary-tabs {
+  margin: 40px 0 20px;
+}
+
+#civicrm-menu-nav {
+  display: none;
+}
+
+#admin-btn {
+  position: fixed;
+  bottom: 28px;
+  left: 28px;
+  z-index: 20;
+}
+
+.action-link.section {
+  text-align: center;
+  padding: 0;
+  background: transparent;
+}
+
+.node-type-article #page-title {
+  display: none;
+}
+
+.form-type-password,
+.form-type-textfield,
+.form-type-radios,
+.form-type-managed-file,
+.form-type-date-select {
+  margin-bottom: 20px;
+}
+
+.form-checkboxes .form-item {
+  margin-bottom: 0px;
+}
+
+.page-skel .logo img {
+  max-width: 332px;
+  padding: 0 25px;
+}
+
+.page-user-password .login-box,
+.page-user-login .login-box {
+  max-width: 520px;
+  margin: 0 auto;
+}
+
+.page-user-password .nav-head,
+.page-user-login .nav-head {
+  padding: 0;
+}
+
+.login-box .block-link a {
+  border: 1px solid #9e9e9e70;
+  padding: 20px 20px;
+  border-radius: 6px;
+  display: block;
+  text-align: center;
+  font-weight: 600;
+  color: #888;
+}
+
+.login-box .block-link {
+  border-top: 1px solid #94949421;
+  margin-top: 20px;
+  padding-top: 40px;
+}
+
+.si-share .social-icon {
+  border-radius: 6px;
+}
+
+.item-list ul.pager {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: .25rem;
+  justify-content: center !important;
+}
+
+.item-list ul.pager li a {
+  position: relative;
+  display: block;
+  padding: 1rem 1.2rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #2196F3;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+.item-list ul.pager li.pager-current {
+  color: #FFF !important;
+  background-color: #9E9E9E !important;
+  border-color: #f2f2f2 !important;
+  padding: 0.9rem 1.2rem;
+}
+
+td.operations {
+  width: 150px;
+}
+
+.join-us .form-actions,
+.join-us .form-item {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.join-us .webform-submit {
+  margin: 0;
+}
+
+.join-us .button.button-xlarge {
+  margin-top: 3px;
+  padding: 8px 32px;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 34px;
+}
+
+.entry dl,
+.entry dt,
+.entry dd,
+.entry ol,
+.entry ul,
+.node .content ol,
+.node .content ul {
+  padding-left: 20px;
+}
+
+/*
+***
+*** CiviCRM Overrides
+***
+*/
+body.crm-menubar-visible.crm-menubar-over-cms-menu {
+  padding-top: 0px !important;
+}
+
+.crm-section.form-item {
+  margin-bottom: 16px;
+}
+
+.crm-profile legend {
+  margin-bottom: 36px;
+}
+
+.crm-form-text {
+  width: auto;
+}
+
+#crm-main-content-wrapper {
+  font-size: 1rem;
+}
+
+#crm-main-content-wrapper .help {
+  margin-bottom: 20px;
+}
+
+#crm-main-content-wrapper .crm-submit-buttons {
+  margin-bottom: 20px;
+}
+
+#crm-main-content-wrapper .header-dark {
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  font-weight: 600;
+}
+
+#crm-container.crm-public .price-set-row input {
+  display: none;
+}
+
+#crm-main-content-wrapper .crm-profile-view-title {
+  margin-bottom: 10px;
+}
+
+.register_link-top {
+  margin-top: 0;
+}
+
+.webform-submit {
+  margin: 20px 0;
+}
+
+/* ender */

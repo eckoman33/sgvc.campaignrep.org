@@ -1,0 +1,598 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13664, 34.64623]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "1:30pm-4:30pm",
+      "sun_hrs": "",
+      "postal": "93534",
+      "services_a": "LS",
+      "city_1": "Lancaster",
+      "agency": "Antelope Valley Courthouse",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "1:30pm-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "1:30pm-4:30pm",
+      "services_1": "Legal Services",
+      "mon_hrs": "1:30pm-4:30pm",
+      "street_add": "42011 4th Street",
+      "id": 33,
+      "hours_of_o": "M  Tue  W  Thurs: 1:30pm-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.36146, 34.073]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90036",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "Bet Tzedek",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.939.0506",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "145 S. Fairfax Ave",
+      "id": 64,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09477, 34.14985]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "LS",
+      "city_1": "Pasadena",
+      "agency": "Bezaire  Stephen P Law Office",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "2700 E. Foothill Blvd.",
+      "id": 70,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95838, 34.08368]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "LS",
+      "city_1": "Baldwin Park",
+      "agency": "Document Assistant Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "14530 Pacific Ave.",
+      "id": 177,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27428, 34.05714]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90057",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "Eviction Defense Network",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.387.2822",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "1930 Wilshire Blvd.",
+      "id": 225,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.59978, 34.24271]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.healthadvocates.com",
+      "tues_hrs": "7:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91311",
+      "services_a": "LS",
+      "city_1": "Chatsworth",
+      "agency": "Health Advocates",
+      "friday_hrs": "7:00am-12:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818-286-3727",
+      "weds_hrs": "7:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-5:00pm",
+      "services_1": "Legal Services",
+      "mon_hrs": "7:00am-5:00pm",
+      "street_add": "21540 Plummer Street",
+      "id": 316,
+      "hours_of_o": "M-Thru 7am-5pm/Fri 7am-12:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.35403, 33.96445]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90301",
+      "services_a": "LS",
+      "city_1": "Inglewood",
+      "agency": "Inglewood Courthouse- Legal Aid Foundation of Los Angeles LAFLA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "1 E. Regent St",
+      "id": 349,
+      "hours_of_o": "Walk-ins Only: M  T  W  Th 9am-12pm  1:30pm-4pm; Fri 9am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24868, 34.04651]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "Inner City Law Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "506 S. Main Street",
+      "id": 365,
+      "hours_of_o": "Walk-ins welcome: M-F  8:30am-12pm; 1-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.21961, 34.02704]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90023",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "LA Center for Law and Justice",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.980.3500",
+      "weds_hrs": "2:00pm-6:30pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "1:00pm-4:00pm",
+      "street_add": "1241 S. Soto Street",
+      "id": 375,
+      "hours_of_o": "Walk-ins welcome: Mon 1-4pm  Wed 2-6:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.27192, 34.05219]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90017",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "Legal Aid Foundation of Los Angeles LAFLA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.487.7609",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "1550 W. 8th S.",
+      "id": 395,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.19697, 33.76737]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90802",
+      "services_a": "LS",
+      "city_1": "Long Beach",
+      "agency": "Long Beach Courthouse- Legal Aid Foundation of Los Angeles LAFLA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "415 W. Ocean Blvd.",
+      "id": 401,
+      "hours_of_o": "Walk-ins Only: M  T  W  Th 9am-12pm  1:30pm-4pm; Fri 9am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06514, 34.06879]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.nls-la.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "LS",
+      "city_1": "El Monte",
+      "agency": "Neighborhood Legal Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "800.433.6251.  For Healthcare issues call  The Health Consumer Center  at 800.896.3203  Mon &Thru 9am-11:45am",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "9354 Telstar Ave.",
+      "id": 448,
+      "hours_of_o": "Government Benefits 1st and 3rd Wed of the month 9:15am-11:45am. Employment  Housing and Consumer Help- M-Fri 9am-5pm. Immigration Help- Tues 1:30pm-4:30pm. Family Law- Tues and Th 9:15am-11:45am."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24532, 34.05349]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:15am-11:45am",
+      "sun_hrs": "",
+      "postal": "",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "Neighborhood Legal Services",
+      "friday_hrs": "9:15am-11:45am",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "800.433.6251",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "9:15am-11:45am",
+      "street_add": "",
+      "id": 449,
+      "hours_of_o": "Call for an appointment: M  T  Fri 9:15am-11:45am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75005, 34.0546]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ci.pomona.ca.us",
+      "tues_hrs": "10:00am-6:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "LS",
+      "city_1": "Pomona",
+      "agency": "Pomona Community Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.2321",
+      "weds_hrs": "10:00am-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-6:00pm",
+      "services_1": "Legal Services",
+      "mon_hrs": "10:00am-6:00pm",
+      "street_add": "505 S. Garey Ave.",
+      "id": 500,
+      "hours_of_o": "Mon-Thurs 10am-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75274, 34.05443]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "1:30pm-4:30pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "LS",
+      "city_1": "Pomona",
+      "agency": "Pomona Courthouse- Neighborhood Legal Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "1:30pm-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "1:30pm-4:30pm",
+      "services_1": "Legal Services",
+      "mon_hrs": "1:30pm-4:30pm",
+      "street_add": "400 Civic Center Plaza",
+      "id": 503,
+      "hours_of_o": "Walk-ins only: M  Tue  W  Thurs 1:30pm-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76212, 34.03958]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "LS",
+      "city_1": "Pomona",
+      "agency": "Pomona Plus",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.2571",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "248 Monterey",
+      "id": 513,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.30157, 34.0632]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.publiccounsel.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90005",
+      "services_a": "LS",
+      "city_1": "Los Angeles",
+      "agency": "Public Counsel Law Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.385.2977",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "610 South Ardmore Ave",
+      "id": 540,
+      "hours_of_o": "M-F 9:00a.m.-12:30p.m. and 1:30p.m.-5:00p.m. by appointment only"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.43678, 34.28463]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "1:30pm-4:30pm",
+      "sun_hrs": "",
+      "postal": "91340",
+      "services_a": "LS",
+      "city_1": "San Fernando",
+      "agency": "San Fernando Courthouse-Neighborhood Legal Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "1:30pm-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "1:30pm-4:30pm",
+      "services_1": "Legal Services",
+      "mon_hrs": "1:30pm-4:30pm",
+      "street_add": "900 3rd St",
+      "id": 562,
+      "hours_of_o": "M  Tue  W  Thurs: 1:30pm-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.49089, 34.0104]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90401",
+      "services_a": "LS",
+      "city_1": "Santa Monica",
+      "agency": "Santa Monica Courthouse- Legal Aid Foundation of Los Angeles LAFLA",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "1725 Main St",
+      "id": 583,
+      "hours_of_o": "Walk-ins only M T  W  Th 9am-12pm & 1:30-4pm; Fri 9am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.34011, 33.83856]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90503",
+      "services_a": "LS",
+      "city_1": "Torrance",
+      "agency": "Torrance Courthouse- Legal Aid Foundation of Los Angeles LAFLA.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "825 Maple Ave",
+      "id": 637,
+      "hours_of_o": "M  T  W  Th 9am-12pm  1:30pm-4pm; Fri 9am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.37361, 33.95347]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.usvetsinc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90301",
+      "services_a": "LS",
+      "city_1": "Inglewood",
+      "agency": "U.S. VETS- Supportive Services for Veteran Families",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "310.348.7600",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Legal Services",
+      "mon_hrs": "",
+      "street_add": "733 South Hindry Ave",
+      "id": 652,
+      "hours_of_o": "call for information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.94458, 34.07032]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91790",
+      "services_a": "LS",
+      "city_1": "West Covina",
+      "agency": "Volunteers of America",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.337.9878",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Legal Services",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "1760 West Cameron Ave",
+      "id": 684,
+      "hours_of_o": "Mon-Fri 8am-4:30pm"
+    }
+  }]
+}

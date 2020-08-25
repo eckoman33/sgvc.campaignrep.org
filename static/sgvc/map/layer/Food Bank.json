@@ -1,0 +1,3433 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75294, 34.05681]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.adventist.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "7th Day Adventist",
+      "friday_hrs": "",
+      "sat_hrs": "10am",
+      "email": "",
+      "phone": "909.622.1450",
+      "weds_hrs": "5:00pm-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "360 West 3rd St.",
+      "id": 2,
+      "hours_of_o": "Wednesdays 5-7 p.m. Bag of Food Saturdays 10 am breakfast"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75279, 34.0813]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "7th Day Adventist",
+      "friday_hrs": "",
+      "sat_hrs": "10am",
+      "email": "",
+      "phone": "909.629.0106",
+      "weds_hrs": "5:00pm-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1921 N. Garey Ave",
+      "id": 3,
+      "hours_of_o": "Wednesdays 5-7 p.m. Bag of Food Saturdays 10 am breakfast"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04489, 34.1317]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.redcross.org",
+      "tues_hrs": "8:30am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91007",
+      "services_a": "FB",
+      "city_1": "Arcadia",
+      "agency": "American Red Cross",
+      "friday_hrs": "8:30am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.447.2193",
+      "weds_hrs": "8:30am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-4:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:30am-4:30pm",
+      "street_add": "376 W. Huntington Dr.",
+      "id": 21,
+      "hours_of_o": "Mon-Fri 8:30am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75879, 34.05351]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Angels Who Care",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "951.212.2031",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "675 White Ave.",
+      "id": 30,
+      "hours_of_o": "2nd Mon & 4th Thurs"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73375, 34.07868]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Antioch Missionary Baptist Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.621.5369",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "2343 San Antonio",
+      "id": 34,
+      "hours_of_o": "Every 2nd Tuesday- Registration 9-11am  Distribution at 12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74604, 34.06389]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Assistance League Pomona Valley",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.6142",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "655 N. Palomares St.",
+      "id": 53,
+      "hours_of_o": "Vary  call for information."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09972, 34.09767]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.asianyouthcenter.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "FB",
+      "city_1": "San Gabriel",
+      "agency": "AYC Asian Youth Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.731.3314",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "100 W. Clary Ave.",
+      "id": 54,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.9076, 34.12721]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foursquare.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91702",
+      "services_a": "FB",
+      "city_1": "Azusa",
+      "agency": "Azusa Hispanic Foursquare",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.939.3133",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "6:00pm-9:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "325 Azusa Ave",
+      "id": 56,
+      "hours_of_o": "Thursday 6-9:00 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96936, 34.08479]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "FB",
+      "city_1": "Baldwin Park",
+      "agency": "Baldwin Park Bilingual S.D.A.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.338.4828",
+      "weds_hrs": "6:00pm-7:30pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "13965 E. Ramona Pkwy",
+      "id": 58,
+      "hours_of_o": "Wednesday 6-7:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75279, 34.0813]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "",
+      "agency": "Bethel S.D.A. Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.521.3143",
+      "weds_hrs": "5:30pm-7:30pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1921 N. Garey Ave",
+      "id": 68,
+      "hours_of_o": "Weds 5:30-7:30 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02428, 34.06049]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.wsgvbgc.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91732",
+      "services_a": "FB",
+      "city_1": "El Monte",
+      "agency": "Boys & Girls Club of San Gabriel",
+      "friday_hrs": "1:30pm-2:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.442.5470",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "2740 Mountain View Rd",
+      "id": 74,
+      "hours_of_o": "Friday 1:30-2:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14339, 34.14953]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "CA Department of Corrections",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.450.6250",
+      "weds_hrs": "8:15am-9:30am",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "333 E. Walnut Ave",
+      "id": 82,
+      "hours_of_o": "Wed 8:15am-9:30am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95661, 34.02336]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.calfresh.ca.gov",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "",
+      "services_a": "FB",
+      "city_1": "City of Industry",
+      "agency": "CalFresh Nutrition Program",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "delloraellis-gant@dpss.lacounty.gov",
+      "phone": "866.613.3777",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "",
+      "id": 88,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13672, 34.1496]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "California Drug Counseling Inc.",
+      "friday_hrs": "9:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.513.4799",
+      "weds_hrs": "9:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-4:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-4:30pm",
+      "street_add": "659 E. Walnut Ave",
+      "id": 89,
+      "hours_of_o": "Mon-Fri 9am-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.90774, 34.11593]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91702",
+      "services_a": "FB",
+      "city_1": "Azusa",
+      "agency": "Canyon Christian Fellowship",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.922.3076",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "6:00pm-8:00pm",
+      "street_add": "405 N. Azusa Ave",
+      "id": 92,
+      "hours_of_o": "Mon 6pm-8pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0317, 34.08231]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.catholiccharitiesla.org",
+      "tues_hrs": "9:00am-1:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "FB",
+      "city_1": "El Monte",
+      "agency": "Catholic Charities",
+      "friday_hrs": "9:00am-1:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.575.7652",
+      "weds_hrs": "9:00am-1:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-1:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-1:00pm",
+      "street_add": "4171 N Tyler Ave",
+      "id": 102,
+      "hours_of_o": "Mon-Fri 9am-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88786, 34.08802]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "4:00pm-5:00pm",
+      "sun_hrs": "",
+      "postal": "91723",
+      "services_a": "FB",
+      "city_1": "Covina",
+      "agency": "Christ First Baptist Church",
+      "friday_hrs": "7:00am-8:00am",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.339.7378",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "200 North Second Ave",
+      "id": 118,
+      "hours_of_o": "Breakfast served every Friday morning from 7:00am-8:00am and Dinner served every Tuesday night from 4:00pm-5:00pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75651, 34.04862]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Christ Temple Church of Pomona",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.1233",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "705 W 12th St.",
+      "id": 120,
+      "hours_of_o": "2nd and 4th Tues 10-11:15am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.10696, 34.09977]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "10:00am-2:00pm",
+      "postal": "91776",
+      "services_a": "FB",
+      "city_1": "San Gabriel",
+      "agency": "Christian Service Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.289.5165",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "10:00am-2:00pm",
+      "street_add": "254 1/2 S. Santa Anita St.",
+      "id": 121,
+      "hours_of_o": "Food handout Mon-Sun 10am-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.08198, 34.06096]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "FB",
+      "city_1": "Rosemead",
+      "agency": "Church of Nazarene",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.695.0019",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "2703 Walnut Grove Ave",
+      "id": 123,
+      "hours_of_o": "3rd Saturday of the month 10am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97611, 34.08024]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.cotrbp.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "FB",
+      "city_1": "Baldwin Park",
+      "agency": "Church of the Redeemer",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.960.9585",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "3739 North Monterey Ave",
+      "id": 124,
+      "hours_of_o": "4th Saturday of the month- 8-10:00am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.90774, 34.11593]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.coryskitchen.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91702",
+      "services_a": "FB",
+      "city_1": "Azusa",
+      "agency": "Cory's Kitchen",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.922.3076",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "6:00pm-8:00pm",
+      "street_add": "405 N. Azusa Ave",
+      "id": 135,
+      "hours_of_o": "Azusa: Mon 6pm-8pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98852, 34.07917]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.coryskitchen.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "FB",
+      "city_1": "Baldwin Park",
+      "agency": "Cory's Kitchen",
+      "friday_hrs": "5:00pm-7:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.472.7144",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "13020 Francisquito Ave",
+      "id": 136,
+      "hours_of_o": "Baldwin Park: Fri 5pm-7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97506, 34.11491]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.coryskitchen.org",
+      "tues_hrs": "6:00pm-8:00pm",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "FB",
+      "city_1": "Irwindale",
+      "agency": "Cory's Kitchen",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.305.0392",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1418 Arrow Hwy",
+      "id": 137,
+      "hours_of_o": "Irwindale: Tues 6pm-8pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.85795, 33.99954]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.coryskitchen.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91789",
+      "services_a": "FB",
+      "city_1": "Walnut",
+      "agency": "Cory's Kitchen",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.468.0366",
+      "weds_hrs": "4:00pm-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "20470A Yellowbrick Rd.",
+      "id": 138,
+      "hours_of_o": "Walnut: Weds 4pm-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73681, 34.08509]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "CUSH Foundation",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.621.5369",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "1:00pm-2:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "2343 N San Antonio Ave",
+      "id": 146,
+      "hours_of_o": "Thurs 1-2:30 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95177, 34.04381]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.delhavencommunitycenter.com",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "FB",
+      "city_1": "La Puente",
+      "agency": "Delhaven Community Center",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.917.9789",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "15135 Fair Grove Ave",
+      "id": 152,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Department of Public Social Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "rociobuitrago@dpss.lacounty.gov",
+      "phone": "909.865.5322",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "2040 W. Holt Ave.",
+      "id": 162,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02434, 34.02875]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "7:00am-6:30pm",
+      "sun_hrs": "",
+      "postal": "90601",
+      "services_a": "FB",
+      "city_1": "City of Industry",
+      "agency": "Dept. of Public and Social Services",
+      "friday_hrs": "7:00am-6:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.908.8400",
+      "weds_hrs": "7:00am-6:30pm",
+      "language_a": "",
+      "thurs_hrs": "7:00am-6:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "7:00am-6:30pm",
+      "street_add": "12860 Crossroads Pkwy South",
+      "id": 170,
+      "hours_of_o": "M-F 7am-6:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96656, 34.13772]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91009",
+      "services_a": "FB",
+      "city_1": "Duarte",
+      "agency": "Duarte Community Service Council",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.359.9487",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "P.O. Box 75",
+      "id": 188,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97853, 34.01034]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.esgvchomeless.com",
+      "tues_hrs": "8:30am-1:30pm",
+      "sun_hrs": "",
+      "postal": "91745",
+      "services_a": "FB",
+      "city_1": "Hacienda Heights",
+      "agency": "East San Gabriel Valley Coalition for the Homeless",
+      "friday_hrs": "8:30am-1:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.333.7204",
+      "weds_hrs": "8:30am-1:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:30am-1:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:30am-1:30pm",
+      "street_add": "1345 Turnbull Canyon Rd",
+      "id": 191,
+      "hours_of_o": "8:30am-1:30pm/M-F"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14136, 34.1689]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.ecpac.net",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Ecumenical Council of Pasadena Area Congregations ECPAC",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.797.2402",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "444 E. Washington Blvd.",
+      "id": 201,
+      "hours_of_o": ""
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06869, 34.05938]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "FB",
+      "city_1": "South El Monte",
+      "agency": "El Monte South Emergency",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.444.7269",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "2618 Loma St",
+      "id": 206,
+      "hours_of_o": "Call Mon-Fri 8am-5pm for delivery appt."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14136, 34.1689]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "10:00am-3:00pm",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Emergency Food & Clothing",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.797.2402",
+      "weds_hrs": "10:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "444 East Washington Blvd",
+      "id": 212,
+      "hours_of_o": "Tues-Weds 10am-3:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.85818, 33.99907]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91789",
+      "services_a": "FB",
+      "city_1": "Walnut",
+      "agency": "Faith Center Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.468.0366",
+      "weds_hrs": "4:00pm-6:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "201470A Yellow brick Rd.",
+      "id": 226,
+      "hours_of_o": "Wed 4pm-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.07451, 34.16155]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "First Church of the Nazarene",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.351.9631",
+      "weds_hrs": "2:00pm-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "2:00pm-4:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "3700 East Sierra Madre Blvd",
+      "id": 239,
+      "hours_of_o": "Weds-Thurs 2-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09679, 34.06992]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "FB",
+      "city_1": "Rosemead",
+      "agency": "First Church of the Open Bible",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.571.2054",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "7915 Hellman Ave",
+      "id": 240,
+      "hours_of_o": "Call for appointment"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03975, 33.963]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90602",
+      "services_a": "FB",
+      "city_1": "Whittier",
+      "agency": "First Family Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.893.1236",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "8434 South Greenleaf Ave",
+      "id": 241,
+      "hours_of_o": "Sun 10:15-11am  12:15-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88786, 34.08863]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91723",
+      "services_a": "FB",
+      "city_1": "Covina",
+      "agency": "First Presbyterian Church of Covina",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.332.6251",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "310 North Second Ave",
+      "id": 242,
+      "hours_of_o": "Food Bank open 2nd Sunday of each month 12:00 noon to 1:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.95053, 34.02614]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "FB",
+      "city_1": "La Puente",
+      "agency": "First United Methodist Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.336.1927",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "15701 Hill St",
+      "id": 243,
+      "hours_of_o": "Last Sunday of the Month- 11:30am-12:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.08868, 33.9354]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90670",
+      "services_a": "FB",
+      "city_1": "Santa Fe Springs",
+      "agency": "Florence Avenue Foursquare",
+      "friday_hrs": "",
+      "sat_hrs": "9:00am-11:00am",
+      "email": "",
+      "phone": "562.868.2234",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "11457 East Florence Ave",
+      "id": 244,
+      "hours_of_o": "Sat 9-11a.m. Sun by appointment"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0673, 33.96455]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90606",
+      "services_a": "FB",
+      "city_1": "Whittier",
+      "agency": "Food Net Los Nietos Services",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.699.2040",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "11640 West Slauson Ave",
+      "id": 245,
+      "hours_of_o": "2nd and 4th Friday 9am-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04523, 34.04486]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "FB",
+      "city_1": "South El Monte",
+      "agency": "Food Net San Gabriel Valley",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "323.957.7757",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1441 Santa Anita Ave",
+      "id": 246,
+      "hours_of_o": "1st and 4th Weds 9-11am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.71688, 34.09865]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.fapinfo.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91711",
+      "services_a": "FB",
+      "city_1": "Claremont",
+      "agency": "Foothill AIDS Project",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "abrazier@fapinfo.org",
+      "phone": "909.482.2070",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "233 Harrison Ave",
+      "id": 250,
+      "hours_of_o": "Beginning June 2012 we will be offering our services every Wednesday."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.00813, 34.14255]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.foothillunitycenter.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91016",
+      "services_a": "FB",
+      "city_1": "Monrovia",
+      "agency": "Foothill Unity Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.358.3486",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "415 W. Chestnut Ave.",
+      "id": 281,
+      "hours_of_o": "Office Hours Mon-Fri 9-5pm. Distribution Monday 1-3:30pm  Wed & Fri 9-11:30am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.10767, 34.14957]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-11:30am",
+      "sun_hrs": "",
+      "postal": "91107",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Foothill Unity Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.584.7420",
+      "weds_hrs": "1:00pm-3:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-11:30am",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "191 N. Oak Ave",
+      "id": 284,
+      "hours_of_o": "Tues & Thurs 9-11:30am  Weds 1-3:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75675, 34.04861]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "For Christ's Sake",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.622.0094",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "727 W. 12th St.",
+      "id": 285,
+      "hours_of_o": "Tuesdays 10am-2pm Bag of Food"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75675, 34.04861]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "For Christ's Sake Economic Development",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "727 W. 12th St",
+      "id": 286,
+      "hours_of_o": "Tues 9am-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.141, 34.14951]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.friendsoutsidela.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Friends Outside in Los Angeles County",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.795.7607",
+      "weds_hrs": "10:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "464 E. Walnut St",
+      "id": 287,
+      "hours_of_o": "Weds 10am-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13996, 34.1484]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91101",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Fuller Theological Seminary",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.584.5257",
+      "weds_hrs": "11:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "135 N. Oakland Ave",
+      "id": 291,
+      "hours_of_o": "Weds 11am-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.60001, 34.09426]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91730",
+      "services_a": "FB",
+      "city_1": "Rancho Cucamonga",
+      "agency": "G.A.P. Good Bank",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.945.1020",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "8768 Helms Ave",
+      "id": 292,
+      "hours_of_o": "Th 4pm-6pm Open @3"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.06587, 34.05697]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.godprovidesministry.org",
+      "tues_hrs": "8:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "FB",
+      "city_1": "South El Monte",
+      "agency": "God Provides  Native American Food Bank",
+      "friday_hrs": "8:00am-4:00pm",
+      "sat_hrs": "8:00am-2:00pm",
+      "email": "",
+      "phone": "626.442.4273",
+      "weds_hrs": "8:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-4:00pm",
+      "street_add": "2453 Troy Ave.",
+      "id": 296,
+      "hours_of_o": "Food Distribution Mon-Fri 8-4pm  Sat 8-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78006, 34.06161]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "3:45pm",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Helping Hands Caring Hearts Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1750 W. Holt Ave",
+      "id": 318,
+      "hours_of_o": "Sun 3:45pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.15315, 34.10821]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91030",
+      "services_a": "FB",
+      "city_1": "South Pasadena",
+      "agency": "Holy Family Giving Bank",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.403.6140",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-10:45am",
+      "street_add": "1524 Fremont Ave",
+      "id": 320,
+      "hours_of_o": "Mon 9-10:45 am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97064, 34.03202]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "FB",
+      "city_1": "La Puente",
+      "agency": "Iglesia Esmirna Cuadrangular",
+      "friday_hrs": "",
+      "sat_hrs": "10:00am-12:00pm",
+      "email": "",
+      "phone": "626.343.6175",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "14832 Valley Blvd",
+      "id": 344,
+      "hours_of_o": "Sat 10am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.90074, 33.98033]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91748",
+      "services_a": "FB",
+      "city_1": "Rowland Heights",
+      "agency": "Iglesia Nueva Vida",
+      "friday_hrs": "6:00pm-8:00pm",
+      "sat_hrs": "9:00am-11:00am",
+      "email": "",
+      "phone": "714.526.4714",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "18555 Fajardo St",
+      "id": 345,
+      "hours_of_o": "Fri 6-8:00pm  Sat 9-11am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.77432, 34.02748]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Imani Economic & Community",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.9161",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "20 Hidden Valley Rd",
+      "id": 346,
+      "hours_of_o": "909621-5369"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75703, 34.06034]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "4:00pm-6:00pm",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Imani Temple Christian Fellowship",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "510 W. Monterey Ave",
+      "id": 347,
+      "hours_of_o": "Sun 4-6pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.63629, 34.05573]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-3:00pm",
+      "sun_hrs": "",
+      "postal": "91761",
+      "services_a": "FB",
+      "city_1": "Ontario",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.391.4882",
+      "weds_hrs": "9:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-3:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-3:00pm",
+      "street_add": "904 E. California St.",
+      "id": 351,
+      "hours_of_o": "M-Th 9am-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75225, 34.06456]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.inlandvalleyhopepartners.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909-622-3806 X301",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "209 W. Pearl, St.",
+      "id": 352,
+      "hours_of_o": "M-Th 9am-3pm/ 3rd Th/month 5-7pm/ 3rd Sunday/month 5-7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75865, 34.05176]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.inlandvalleyhopepartners.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909-622-3806",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "810 S. White Ave",
+      "id": 353,
+      "hours_of_o": "M-THz 9am-3pm/ 3rd Th/month 5-7pm/ 3rd Sunday/month 5-7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.80681, 34.10967]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.inlandvalleyhopepartners.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91773",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "2:00pm-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909-622-3806",
+      "weds_hrs": "2:00pm-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "2:00pm-4:00pm",
+      "street_add": "110 E. 3rd St.",
+      "id": 354,
+      "hours_of_o": "M-W-Fri 2-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76262, 34.04755]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-3:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.622.7278",
+      "weds_hrs": "9:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-3:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-3:00pm",
+      "street_add": "1095 W. Grand aver",
+      "id": 360,
+      "hours_of_o": "M-Th: 9am-3:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.80681, 34.10967]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91773",
+      "services_a": "FB",
+      "city_1": "San Dimas",
+      "agency": "Inland Valley Hope Partners",
+      "friday_hrs": "2:00pm-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "2:00pm-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "2:00pm-4:00pm",
+      "street_add": "110 E. 3rd St",
+      "id": 361,
+      "hours_of_o": "M-W-Fri 2pm-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75043, 34.06451]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Inland Valley Hope Partners: Certified Farmers Market",
+      "friday_hrs": "",
+      "sat_hrs": "7:30am-11:30am",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "Garey Ave. and Pearl St",
+      "id": 363,
+      "hours_of_o": "Saturdays 7:30-11:30am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75303, 34.06225]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-5:30pm",
+      "sun_hrs": "",
+      "postal": "91769",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Inter City Volunteers",
+      "friday_hrs": "9:00am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.865.8853",
+      "weds_hrs": "9:00am-5:30pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-5:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "P.O. Box 209",
+      "id": 368,
+      "hours_of_o": "Tuesday to Friday 9:00a.m. to 5:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02153, 33.92462]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90604",
+      "services_a": "FB",
+      "city_1": "Whittier",
+      "agency": "Interfaith Food Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.903.1478",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "14545 Leffingwell Rd",
+      "id": 369,
+      "hours_of_o": "Mon  Tues  Thurs  Fri- 9am-12pm  Tues 5-7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13253, 34.1624]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "LA County Public Social Services",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.791.6333",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "Spanish",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "955 N. Lake Ave.",
+      "id": 383,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78686, 34.06136]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:00am-5:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "LA County Public Social Services",
+      "friday_hrs": "8:00am-5:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.865.5210",
+      "weds_hrs": "8:00am-5:00pm",
+      "language_a": "Spanish, Chinese, Vietnamese",
+      "thurs_hrs": "8:00am-5:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-5:00pm",
+      "street_add": "2040 Holt Ave",
+      "id": 385,
+      "hours_of_o": "Mon-Fri 8am-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.90887, 34.00652]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "8:30pm-9:00pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "FB",
+      "city_1": "City of Industry",
+      "agency": "La Puente Spanish S.D.A.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.482.3512",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "18047 Valley Blvd",
+      "id": 388,
+      "hours_of_o": "Tuesday 8:30pm-9pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.15954, 34.16651]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91103",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Lincoln Ave. Baptist Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.798.9163",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1180 N. Lincoln Ave",
+      "id": 396,
+      "hours_of_o": "3rd Weds of the month 10:00am-12:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.88309, 34.10675]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.loveinc.org",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91722",
+      "services_a": "FB",
+      "city_1": "Covina",
+      "agency": "Love In the Name of Christ Love INC",
+      "friday_hrs": "10:00am-2:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.858.3300",
+      "weds_hrs": "10:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-2:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "10:00am-2:00pm",
+      "street_add": "18821 Arrow Highway",
+      "id": 415,
+      "hours_of_o": "Mon-Fri 10am-2pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73577, 34.09615]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.mowaa.org",
+      "tues_hrs": "10:45am-12:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Meals on Wheels",
+      "friday_hrs": "10:45am-12:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.621.4018",
+      "weds_hrs": "10:45am-12:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:45am-12:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "10:45am-12:00pm",
+      "street_add": "845 E. Bonita Ave.",
+      "id": 424,
+      "hours_of_o": "Meals are  delivered on                            M-F 10:45a.m. to Noon"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.63636, 34.06342]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.mercyhouse.net",
+      "tues_hrs": "9:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91761",
+      "services_a": "FB",
+      "city_1": "Ontario",
+      "agency": "Mercy House",
+      "friday_hrs": "9:00am-2:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.391.2630",
+      "weds_hrs": "9:00am-2:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-2:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-2:00pm",
+      "street_add": "905 E. Holt Blvd.",
+      "id": 425,
+      "hours_of_o": "Mon-Fri 9am-2pm last client at 12:30 pm Homeless Served Mon  Wed  Thurs & Fri  families served 1st and 3rd Tues of every month."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75942, 34.05119]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.mtsinaifoundation.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Mt. Sinai Foundation",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.868.9224  909.395.6625",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "936 West 9th St.",
+      "id": 437,
+      "hours_of_o": "Every 3rd Saturday of the Month      12:00 p.m.-2:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.98852, 34.07917]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "FB",
+      "city_1": "Baldwin Park",
+      "agency": "New Beginnings",
+      "friday_hrs": "5:00pm-7:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.472.7144",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "13020 Francisquito Ave",
+      "id": 450,
+      "hours_of_o": "Fri 5pm-7pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.72915, 34.06286]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "New Directions Community Church of God in Christ",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.593.5000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1100 E .Holt Ave.",
+      "id": 451,
+      "hours_of_o": "2nd Saturday of the month 11:00a.m. to 12:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75642, 34.06036]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "3:30pm-5:30pm",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "New Harvest Community Church/Helping Hands Caring Hearts Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.8646",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "480 W. Monterey St.",
+      "id": 454,
+      "hours_of_o": "Sunday Dinner @ 3:45 Pantry 3:30pm-5:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74485, 34.10731]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.newlifepomona.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "New Life Community Church",
+      "friday_hrs": "5:00pm-6:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.8137",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "275 E. Foothill Blvd.",
+      "id": 456,
+      "hours_of_o": "Fridays 5:00-6:30 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.02941, 34.08572]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.our-center.org",
+      "tues_hrs": "10:00am-1:00pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "FB",
+      "city_1": "El Monte",
+      "agency": "Our Savior Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.579.2190 X127 Diane Williams",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "10:00am-1:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "4368 Santa Anita Ave",
+      "id": 461,
+      "hours_of_o": "Tues & Thurs. 10am-1pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.13208, 34.17183]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91104",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Pasadena Spance S.D.A.",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "818.660.2359",
+      "weds_hrs": "8:00pm-9:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1506 North Lake Ave",
+      "id": 486,
+      "hours_of_o": "Weds 8-9:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.07918, 34.1035]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.peopleforpeople.org",
+      "tues_hrs": "9:00am-2:30pm",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "FB",
+      "city_1": "San Gabriel",
+      "agency": "People for People",
+      "friday_hrs": "8:00am-12:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.569.2158",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "9:00am-2:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1311 Las Tunas Dr.",
+      "id": 494,
+      "hours_of_o": "Tues-Thurs 9-2:30pm  Fri 8-12:30pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75214, 34.06318]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.pomonafamilyresources.org",
+      "tues_hrs": "9:00am-3:00pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Pomona First Baptist Church ",
+      "friday_hrs": "9:00am-3:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909 629-5277 x3014 909 620-5228",
+      "weds_hrs": "9:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-3:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-3:00pm",
+      "street_add": "586 N. Main St. Pomona, CA 91767",
+      "id": 506,
+      "hours_of_o": "  Mon. to Fri. 9:00-3:00 Food Pantry"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.729, 34.10039]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "2:00pm-5:00pm",
+      "sun_hrs": "",
+      "postal": "91711",
+      "services_a": "FB",
+      "city_1": "Claremont",
+      "agency": "Pomona Inland Valley Council",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.391.4882 909.621.2400",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "2:00pm-5:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "660 N. Mountain Ave",
+      "id": 508,
+      "hours_of_o": "Tues 2-5:00pm  Thurs 2-5:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74978, 34.04996]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Pomona Valley Christian Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "951.212.2031  909.868.1920",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1066 Garey Ave",
+      "id": 514,
+      "hours_of_o": "Every 4th Thurs 10am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7498, 34.05039]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Pomona Valley Christian Ministry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.868.1920  951.212.2031",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1006 S. Garey Ave.",
+      "id": 516,
+      "hours_of_o": "Breakfast M  T  Th  Fri  Sat 8-10am                                        Lunch Sat 12:00 p.m.                              Dinner Tues 4:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75214, 34.06318]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.purposechurch.com",
+      "tues_hrs": "8:00am-4:30pm",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Purpose Church",
+      "friday_hrs": "8:00am-4:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.5277",
+      "weds_hrs": "8:00am-4:30pm",
+      "language_a": "",
+      "thurs_hrs": "8:00am-4:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "8:00am-4:30pm",
+      "street_add": "586 N. Main St.",
+      "id": 541,
+      "hours_of_o": "M-F 8:00a.m. to 4:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.14815, 34.16887]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91103",
+      "services_a": "FB",
+      "city_1": "Pasadena",
+      "agency": "Refuge Christian Center",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.797.0989",
+      "weds_hrs": "8:00pm-9:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "119 E. Washington Blvd",
+      "id": 549,
+      "hours_of_o": "Weds 8-9:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74203, 34.11674]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91711",
+      "services_a": "FB",
+      "city_1": "Claremont",
+      "agency": "S.V.P. Our Lady of the Assumption Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.626.3596",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1770 Summer Ave.",
+      "id": 551,
+      "hours_of_o": "2nd and last Sunday of the month- 3:00-4:30 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74324, 34.0811]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.salvationarmyusa.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Salvation Army",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.623.1579",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "490 E. La Verne Ave.",
+      "id": 552,
+      "hours_of_o": "Tues-Thurs & Fri 9-11am and 1-2pm."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.0646, 33.9704]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "1:00pm-4:00pm",
+      "sun_hrs": "",
+      "postal": "90606",
+      "services_a": "FB",
+      "city_1": "Santa Fe",
+      "agency": "Salvation Army",
+      "friday_hrs": "1:00pm-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.696.9562",
+      "weds_hrs": "1:00pm-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "1:00pm-4:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "1:00pm-4:00pm",
+      "street_add": "1200 E Washington Blvd",
+      "id": 555,
+      "hours_of_o": "Mon-Fri 1-4pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04203, 33.96927]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "1:00pm-3:00pm",
+      "sun_hrs": "",
+      "postal": "90602",
+      "services_a": "FB",
+      "city_1": "Whittier",
+      "agency": "Salvation Army",
+      "friday_hrs": "1:00pm-3:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.698.8348",
+      "weds_hrs": "1:00pm-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "1:00pm-3:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "1:00pm-3:00pm",
+      "street_add": "7926 Pickering Ave",
+      "id": 556,
+      "hours_of_o": "Mon-Fri 1-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97842, 34.13971]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.fns.usda.gov/wic",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91010",
+      "services_a": "FB",
+      "city_1": "Duarte",
+      "agency": "WIC",
+      "friday_hrs": "9:15am-5:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "10:15am-6:45pm",
+      "language_a": "Spanish",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:30pm",
+      "street_add": "1213 E. Huntington Dr",
+      "id": 701,
+      "hours_of_o": "Mon-Fri 9:15am-5:30pm  W 10:15 am-6:45 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75294, 34.05681]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Seventh Day Adventist Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "360 W. 3rd St",
+      "id": 587,
+      "hours_of_o": "Every 2nd and 4th Thurs 12-1:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.61987, 34.07997]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "10:00am-4:00pm",
+      "sun_hrs": "",
+      "postal": "91764",
+      "services_a": "FB",
+      "city_1": "Ontario",
+      "agency": "SHARE Program",
+      "friday_hrs": "10:00am-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.986.2633",
+      "weds_hrs": "10:00am-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "10:00am-4:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "10:00am-4:00pm",
+      "street_add": "1205 N. Baker St.",
+      "id": 589,
+      "hours_of_o": "M-F 10:00-4:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.851, 34.10677]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.shepherdspantry.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91740",
+      "services_a": "FB",
+      "city_1": "Glendora",
+      "agency": "Shepherd's Pantry",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.852.7630",
+      "weds_hrs": "5:00pm-7:00pm",
+      "language_a": "",
+      "thurs_hrs": "5:00pm-7:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "657 E. Arrow Hwy",
+      "id": 590,
+      "hours_of_o": "Weds-Thurs 5-7:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78006, 34.06161]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.shieldoffaithpomona.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Shield of Faith Pomona",
+      "friday_hrs": "",
+      "sat_hrs": "9:00am-12:00pm",
+      "email": "",
+      "phone": "909.629.6294",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "4:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1750 W. Holt",
+      "id": 591,
+      "hours_of_o": "Sat 9:00a.m.-12:00p.m. Bag of Food                             Hot meals Th at4:30p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.99862, 34.04048]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91746",
+      "services_a": "FB",
+      "city_1": "La Puente",
+      "agency": "Southern California HealthCare's",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.330.9277",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "554 Workman Mill Rd.",
+      "id": 600,
+      "hours_of_o": "2nd and 4th Tues of the month 1-4:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7443, 34.0625]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Sowing Seeds  For Life",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "370 E Holt Ave",
+      "id": 601,
+      "hours_of_o": "1st/3rd Wed 3-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.78584, 34.10068]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sowingseedsforlife.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91750",
+      "services_a": "FB",
+      "city_1": "La Verne",
+      "agency": "Sowing Seeds for Life",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.392.5777",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1350 Arrow Hwy.",
+      "id": 602,
+      "hours_of_o": "1st and 3rd Weds 12-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75748, 34.08997]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Sowing Seeds For Life",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1350 Arrow Hwy",
+      "id": 603,
+      "hours_of_o": "1st/3rd Wed 3-5pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73271, 34.06656]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "St Madeleine Catholic Church",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.865.4433",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "931 E. Kinsley Ave",
+      "id": 605,
+      "hours_of_o": "2nd Sat:11:00-12:00; Last Fri: 9-11"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.09074, 34.0749]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "6:00pm-7:30pm",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "FB",
+      "city_1": "San Gabriel",
+      "agency": "St. Anthony's Christian Service",
+      "friday_hrs": "6:00pm-7:30pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.288.8912",
+      "weds_hrs": "6:00pm-7:30pm",
+      "language_a": "",
+      "thurs_hrs": "6:00pm-7:30pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "6:00pm-7:30pm",
+      "street_add": "1901 S. San Gabriel Blvd",
+      "id": 609,
+      "hours_of_o": "Mon-Fri 6-7:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.83807, 34.10308]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.mystjohn.org",
+      "tues_hrs": "2:00pm-4:00pm",
+      "sun_hrs": "",
+      "postal": "91724",
+      "services_a": "FB",
+      "city_1": "Covina",
+      "agency": "St. John Coptic Orthodox",
+      "friday_hrs": "2:00pm-4:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.279.7774",
+      "weds_hrs": "2:00pm-4:00pm",
+      "language_a": "",
+      "thurs_hrs": "2:00pm-4:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "21329 Cienega Ave",
+      "id": 612,
+      "hours_of_o": "Tues-Fri 2-4:00pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.97853, 34.01034]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.sjvhh.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91745",
+      "services_a": "FB",
+      "city_1": "Hacienda Heights",
+      "agency": "St. John Vianney Church",
+      "friday_hrs": "",
+      "sat_hrs": "8:30am-12:30pm",
+      "email": "",
+      "phone": "626.330.2269",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "1345 Turnbull Canyon Rd",
+      "id": 613,
+      "hours_of_o": "Saturday 8:30am-12:30pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76954, 34.06187]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "St. Joseph's Church",
+      "friday_hrs": "9:00am-11:00am",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "",
+      "weds_hrs": "9:00am-11:00am",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-11:00am",
+      "street_add": "1150 W. Holt Ave",
+      "id": 614,
+      "hours_of_o": "Mon  Wed  Fri 9-11am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.03974, 33.97808]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90602",
+      "services_a": "FB",
+      "city_1": "Whittier",
+      "agency": "St. Mary's Place",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "562.698.0608",
+      "weds_hrs": "9:00am-12:00pm",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-12:00pm",
+      "street_add": "7033 Milton Ave",
+      "id": 615,
+      "hours_of_o": "Mon-Weds 9am-12pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.76954, 34.06187]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91768",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "St. Vincent De Paul",
+      "friday_hrs": "9:00am-11:00am",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.469.9773",
+      "weds_hrs": "9:00am-11:00am",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-11:00am",
+      "street_add": "1150 West Holt Ave",
+      "id": 616,
+      "hours_of_o": "Mon Weds Fri 9-11:00am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.07335, 34.09386]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91776",
+      "services_a": "FB",
+      "city_1": "San Gabriel",
+      "agency": "Temple City Spanish SDA Church",
+      "friday_hrs": "",
+      "sat_hrs": "1:00pm-3:00pm",
+      "email": "",
+      "phone": "626.286.8675",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "5116 N Rosemead Blvd",
+      "id": 625,
+      "hours_of_o": "Sat 1-3pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73277, 34.06209]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "9:00am-10:00am",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Total Restoration Ministries",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.7838",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "420 N. Reservoir St.",
+      "id": 638,
+      "hours_of_o": "Every Sun 9-10am"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.73277, 34.06209]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.totalrestorationministries.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Total Restoration Ministries",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.620.7838 866.750.6134",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "420 N. Reservoir",
+      "id": 639,
+      "hours_of_o": "Call to schedule an appointment  Food Pantry 4th Sunday of the month 1-3Pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74817, 34.06403]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "9:00am-3:00pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "Trinity Methodist Church",
+      "friday_hrs": "9:00am-3:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.629.9748",
+      "weds_hrs": "9:00am-3:00pm",
+      "language_a": "",
+      "thurs_hrs": "9:00am-3:00pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:00am-3:00pm",
+      "street_add": "676 N. Gibbs St.",
+      "id": 647,
+      "hours_of_o": "M-F 9:00a.m.-3:00p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.90834, 34.13366]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.villagecov.com",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91702",
+      "services_a": "FB",
+      "city_1": "Azusa",
+      "agency": "Village Covenant",
+      "friday_hrs": "9:00am-3:00pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "626.335.4013",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "5607 N Barrack Ave",
+      "id": 676,
+      "hours_of_o": "Fridays 9-3:00 pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75675, 34.04861]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "FCSED@aol.com",
+      "tues_hrs": "10:00am-2:00pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "W.E.W.I.N./For Christ's Sake",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.622.0094 909.721.2915",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "727 W. 12th St.",
+      "id": 688,
+      "hours_of_o": "Tuesdays 10:00 a.m. to 2:00 p.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.24109, 34.04544]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.weingart.org",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "90013",
+      "services_a": "FB",
+      "city_1": "Los Angeles",
+      "agency": "Weingart Center Association",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "213.627.9000",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "566 S. Pedro St",
+      "id": 692,
+      "hours_of_o": "Call for more information"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.75879, 34.05351]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "",
+      "tues_hrs": "",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "White Ave. Baptist",
+      "friday_hrs": "",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "909.622.2234",
+      "weds_hrs": "",
+      "language_a": "",
+      "thurs_hrs": "",
+      "services_1": "Food Bank",
+      "mon_hrs": "",
+      "street_add": "675 S. White Ave.",
+      "id": 698,
+      "hours_of_o": "2nd Monday of every month 9:00a.m."
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.89017, 34.09804]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91722",
+      "services_a": "FB",
+      "city_1": "Covina",
+      "agency": "WIC Program Covina WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "1012 Citrus Ave",
+      "id": 703,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.72077, 34.06301]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "WIC Program Indian Hill WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "1460 E. Holt Ave.",
+      "id": 704,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.92285, 34.01362]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "FB",
+      "city_1": "La Puente",
+      "agency": "WIC Program Industry Hills WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "417 S. Azusa Ave.",
+      "id": 705,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.7526, 34.08018]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91767",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "WIC Program N. Pomona WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888-942-2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "1890 N. Garey Ave.",
+      "id": 706,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.74908, 34.03074]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91766",
+      "services_a": "FB",
+      "city_1": "Pomona",
+      "agency": "WIC Program S. Pomona WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888-942-2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "2232 S. Garey Ave.",
+      "id": 707,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.93729, 34.03627]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91744",
+      "services_a": "FB",
+      "city_1": "City of Industry",
+      "agency": "WIC Program- Amar WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "15942 Amar Rd.",
+      "id": 708,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.04159, 34.07401]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfew.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91731",
+      "services_a": "FB",
+      "city_1": "El Monte",
+      "agency": "WIC Program- El Monte WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "3560 Santa Anita Ave",
+      "id": 709,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.05063, 34.06271]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfew.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91733",
+      "services_a": "FB",
+      "city_1": "El Monte",
+      "agency": "WIC Program- Garvey WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "10016 Garvey Av.",
+      "id": 710,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-118.07471, 34.08485]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91770",
+      "services_a": "FB",
+      "city_1": "Rosemead",
+      "agency": "WIC Program- Rosemead WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "8923 E. Mission Dr.",
+      "id": 711,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.90773, 34.13169]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91702",
+      "services_a": "FB",
+      "city_1": "Azusa",
+      "agency": "WIC Program-Azusa WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "1-888.942.2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "109 W. Sixth St.",
+      "id": 712,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }, {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-117.96047, 34.08939]
+    },
+    "type": "Feature",
+    "properties": {
+      "website": "www.phfewic.org",
+      "tues_hrs": "9:15am-5:15pm",
+      "sun_hrs": "",
+      "postal": "91706",
+      "services_a": "FB",
+      "city_1": "Baldwin Park",
+      "agency": "WIC Program-Baldwin Park WIC Center",
+      "friday_hrs": "10:00am-5:15pm",
+      "sat_hrs": "",
+      "email": "",
+      "phone": "1-888-942-2229",
+      "weds_hrs": "11:00am-7:15pm",
+      "language_a": "",
+      "thurs_hrs": "9:15am-5:15pm",
+      "services_1": "Food Bank",
+      "mon_hrs": "9:15am-5:15pm",
+      "street_add": "4239 Maine Ave.",
+      "id": 713,
+      "hours_of_o": "M-T-TH 9:15am-5:15pm/Wed 11am -7:15pm/Fri 10am-5:15pm"
+    }
+  }]
+}
